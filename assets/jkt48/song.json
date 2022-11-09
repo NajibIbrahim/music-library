@@ -1,0 +1,121 @@
+[
+    {
+      "title": "Flying High",
+      "subtitle": "JKT48",
+      "img": "/assets/images/Flying High.png",
+      "path": "/assets/mp3/Flying High.mp3",
+      "lyrics": "/assets/lyrics/Flying High.json"
+    },
+    {
+      "title": "Seventeen",
+      "subtitle": "JKT48",
+      "img": "/assets/images/Seventeen.png",
+      "path": "/assets/mp3/Seventeen.mp3",
+      "lyrics": "/assets/lyrics/Seventeen.json"
+    },
+    {
+      "title": "Heavy Rotation",
+      "subtitle": "JKT48",
+      "img": "/assets/images/Heavy Rotation.png",
+      "path": "/assets/mp3/Heavy Rotation.mp3",
+      "lyrics": "/assets/lyrics/Heavy Rotation.json"
+    },
+    {
+      "title": "Rapsodi",
+      "subtitle": "JKT48",
+      "img": "/assets/images/Rapsodi.png",
+      "path": "/assets/mp3/Rapsodi.mp3",
+      "lyrics": "/assets/lyrics/Rapsodi.json"
+    },
+    {
+      "title": "Only Today",
+      "subtitle": "JKT48",
+      "img": "/assets/images/Only Today.png",
+      "path": "/assets/mp3/Only Today.mp3",
+      "lyrics": "/assets/lyrics/Only Today.json"
+    },
+    {
+      "title": "Feel The Fire",
+      "subtitle": "JKT48",
+      "img": "/assets/images/Feel The Fire.png",
+      "path": "/assets/mp3/Feel The Fire.mp3",
+      "lyrics": "/assets/lyrics/Feel The Fire.json"
+    },
+    {
+      "title": "First Rabbit",
+      "subtitle": "JKT48",
+      "img": "/assets/images/First Rabbit.png",
+      "path": "/assets/mp3/First Rabbit.mp3",
+      "lyrics": "/assets/lyrics/First Rabbit.json"
+    },
+    {
+      "title": "Pesawat Kertas 365 Hari",
+      "subtitle": "JKT48",
+      "img": "/assets/images/Pesawat Kertas 365 Hari.png",
+      "path": "/assets/mp3/Pesawat Kertas 365 Hari.mp3",
+      "lyrics": "/assets/lyrics/Pesawat Kertas 365 Hari.json"
+    },
+    {
+      "title": "Fortune Cookie In Love",
+      "subtitle": "JKT48",
+      "img": "/assets/images/Fortune Cookie In Love.png",
+      "path": "/assets/mp3/Fortune Cookie In Love.mp3",
+      "lyrics": "/assets/lyrics/Fortune Cookie In Love.json"
+    },
+    {
+      "title": "Karena Kusuka Dirimu",
+      "subtitle": "JKT48",
+      "img": "/assets/images/Karena Kusuka Dirimu.png",
+      "path": "/assets/mp3/Karena Kusuka Dirimu.mp3",
+      "lyrics": "/assets/lyrics/Karena Kusuka Dirimu.json"
+    },
+    {
+      "title": "Baby Baby Baby",
+      "subtitle": "JKT48",
+      "img": "/assets/images/Baby Baby Baby.png",
+      "path": "/assets/mp3/Baby Baby Baby.mp3",
+      "lyrics": "/assets/lyrics/Baby Baby Baby.json"
+    },
+    {
+      "title": "Aitakatta",
+      "subtitle": "JKT48",
+      "img": "/assets/images/Aitakatta.png",
+      "path": "/assets/mp3/Aitakatta.mp3",
+      "lyrics": "/assets/lyrics/Aitakatta.json"
+    },
+    {
+      "title": "Bersepeda Berdua",
+      "subtitle": "JKT48",
+      "img": "/assets/images/Bersepeda Berdua.png",
+      "path": "/assets/mp3/Bersepeda Berdua.mp3",
+      "lyrics": "/assets/lyrics/Bersepeda Berdua.json"
+    },
+    {
+      "title": "Honest Man",
+      "subtitle": "JKT48",
+      "img": "/assets/images/Honest Man.png",
+      "path": "/assets/mp3/Honest Man.mp3",
+      "lyrics": "/assets/lyrics/Honest Man.json"
+    },
+    {
+      "title": "Dialog Dengan Kenari",
+      "subtitle": "JKT48",
+      "img": "/assets/images/Dialog Dengan Kenari.png",
+      "path": "/assets/mp3/Dialog Dengan Kenari.mp3",
+      "lyrics": "/assets/lyrics/Dialog Dengan Kenari.json"
+    },
+    {
+      "title": "Musim Panas Yang Kacau",
+      "subtitle": "JKT48",
+      "img": "/assets/images/Musim Panas Yang Kacau.png",
+      "path": "/assets/mp3/Musim Panas Yang Kacau.mp3",
+      "lyrics": "/assets/lyrics/Musim Panas Yang Kacau.json"
+    },
+    {
+      "title": "Tentang Suratku",
+      "subtitle": "JKT48",
+      "img": "/assets/images/Tentang Suratku.png",
+      "path": "/assets/mp3/Tentang Suratku.mp3",
+      "lyrics": "/assets/lyrics/Tentang Suratku.json"
+    }
+  ]
