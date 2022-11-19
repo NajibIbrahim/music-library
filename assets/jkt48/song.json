@@ -2,9 +2,16 @@
     {
       "title": "Flying High",
       "subtitle": "JKT48",
-      "img": "https://najibibrahim.github.io/music-library/assets/jkt48/images/Flying High.png",
-      "path": "https://najibibrahim.github.io/music-library/assets/jkt48/mp3/Flying%20High.mp3",
-      "lyrics": "https://najibibrahim.github.io/music-library/assets/jkt48/lyrics/Flying High.json"
+      "img": "https://najibibrahim.github.io/music-library/assets/jkt48/images/FlyingHigh.png",
+      "path": "https://najibibrahim.github.io/music-library/assets/jkt48/mp3/FlyingHigh.mp3",
+      "lyrics": "https://najibibrahim.github.io/music-library/assets/jkt48/lyrics/FlyingHigh.json"
+    },
+    {
+      "title": "Eureka Milik Kita",
+      "subtitle": "JKT48",
+      "img": "/assets/images/EurekaMilikKita.png",
+      "path": "/assets/mp3/EurekaMilikKita.mp3",
+      "lyrics": "/assets/lyrics/EurekaMilikKita.json"
     },
     {
       "title": "Seventeen",
@@ -16,9 +23,9 @@
     {
       "title": "Heavy Rotation",
       "subtitle": "JKT48",
-      "img": "https://najibibrahim.github.io/music-library/assets/jkt48/images/Heavy Rotation.png",
-      "path": "https://najibibrahim.github.io/music-library/assets/jkt48/mp3/Heavy%20Rotation.mp3",
-      "lyrics": "https://najibibrahim.github.io/music-library/assets/jkt48/lyrics/Heavy Rotation.json"
+      "img": "https://najibibrahim.github.io/music-library/assets/jkt48/images/HeavyRotation.png",
+      "path": "https://najibibrahim.github.io/music-library/assets/jkt48/mp3/HeavyRotation.mp3",
+      "lyrics": "https://najibibrahim.github.io/music-library/assets/jkt48/lyrics/HeavyRotation.json"
     },
     {
       "title": "Rapsodi",
@@ -30,51 +37,51 @@
     {
       "title": "Only Today",
       "subtitle": "JKT48",
-      "img": "https://najibibrahim.github.io/music-library/assets/jkt48/images/Only Today.png",
-      "path": "https://najibibrahim.github.io/music-library/assets/jkt48/mp3/Only%20Today.mp3",
-      "lyrics": "https://najibibrahim.github.io/music-library/assets/jkt48/lyrics/Only Today.json"
+      "img": "https://najibibrahim.github.io/music-library/assets/jkt48/images/OnlyToday.png",
+      "path": "https://najibibrahim.github.io/music-library/assets/jkt48/mp3/OnlyToday.mp3",
+      "lyrics": "https://najibibrahim.github.io/music-library/assets/jkt48/lyrics/OnlyToday.json"
     },
     {
       "title": "Feel The Fire",
       "subtitle": "JKT48",
-      "img": "https://najibibrahim.github.io/music-library/assets/jkt48/images/Feel The Fire.png",
-      "path": "https://najibibrahim.github.io/music-library/assets/jkt48/mp3/Feel%20The%20Fire.mp3",
-      "lyrics": "https://najibibrahim.github.io/music-library/assets/jkt48/lyrics/Feel The Fire.json"
+      "img": "https://najibibrahim.github.io/music-library/assets/jkt48/images/FeelTheFire.png",
+      "path": "https://najibibrahim.github.io/music-library/assets/jkt48/mp3/FeelTheFire.mp3",
+      "lyrics": "https://najibibrahim.github.io/music-library/assets/jkt48/lyrics/FeelTheFire.json"
     },
     {
-      "title": "First Rabbit",
+      "title": "Kelinci Pertama",
       "subtitle": "JKT48",
-      "img": "https://najibibrahim.github.io/music-library/assets/jkt48/images/First Rabbit.png",
-      "path": "https://najibibrahim.github.io/music-library/assets/jkt48/mp3/First%20Rabbit.mp3",
-      "lyrics": "https://najibibrahim.github.io/music-library/assets/jkt48/lyrics/First Rabbit.json"
+      "img": "https://najibibrahim.github.io/music-library/assets/jkt48/images/KelinciPertama.png",
+      "path": "https://najibibrahim.github.io/music-library/assets/jkt48/mp3/KelinciPertama.mp3",
+      "lyrics": "https://najibibrahim.github.io/music-library/assets/jkt48/lyrics/KelinciPertama.json"
     },
     {
       "title": "Pesawat Kertas 365 Hari",
       "subtitle": "JKT48",
-      "img": "https://najibibrahim.github.io/music-library/assets/jkt48/images/Pesawat Kertas 365 Hari.png",
-      "path": "https://najibibrahim.github.io/music-library/assets/jkt48/mp3/Pesawat%20Kertas%20365%20Hari.mp3",
-      "lyrics": "https://najibibrahim.github.io/music-library/assets/jkt48/lyrics/Pesawat Kertas 365 Hari.json"
+      "img": "https://najibibrahim.github.io/music-library/assets/jkt48/images/PesawatKertas365Hari.png",
+      "path": "https://najibibrahim.github.io/music-library/assets/jkt48/mp3/PesawatKertas365Hari.mp3",
+      "lyrics": "https://najibibrahim.github.io/music-library/assets/jkt48/lyrics/PesawatKertas365Hari.json"
     },
     {
       "title": "Fortune Cookie In Love",
       "subtitle": "JKT48",
-      "img": "https://najibibrahim.github.io/music-library/assets/jkt48/images/Fortune Cookie In Love.png",
-      "path": "https://najibibrahim.github.io/music-library/assets/jkt48/mp3/Fortune%20Cookie%20In%20Love.mp3",
-      "lyrics": "https://najibibrahim.github.io/music-library/assets/jkt48/lyrics/Fortune Cookie In Love.json"
+      "img": "https://najibibrahim.github.io/music-library/assets/jkt48/images/FortuneCookieInLove.png",
+      "path": "https://najibibrahim.github.io/music-library/assets/jkt48/mp3/FortuneCookieInLove.mp3",
+      "lyrics": "https://najibibrahim.github.io/music-library/assets/jkt48/lyrics/FortuneCookieInLove.json"
     },
     {
       "title": "Karena Kusuka Dirimu",
       "subtitle": "JKT48",
-      "img": "https://najibibrahim.github.io/music-library/assets/jkt48/images/Karena Kusuka Dirimu.png",
-      "path": "https://najibibrahim.github.io/music-library/assets/jkt48/mp3/Karena%20Kusuka%20Dirimu.mp3",
-      "lyrics": "https://najibibrahim.github.io/music-library/assets/jkt48/lyrics/Karena Kusuka Dirimu.json"
+      "img": "https://najibibrahim.github.io/music-library/assets/jkt48/images/KarenaKusukaDirimu.png",
+      "path": "https://najibibrahim.github.io/music-library/assets/jkt48/mp3/KarenaKusukaDirimu.mp3",
+      "lyrics": "https://najibibrahim.github.io/music-library/assets/jkt48/lyrics/KarenaKusukaDirimu.json"
     },
     {
       "title": "Baby Baby Baby",
       "subtitle": "JKT48",
-      "img": "https://najibibrahim.github.io/music-library/assets/jkt48/images/Baby Baby Baby.png",
-      "path": "https://najibibrahim.github.io/music-library/assets/jkt48/mp3/Baby%20Baby%20Baby.mp3",
-      "lyrics": "https://najibibrahim.github.io/music-library/assets/jkt48/lyrics/Baby Baby Baby.json"
+      "img": "https://najibibrahim.github.io/music-library/assets/jkt48/images/BabyBabyBaby.png",
+      "path": "https://najibibrahim.github.io/music-library/assets/jkt48/mp3/BabyBabyBaby.mp3",
+      "lyrics": "https://najibibrahim.github.io/music-library/assets/jkt48/lyrics/BabyBabyBaby.json"
     },
     {
       "title": "Aitakatta",
@@ -86,36 +93,106 @@
     {
       "title": "Bersepeda Berdua",
       "subtitle": "JKT48",
-      "img": "https://najibibrahim.github.io/music-library/assets/jkt48/images/Bersepeda Berdua.png",
-      "path": "https://najibibrahim.github.io/music-library/assets/jkt48/mp3/Bersepeda%20Berdua.mp3",
-      "lyrics": "https://najibibrahim.github.io/music-library/assets/jkt48/lyrics/Bersepeda Berdua.json"
+      "img": "https://najibibrahim.github.io/music-library/assets/jkt48/images/BersepedaBerdua.png",
+      "path": "https://najibibrahim.github.io/music-library/assets/jkt48/mp3/BersepedaBerdua.mp3",
+      "lyrics": "https://najibibrahim.github.io/music-library/assets/jkt48/lyrics/BersepedaBerdua.json"
     },
     {
       "title": "Honest Man",
       "subtitle": "JKT48",
-      "img": "https://najibibrahim.github.io/music-library/assets/jkt48/images/Honest Man.png",
-      "path": "https://najibibrahim.github.io/music-library/assets/jkt48/mp3/Honest%20Man.mp3",
-      "lyrics": "https://najibibrahim.github.io/music-library/assets/jkt48/lyrics/Honest Man.json"
+      "img": "https://najibibrahim.github.io/music-library/assets/jkt48/images/HonestMan.png",
+      "path": "https://najibibrahim.github.io/music-library/assets/jkt48/mp3/HonestMan.mp3",
+      "lyrics": "https://najibibrahim.github.io/music-library/assets/jkt48/lyrics/HonestMan.json"
     },
     {
       "title": "Dialog Dengan Kenari",
       "subtitle": "JKT48",
-      "img": "https://najibibrahim.github.io/music-library/assets/jkt48/images/Dialog Dengan Kenari.png",
-      "path": "https://najibibrahim.github.io/music-library/assets/jkt48/mp3/Dialog%20Dengan%20Kenari.mp3",
-      "lyrics": "https://najibibrahim.github.io/music-library/assets/jkt48/lyrics/Dialog Dengan Kenari.json"
+      "img": "https://najibibrahim.github.io/music-library/assets/jkt48/images/DialogDenganKenari.png",
+      "path": "https://najibibrahim.github.io/music-library/assets/jkt48/mp3/DialogDenganKenari.mp3",
+      "lyrics": "https://najibibrahim.github.io/music-library/assets/jkt48/lyrics/DialogDenganKenari.json"
     },
     {
       "title": "Musim Panas Yang Kacau",
       "subtitle": "JKT48",
-      "img": "https://najibibrahim.github.io/music-library/assets/jkt48/images/Musim Panas Yang Kacau.png",
-      "path": "https://najibibrahim.github.io/music-library/assets/jkt48/mp3/Musim%20Panas%20Yang%20Kacau.mp3",
-      "lyrics": "https://najibibrahim.github.io/music-library/assets/jkt48/lyrics/Musim Panas Yang Kacau.json"
+      "img": "https://najibibrahim.github.io/music-library/assets/jkt48/images/MusimPanasYangKacau.png",
+      "path": "https://najibibrahim.github.io/music-library/assets/jkt48/mp3/MusimPanasYangKacau.mp3",
+      "lyrics": "https://najibibrahim.github.io/music-library/assets/jkt48/lyrics/MusimPanasYangKacau.json"
     },
     {
       "title": "Tentang Suratku",
       "subtitle": "JKT48",
-      "img": "https://najibibrahim.github.io/music-library/assets/jkt48/images/Tentang Suratku.png",
-      "path": "https://najibibrahim.github.io/music-library/assets/jkt48/mp3/Tentang%20Suratku.mp3",
-      "lyrics": "https://najibibrahim.github.io/music-library/assets/jkt48/lyrics/Tentang Suratku.json"
+      "img": "https://najibibrahim.github.io/music-library/assets/jkt48/images/TentangSuratku.png",
+      "path": "https://najibibrahim.github.io/music-library/assets/jkt48/mp3/TentangSuratku.mp3",
+      "lyrics": "https://najibibrahim.github.io/music-library/assets/jkt48/lyrics/TentangSuratku.json"
+    },
+    {
+      "title": "Cara Ceroboh Untuk Mencinta",
+      "subtitle": "JKT48",
+      "img": "/assets/images/CaraCerobohUntukMencinta.png",
+      "path": "/assets/mp3/CaraCerobohUntukMencinta.mp3",
+      "lyrics": "/assets/lyrics/CaraCerobohUntukMencinta.json"
+    },
+    {
+      "title": "Dirimu Melody",
+      "subtitle": "JKT48",
+      "img": "/assets/images/DirimuMelody.png",
+      "path": "/assets/mp3/DirimuMelody.mp3",
+      "lyrics": "/assets/lyrics/DirimuMelody.json"
+    },
+    {
+      "title": "Everyday Kachuusha",
+      "subtitle": "JKT48",
+      "img": "/assets/images/EverydayKachuusha.png",
+      "path": "/assets/mp3/EverydayKachuusha.mp3",
+      "lyrics": "/assets/lyrics/EverydayKachuusha.json"
+    },
+    {
+      "title": "Flying Get",
+      "subtitle": "JKT48",
+      "img": "/assets/images/FlyingGet.png",
+      "path": "/assets/mp3/FlyingGet.mp3",
+      "lyrics": "/assets/lyrics/FlyingGet.json"
+    },
+    {
+      "title": "Halloween night",
+      "subtitle": "JKT48",
+      "img": "/assets/images/HalloweenNight.png",
+      "path": "/assets/mp3/HalloweenNight.mp3",
+      "lyrics": "/assets/lyrics/HalloweenNight.json"
+    },
+    {
+      "title": "High tension",
+      "subtitle": "JKT48",
+      "img": "/assets/images/HighTension.png",
+      "path": "/assets/mp3/HighTension.mp3",
+      "lyrics": "/assets/lyrics/HighTension.json"
+    },
+    {
+      "title": "Menanti",
+      "subtitle": "JKT48",
+      "img": "/assets/images/Menanti.png",
+      "path": "/assets/mp3/Menanti.mp3",
+      "lyrics": "/assets/lyrics/Menanti.json"
+    },
+    {
+      "title": "River",
+      "subtitle": "JKT48",
+      "img": "/assets/images/River.png",
+      "path": "/assets/mp3/River.mp3",
+      "lyrics": "/assets/lyrics/River.json"
+    },
+    {
+      "title": "Suka Suka Suka",
+      "subtitle": "JKT48",
+      "img": "/assets/images/SukaSukaSuka.png",
+      "path": "/assets/mp3/SukaSukaSuka.mp3",
+      "lyrics": "/assets/lyrics/SukaSukaSuka.json"
+    },
+    {
+      "title": "Sweet Bitter",
+      "subtitle": "JKT48",
+      "img": "/assets/images/SweetBitter.png",
+      "path": "/assets/mp3/SweetBitter.mp3",
+      "lyrics": "/assets/lyrics/SweetBitter.json"
     }
   ]
