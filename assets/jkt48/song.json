@@ -9,9 +9,9 @@
     {
       "title": "Eureka Milik Kita",
       "subtitle": "Zee JKT48",
-      "img": "/assets/images/EurekaMilikKita.png",
-      "path": "/assets/mp3/EurekaMilikKita.mp3",
-      "lyrics": "/assets/lyrics/EurekaMilikKita.json"
+      "img": "https://najibibrahim.github.io/music-library/assets/jkt48/images/EurekaMilikKita.png",
+      "path": "https://najibibrahim.github.io/music-library/assets/jkt48/mp3/EurekaMilikKita.mp3",
+      "lyrics": "https://najibibrahim.github.io/music-library/assets/jkt48/lyrics/EurekaMilikKita.json"
     },
     {
       "title": "Seventeen",
