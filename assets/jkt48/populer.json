@@ -1,0 +1,34 @@
+[
+  {
+    "title": "Flying High",
+    "subtitle": "JKT48",
+    "cover": "https://najibibrahim.github.io/music-library/assets/jkt48/images/populer1.png",
+    "img": "https://najibibrahim.github.io/music-library/assets/jkt48/images/FlyingHigh.png",
+    "path": "https://najibibrahim.github.io/music-library/assets/jkt48/mp3/FlyingHigh.mp3",
+    "lyrics": "https://najibibrahim.github.io/music-library/assets/jkt48/lyrics/FlyingHigh.json"
+  },
+  {
+    "title": "Eureka Milik Kita",
+    "subtitle": "Zee JKT48",
+    "cover": "https://najibibrahim.github.io/music-library/assets/jkt48/images/populer2.png",
+    "img": "https://najibibrahim.github.io/music-library/assets/jkt48/images/EurekaMilikKita.png",
+    "path": "https://najibibrahim.github.io/music-library/assets/jkt48/mp3/EurekaMilikKita.mp3",
+    "lyrics": "https://najibibrahim.github.io/music-library/assets/jkt48/lyrics/EurekaMilikKita.json"
+  },
+  {
+    "title": "Seventeen",
+    "subtitle": "JKT48",
+    "cover": "https://najibibrahim.github.io/music-library/assets/jkt48/images/populer3.png",
+    "img": "https://najibibrahim.github.io/music-library/assets/jkt48/images/Seventeen.png",
+    "path": "https://najibibrahim.github.io/music-library/assets/jkt48/mp3/Seventeen.mp3",
+    "lyrics": "https://najibibrahim.github.io/music-library/assets/jkt48/lyrics/Seventeen.json"
+  },
+  {
+    "title": "Rapsodi",
+    "subtitle": "JKT48",
+    "cover": "https://najibibrahim.github.io/music-library/assets/jkt48/images/populer4.png",
+    "img": "https://najibibrahim.github.io/music-library/assets/jkt48/images/Rapsodi.png",
+    "path": "https://najibibrahim.github.io/music-library/assets/jkt48/mp3/Rapsodi.mp3",
+    "lyrics": "https://najibibrahim.github.io/music-library/assets/jkt48/lyrics/Rapsodi.json"
+  }
+]
