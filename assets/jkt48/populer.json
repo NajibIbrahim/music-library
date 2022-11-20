@@ -1,6 +1,6 @@
 [
   {
-    "title": "Flying High",
+    "title": "flying high",
     "subtitle": "JKT48",
     "cover": "https://najibibrahim.github.io/music-library/assets/jkt48/images/populer1.png",
     "img": "https://najibibrahim.github.io/music-library/assets/jkt48/images/FlyingHigh.png",
@@ -8,7 +8,7 @@
     "lyrics": "https://najibibrahim.github.io/music-library/assets/jkt48/lyrics/FlyingHigh.json"
   },
   {
-    "title": "Eureka Milik Kita",
+    "title": "eureka milik kita",
     "subtitle": "Zee JKT48",
     "cover": "https://najibibrahim.github.io/music-library/assets/jkt48/images/populer2.png",
     "img": "https://najibibrahim.github.io/music-library/assets/jkt48/images/EurekaMilikKita.png",
@@ -16,17 +16,25 @@
     "lyrics": "https://najibibrahim.github.io/music-library/assets/jkt48/lyrics/EurekaMilikKita.json"
   },
   {
-    "title": "Seventeen",
+    "title": "pesawat kertas 365 hari",
     "subtitle": "JKT48",
     "cover": "https://najibibrahim.github.io/music-library/assets/jkt48/images/populer3.png",
+    "img": "https://najibibrahim.github.io/music-library/assets/jkt48/images/PesawatKertas365Hari.png",
+    "path": "https://najibibrahim.github.io/music-library/assets/jkt48/mp3/PesawatKertas365Hari.mp3",
+    "lyrics": "https://najibibrahim.github.io/music-library/assets/jkt48/lyrics/PesawatKertas365Hari.json"
+  },
+  {
+    "title": "seventeen",
+    "subtitle": "JKT48",
+    "cover": "https://najibibrahim.github.io/music-library/assets/jkt48/images/populer4.png",
     "img": "https://najibibrahim.github.io/music-library/assets/jkt48/images/Seventeen.png",
     "path": "https://najibibrahim.github.io/music-library/assets/jkt48/mp3/Seventeen.mp3",
     "lyrics": "https://najibibrahim.github.io/music-library/assets/jkt48/lyrics/Seventeen.json"
   },
   {
-    "title": "Rapsodi",
+    "title": "rapsodi",
     "subtitle": "JKT48",
-    "cover": "https://najibibrahim.github.io/music-library/assets/jkt48/images/populer4.png",
+    "cover": "https://najibibrahim.github.io/music-library/assets/jkt48/images/populer5.png",
     "img": "https://najibibrahim.github.io/music-library/assets/jkt48/images/Rapsodi.png",
     "path": "https://najibibrahim.github.io/music-library/assets/jkt48/mp3/Rapsodi.mp3",
     "lyrics": "https://najibibrahim.github.io/music-library/assets/jkt48/lyrics/Rapsodi.json"
