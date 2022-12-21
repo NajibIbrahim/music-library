@@ -1,0 +1,98 @@
+[
+  {
+    "name": "kartuHalo",
+    "operator": "Telkomsel",
+    "code": [11],
+    "image": "Telkomsel.png"
+  },
+  {
+    "name": "simPATI",
+    "operator": "Telkomsel",
+    "code": [12, 13, 21],
+    "image": "Telkomsel.png"
+  },
+  {
+    "name": "LOOP",
+    "operator": "Telkomsel",
+    "code": [22],
+    "image": "Telkomsel.png"
+  },
+  {
+    "name": "KARTU As",
+    "operator": "Telkomsel",
+    "code": [21, 23, 52, 53],
+    "image": "Telkomsel.png"
+  },
+  {
+    "name": "by.U / Kartu As",
+    "operator": "Telkomsel",
+    "code": [51],
+    "image": "Telkomsel.png"
+  },
+  {
+    "name": "IndosatM2",
+    "operator": "Indosat Ooredoo",
+    "code": [14],
+    "image": "Indosat.png"
+  },
+  {
+    "name": "Matrix",
+    "operator": "Indosat Ooredoo",
+    "code": [55],
+    "image": "Indosat.png"
+  },
+  {
+    "name": "Mentari",
+    "operator": "Indosat Ooredoo",
+    "code": [58],
+    "image": "Indosat.png"
+  },
+  {
+    "name": "Mentari/Matrix",
+    "operator": "Indosat Ooredoo",
+    "code": [15, 16],
+    "image": "Indosat.png"
+  },
+  {
+    "name": "IM3",
+    "operator": "Indosat Ooredoo",
+    "code": [56, 57],
+    "image": "Indosat.png"
+  },
+  {
+    "name": "XL",
+    "operator": "XL Axiata",
+    "code": [17, 18, 19, 59, 77, 78, 79],
+    "image": "XL.png"
+  },
+  {
+    "name": "Axis",
+    "operator": "XL Axiata",
+    "code": [31, 32, 33, 38],
+    "image": "Axis.png"
+  },
+  {
+    "name": "3",
+    "operator": "3",
+    "code": [95, 96, 97, 98, 99],
+    "image": "Three.png"
+  },
+  {
+    "name": "Smartfren",
+    "operator": "Smartfren",
+    "code": [81, 82, 83, 84, 85, 86, 87, 88, 89],
+    "image": "Smartfreen.png"
+  },
+  {
+    "name": "Net1",
+    "operator": "Net1",
+    "code": [27, 28],
+    "image": ""
+  },
+  {
+    "name": "ByRU",
+    "operator": "ByRU",
+    "code": [68],
+    "image": ""
+  }
+]
