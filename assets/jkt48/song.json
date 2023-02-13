@@ -14,18 +14,18 @@
       "lyrics": "https://najibibrahim.github.io/music-library/assets/jkt48/lyrics/FlyingHigh.json"
     },
     {
-      "title": "eureka milik kita",
-      "subtitle": "Zee JKT48",
-      "img": "https://najibibrahim.github.io/music-library/assets/jkt48/images/EurekaMilikKita.png",
-      "path": "https://najibibrahim.github.io/music-library/assets/jkt48/mp3/EurekaMilikKita.mp3",
-      "lyrics": "https://najibibrahim.github.io/music-library/assets/jkt48/lyrics/EurekaMilikKita.json"
-    },
-    {
       "title": "seventeen",
       "subtitle": "JKT48",
       "img": "https://najibibrahim.github.io/music-library/assets/jkt48/images/Seventeen.png",
       "path": "https://najibibrahim.github.io/music-library/assets/jkt48/mp3/Seventeen.mp3",
       "lyrics": "https://najibibrahim.github.io/music-library/assets/jkt48/lyrics/Seventeen.json"
+    },
+    {
+      "title": "eureka milik kita",
+      "subtitle": "Zee JKT48",
+      "img": "https://najibibrahim.github.io/music-library/assets/jkt48/images/EurekaMilikKita.png",
+      "path": "https://najibibrahim.github.io/music-library/assets/jkt48/mp3/EurekaMilikKita.mp3",
+      "lyrics": "https://najibibrahim.github.io/music-library/assets/jkt48/lyrics/EurekaMilikKita.json"
     },
     {
       "title": "heavy rotation",
