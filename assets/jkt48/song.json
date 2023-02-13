@@ -1,5 +1,12 @@
 [
     {
+      "title": "green flash",
+      "subtitle": "JKT48",
+      "img": "https://najibibrahim.github.io/music-library/assets/jkt48/images/GreenFlash.png",
+      "path": "https://najibibrahim.github.io/music-library/assets/jkt48/mp3/GreenFlash.mp3",
+      "lyrics": "https://najibibrahim.github.io/music-library/assets/jkt48/lyrics/GreenFlash.json"
+    },
+    {
       "title": "flying high",
       "subtitle": "JKT48",
       "img": "https://najibibrahim.github.io/music-library/assets/jkt48/images/FlyingHigh.png",
