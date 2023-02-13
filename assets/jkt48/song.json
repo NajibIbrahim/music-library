@@ -28,34 +28,6 @@
       "lyrics": "https://najibibrahim.github.io/music-library/assets/jkt48/lyrics/EurekaMilikKita.json"
     },
     {
-      "title": "heavy rotation",
-      "subtitle": "JKT48",
-      "img": "https://najibibrahim.github.io/music-library/assets/jkt48/images/HeavyRotation.png",
-      "path": "https://najibibrahim.github.io/music-library/assets/jkt48/mp3/HeavyRotation.mp3",
-      "lyrics": "https://najibibrahim.github.io/music-library/assets/jkt48/lyrics/HeavyRotation.json"
-    },
-    {
-      "title": "rapsodi",
-      "subtitle": "JKT48",
-      "img": "https://najibibrahim.github.io/music-library/assets/jkt48/images/Rapsodi.png",
-      "path": "https://najibibrahim.github.io/music-library/assets/jkt48/mp3/Rapsodi.mp3",
-      "lyrics": "https://najibibrahim.github.io/music-library/assets/jkt48/lyrics/Rapsodi.json"
-    },
-    {
-      "title": "only today",
-      "subtitle": "JKT48",
-      "img": "https://najibibrahim.github.io/music-library/assets/jkt48/images/OnlyToday.png",
-      "path": "https://najibibrahim.github.io/music-library/assets/jkt48/mp3/OnlyToday.mp3",
-      "lyrics": "https://najibibrahim.github.io/music-library/assets/jkt48/lyrics/OnlyToday.json"
-    },
-    {
-      "title": "feel the fire",
-      "subtitle": "JKT48",
-      "img": "https://najibibrahim.github.io/music-library/assets/jkt48/images/FeelTheFire.png",
-      "path": "https://najibibrahim.github.io/music-library/assets/jkt48/mp3/FeelTheFire.mp3",
-      "lyrics": "https://najibibrahim.github.io/music-library/assets/jkt48/lyrics/FeelTheFire.json"
-    },
-    {
       "title": "kelinci pertama",
       "subtitle": "JKT48",
       "img": "https://najibibrahim.github.io/music-library/assets/jkt48/images/KelinciPertama.png",
@@ -75,6 +47,27 @@
       "img": "https://najibibrahim.github.io/music-library/assets/jkt48/images/FortuneCookieInLove.png",
       "path": "https://najibibrahim.github.io/music-library/assets/jkt48/mp3/FortuneCookieInLove.mp3",
       "lyrics": "https://najibibrahim.github.io/music-library/assets/jkt48/lyrics/FortuneCookieInLove.json"
+    },
+    {
+      "title": "heavy rotation",
+      "subtitle": "JKT48",
+      "img": "https://najibibrahim.github.io/music-library/assets/jkt48/images/HeavyRotation.png",
+      "path": "https://najibibrahim.github.io/music-library/assets/jkt48/mp3/HeavyRotation.mp3",
+      "lyrics": "https://najibibrahim.github.io/music-library/assets/jkt48/lyrics/HeavyRotation.json"
+    },
+    {
+      "title": "rapsodi",
+      "subtitle": "JKT48",
+      "img": "https://najibibrahim.github.io/music-library/assets/jkt48/images/Rapsodi.png",
+      "path": "https://najibibrahim.github.io/music-library/assets/jkt48/mp3/Rapsodi.mp3",
+      "lyrics": "https://najibibrahim.github.io/music-library/assets/jkt48/lyrics/Rapsodi.json"
+    },
+    {
+      "title": "only today",
+      "subtitle": "JKT48",
+      "img": "https://najibibrahim.github.io/music-library/assets/jkt48/images/OnlyToday.png",
+      "path": "https://najibibrahim.github.io/music-library/assets/jkt48/mp3/OnlyToday.mp3",
+      "lyrics": "https://najibibrahim.github.io/music-library/assets/jkt48/lyrics/OnlyToday.json"
     },
     {
       "title": "karena kusuka dirimu",
@@ -110,6 +103,13 @@
       "img": "https://najibibrahim.github.io/music-library/assets/jkt48/images/HonestMan.png",
       "path": "https://najibibrahim.github.io/music-library/assets/jkt48/mp3/HonestMan.mp3",
       "lyrics": "https://najibibrahim.github.io/music-library/assets/jkt48/lyrics/HonestMan.json"
+    },
+    {
+      "title": "feel the fire",
+      "subtitle": "JKT48",
+      "img": "https://najibibrahim.github.io/music-library/assets/jkt48/images/FeelTheFire.png",
+      "path": "https://najibibrahim.github.io/music-library/assets/jkt48/mp3/FeelTheFire.mp3",
+      "lyrics": "https://najibibrahim.github.io/music-library/assets/jkt48/lyrics/FeelTheFire.json"
     },
     {
       "title": "dialog dengan kenari",
