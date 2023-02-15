@@ -14,11 +14,25 @@
       "lyrics": "https://najibibrahim.github.io/music-library/assets/jkt48/lyrics/JurusRahasiaTeleport.json"
     },
     {
+      "title": "ponytail dan shu-shu",
+      "subtitle": "JKT48",
+      "img": "https://najibibrahim.github.io/music-library/assets/jkt48/images/PonytaildanShu-Shu.png",
+      "path": "https://najibibrahim.github.io/music-library/assets/jkt48/mp3/PonytaildanShu-Shu.mp3",
+      "lyrics": "https://najibibrahim.github.io/music-library/assets/jkt48/lyrics/PonytaildanShu-Shu.json"
+    },
+    {
       "title": "flying high",
       "subtitle": "JKT48",
       "img": "https://najibibrahim.github.io/music-library/assets/jkt48/images/FlyingHigh.png",
       "path": "https://najibibrahim.github.io/music-library/assets/jkt48/mp3/FlyingHigh.mp3",
       "lyrics": "https://najibibrahim.github.io/music-library/assets/jkt48/lyrics/FlyingHigh.json"
+    },
+    {
+      "title": "shonichi (Hari Pertama)",
+      "subtitle": "JKT48",
+      "img": "https://najibibrahim.github.io/music-library/assets/jkt48/images/Shonichi.png",
+      "path": "https://najibibrahim.github.io/music-library/assets/jkt48/mp3/Shonichi.mp3",
+      "lyrics": "https://najibibrahim.github.io/music-library/assets/jkt48/lyrics/Shonichi.json"
     },
     {
       "title": "seventeen",
@@ -56,6 +70,13 @@
       "lyrics": "https://najibibrahim.github.io/music-library/assets/jkt48/lyrics/FortuneCookieInLove.json"
     },
     {
+      "title": "bunga sakuraku",
+      "subtitle": "JKT48",
+      "img": "https://najibibrahim.github.io/music-library/assets/jkt48/images/BungaSakuraku.png",
+      "path": "https://najibibrahim.github.io/music-library/assets/jkt48/mp3/BungaSakuraku.mp3",
+      "lyrics": "https://najibibrahim.github.io/music-library/assets/jkt48/lyrics/BungaSakuraku.json"
+    },
+    {
       "title": "heavy rotation",
       "subtitle": "JKT48",
       "img": "https://najibibrahim.github.io/music-library/assets/jkt48/images/HeavyRotation.png",
@@ -89,6 +110,13 @@
       "img": "https://najibibrahim.github.io/music-library/assets/jkt48/images/BabyBabyBaby.png",
       "path": "https://najibibrahim.github.io/music-library/assets/jkt48/mp3/BabyBabyBaby.mp3",
       "lyrics": "https://najibibrahim.github.io/music-library/assets/jkt48/lyrics/BabyBabyBaby.json"
+    },
+    {
+      "title": "wassshoi j",
+      "subtitle": "JKT48",
+      "img": "https://najibibrahim.github.io/music-library/assets/jkt48/images/WasshoiJ.png",
+      "path": "https://najibibrahim.github.io/music-library/assets/jkt48/mp3/WasshoiJ.mp3",
+      "lyrics": "https://najibibrahim.github.io/music-library/assets/jkt48/lyrics/WasshoiJ.json"
     },
     {
       "title": "aitakatta",
