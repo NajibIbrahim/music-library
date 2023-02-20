@@ -147,6 +147,13 @@
     "lyrics": "https://najibibrahim.github.io/music-library/assets/jkt48/lyrics/KelinciPertama.json"
   },
   {
+    "title": "maafkan summer",
+    "subtitle": "JKT48",
+    "img": "https://najibibrahim.github.io/music-library/assets/jkt48/images/MaafkanSummer.png",
+    "path": "https://najibibrahim.github.io/music-library/assets/jkt48/mp3/MaafkanSummer.mp3",
+    "lyrics": "https://najibibrahim.github.io/music-library/assets/jkt48/lyrics/MaafkanSummer.json"
+  },
+  {
     "title": "menanti",
     "subtitle": "Shani JKT48",
     "img": "https://najibibrahim.github.io/music-library/assets/jkt48/images/Menanti.png",
@@ -187,6 +194,13 @@
     "img": "https://najibibrahim.github.io/music-library/assets/jkt48/images/Rapsodi.png",
     "path": "https://najibibrahim.github.io/music-library/assets/jkt48/mp3/Rapsodi.mp3",
     "lyrics": "https://najibibrahim.github.io/music-library/assets/jkt48/lyrics/Rapsodi.json"
+  },
+  {
+    "title": "refrain penuh harapan",
+    "subtitle": "JKT48",
+    "img": "https://najibibrahim.github.io/music-library/assets/jkt48/images/RefrainPenuhHarapan.png",
+    "path": "https://najibibrahim.github.io/music-library/assets/jkt48/mp3/RefrainPenuhHarapan.mp3",
+    "lyrics": "https://najibibrahim.github.io/music-library/assets/jkt48/lyrics/RefrainPenuhHarapan.json"
   },
   {
     "title": "river",
