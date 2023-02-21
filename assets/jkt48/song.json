@@ -28,6 +28,13 @@
     "lyrics": "https://najibibrahim.github.io/music-library/assets/jkt48/lyrics/BungaSakuraku.json"
   },
   {
+    "title": "candy",
+    "subtitle": "JKT48",
+    "img": "https://najibibrahim.github.io/music-library/assets/jkt48/images/Candy.png",
+    "path": "https://najibibrahim.github.io/music-library/assets/jkt48/mp3/Candy.mp3",
+    "lyrics": "https://najibibrahim.github.io/music-library/assets/jkt48/lyrics/Candy.json"
+  },
+  {
     "title": "cara ceroboh untuk mencinta",
     "subtitle": "JKT48",
     "img": "https://najibibrahim.github.io/music-library/assets/jkt48/images/CaraCerobohUntukMencinta.png",
@@ -210,6 +217,13 @@
     "lyrics": "https://najibibrahim.github.io/music-library/assets/jkt48/lyrics/River.json"
   },
   {
+    "title": "selamanya pressure",
+    "subtitle": "JKT48",
+    "img": "https://najibibrahim.github.io/music-library/assets/jkt48/images/SelamanyaPressure.png",
+    "path": "https://najibibrahim.github.io/music-library/assets/jkt48/mp3/SelamanyaPressure.mp3",
+    "lyrics": "https://najibibrahim.github.io/music-library/assets/jkt48/lyrics/SelamanyaPressure.json"
+  },
+  {
     "title": "seventeen",
     "subtitle": "JKT48",
     "img": "https://najibibrahim.github.io/music-library/assets/jkt48/images/Seventeen.png",
@@ -250,5 +264,12 @@
     "img": "https://najibibrahim.github.io/music-library/assets/jkt48/images/WasshoiJ.png",
     "path": "https://najibibrahim.github.io/music-library/assets/jkt48/mp3/WasshoiJ.mp3",
     "lyrics": "https://najibibrahim.github.io/music-library/assets/jkt48/lyrics/WasshoiJ.json"
+  },
+  {
+    "title": "yuuhi wo miteiruka",
+    "subtitle": "JKT48",
+    "img": "https://najibibrahim.github.io/music-library/assets/jkt48/images/YuuhiWoMiteiruka.png",
+    "path": "https://najibibrahim.github.io/music-library/assets/jkt48/mp3/YuuhiWoMiteiruka.mp3",
+    "lyrics": "https://najibibrahim.github.io/music-library/assets/jkt48/lyrics/YuuhiWoMiteiruka.json"
   }
 ]
