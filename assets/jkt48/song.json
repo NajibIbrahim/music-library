@@ -7,6 +7,13 @@
     "lyrics": "https://najibibrahim.github.io/music-library/assets/jkt48/lyrics/Aitakatta.json"
   },
   {
+    "title": "apakah kau melihat mentari senja",
+    "subtitle": "JKT48",
+    "img": "https://najibibrahim.github.io/music-library/assets/jkt48/images/ApakahKauMelihatMentariSenja.png",
+    "path": "https://najibibrahim.github.io/music-library/assets/jkt48/mp3/ApakahKauMelihatMentariSenja.mp3",
+    "lyrics": "https://najibibrahim.github.io/music-library/assets/jkt48/lyrics/ApakahKauMelihatMentariSenja.json"
+  },
+  {
     "title": "baby baby baby",
     "subtitle": "JKT48",
     "img": "https://najibibrahim.github.io/music-library/assets/jkt48/images/BabyBabyBaby.png",
@@ -278,12 +285,5 @@
     "img": "https://najibibrahim.github.io/music-library/assets/jkt48/images/WasshoiJ.png",
     "path": "https://najibibrahim.github.io/music-library/assets/jkt48/mp3/WasshoiJ.mp3",
     "lyrics": "https://najibibrahim.github.io/music-library/assets/jkt48/lyrics/WasshoiJ.json"
-  },
-  {
-    "title": "yuuhi wo miteiruka",
-    "subtitle": "JKT48",
-    "img": "https://najibibrahim.github.io/music-library/assets/jkt48/images/YuuhiWoMiteiruka.png",
-    "path": "https://najibibrahim.github.io/music-library/assets/jkt48/mp3/YuuhiWoMiteiruka.mp3",
-    "lyrics": "https://najibibrahim.github.io/music-library/assets/jkt48/lyrics/YuuhiWoMiteiruka.json"
   }
 ]
