@@ -133,6 +133,13 @@
     "lyrics": "https://najibibrahim.github.io/music-library/assets/jkt48/lyrics/HonestMan.json"
   },
   {
+    "title": "indahnya senyum manismu",
+    "subtitle": "JKT48",
+    "img": "https://najibibrahim.github.io/music-library/assets/jkt48/images/IndahnyaSenyumManismu.png",
+    "path": "https://najibibrahim.github.io/music-library/assets/jkt48/mp3/IndahnyaSenyumManismu.mp3",
+    "lyrics": "https://najibibrahim.github.io/music-library/assets/jkt48/lyrics/IndahnyaSenyumManismu.json"
+  },
+  {
     "title": "jurus rahasia teleport",
     "subtitle": "JKT48",
     "img": "https://najibibrahim.github.io/music-library/assets/jkt48/images/JurusRahasiaTeleport.png",
@@ -257,6 +264,13 @@
     "img": "https://najibibrahim.github.io/music-library/assets/jkt48/images/TentangSuratku.png",
     "path": "https://najibibrahim.github.io/music-library/assets/jkt48/mp3/TentangSuratku.mp3",
     "lyrics": "https://najibibrahim.github.io/music-library/assets/jkt48/lyrics/TentangSuratku.json"
+  },
+  {
+    "title": "teriakan diamond",
+    "subtitle": "JKT48",
+    "img": "https://najibibrahim.github.io/music-library/assets/jkt48/images/TeriakanDiamond.png",
+    "path": "https://najibibrahim.github.io/music-library/assets/jkt48/mp3/TeriakanDiamond.mp3",
+    "lyrics": "https://najibibrahim.github.io/music-library/assets/jkt48/lyrics/TeriakanDiamond.json"
   },
   {
     "title": "wassshoi j",
