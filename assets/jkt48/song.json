@@ -119,6 +119,13 @@
     "lyrics": "https://najibibrahim.github.io/music-library/assets/jkt48/lyrics/FortuneCookieInLove.json"
   },
   {
+    "title": "gingham check",
+    "subtitle": "JKT48",
+    "img": "https://najibibrahim.github.io/music-library/assets/jkt48/images/GinghamCheck.png",
+    "path": "https://najibibrahim.github.io/music-library/assets/jkt48/mp3/GinghamCheck.mp3",
+    "lyrics": "https://najibibrahim.github.io/music-library/assets/jkt48/lyrics/GinghamCheck.json"
+  },
+  {
     "title": "green flash",
     "subtitle": "JKT48",
     "img": "https://najibibrahim.github.io/music-library/assets/jkt48/images/GreenFlash.png",
