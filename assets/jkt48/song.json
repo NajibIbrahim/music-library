@@ -28,6 +28,13 @@
     "lyrics": "https://najibibrahim.github.io/music-library/assets/jkt48/lyrics/BabyBabyBaby.json"
   },
   {
+    "title": "benang sari, putik, dan kupu-kupu malam",
+    "subtitle": "JKT48",
+    "img": "https://najibibrahim.github.io/music-library/assets/jkt48/images/BenangSari,Putik,danKupu-KupuMalam.png",
+    "path": "https://najibibrahim.github.io/music-library/assets/jkt48/mp3/BenangSari,Putik,danKupu-KupuMalam.mp3",
+    "lyrics": "https://najibibrahim.github.io/music-library/assets/jkt48/lyrics/BenangSari,Putik,danKupu-KupuMalam.json"
+  },
+  {
     "title": "bersepeda berdua",
     "subtitle": "JKT48",
     "img": "https://najibibrahim.github.io/music-library/assets/jkt48/images/BersepedaBerdua.png",
