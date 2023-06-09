@@ -231,6 +231,13 @@
     "lyrics": "https://najibibrahim.github.io/music-library/assets/jkt48/lyrics/OnlyToday.json"
   },
   {
+    "title": "pajama drive",
+    "subtitle": "JKT48",
+    "img": "https://najibibrahim.github.io/music-library/assets/jkt48/images/PajamaDrive.png",
+    "path": "https://najibibrahim.github.io/music-library/assets/jkt48/mp3/PajamaDrive.mp3",
+    "lyrics": "https://najibibrahim.github.io/music-library/assets/jkt48/lyrics/PajamaDrive.json"
+  },
+  {
     "title": "pesawat kertas 365 hari",
     "subtitle": "JKT48",
     "img": "https://najibibrahim.github.io/music-library/assets/jkt48/images/PesawatKertas365Hari.png",
