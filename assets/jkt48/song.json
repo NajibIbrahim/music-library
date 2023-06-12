@@ -175,6 +175,13 @@
     "lyrics": "https://najibibrahim.github.io/music-library/assets/jkt48/lyrics/Jakarta48.json"
   },
   {
+    "title": "jiwaru days",
+    "subtitle": "JKT48",
+    "img": "https://najibibrahim.github.io/music-library/assets/jkt48/images/JiwaruDays.png",
+    "path": "https://najibibrahim.github.io/music-library/assets/jkt48/mp3/JiwaruDays.mp3",
+    "lyrics": "https://najibibrahim.github.io/music-library/assets/jkt48/lyrics/JiwaruDays.json"
+  },
+  {
     "title": "jurus rahasia teleport",
     "subtitle": "JKT48",
     "img": "https://najibibrahim.github.io/music-library/assets/jkt48/images/JurusRahasiaTeleport.png",
