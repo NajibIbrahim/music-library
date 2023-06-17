@@ -7,6 +7,13 @@
     "lyrics": "https://najibibrahim.github.io/music-library/assets/jkt48/lyrics/AfterRain.json"
   },
   {
+    "title": "air mata perasaan yang tak tersampaikan",
+    "subtitle": "JKT48",
+    "img": "https://najibibrahim.github.io/music-library/assets/jkt48/images/AirMataPerasaanYangTakTersampaikan.png",
+    "path": "https://najibibrahim.github.io/music-library/assets/jkt48/mp3/AirMataPerasaanYangTakTersampaikan.mp3",
+    "lyrics": "https://najibibrahim.github.io/music-library/assets/jkt48/lyrics/AirMataPerasaanYangTakTersampaikan.json"
+  },
+  {
     "title": "aitakatta",
     "subtitle": "JKT48",
     "img": "https://najibibrahim.github.io/music-library/assets/jkt48/images/Aitakatta.png",
@@ -19,6 +26,13 @@
     "img": "https://najibibrahim.github.io/music-library/assets/jkt48/images/ApakahKauMelihatMentariSenja.png",
     "path": "https://najibibrahim.github.io/music-library/assets/jkt48/mp3/ApakahKauMelihatMentariSenja.mp3",
     "lyrics": "https://najibibrahim.github.io/music-library/assets/jkt48/lyrics/ApakahKauMelihatMentariSenja.json"
+  },
+  {
+    "title": "arah sang cinta dan balasannya",
+    "subtitle": "JKT48",
+    "img": "https://najibibrahim.github.io/music-library/assets/jkt48/images/ArahSangCintaDanBalasannya.png",
+    "path": "https://najibibrahim.github.io/music-library/assets/jkt48/mp3/ArahSangCintaDanBalasannya.mp3",
+    "lyrics": "https://najibibrahim.github.io/music-library/assets/jkt48/lyrics/ArahSangCintaDanBalasannya.json"
   },
   {
     "title": "baby baby baby",
@@ -42,6 +56,27 @@
     "lyrics": "https://najibibrahim.github.io/music-library/assets/jkt48/lyrics/BersepedaBerdua.json"
   },
   {
+    "title": "bingo!",
+    "subtitle": "JKT48",
+    "img": "https://najibibrahim.github.io/music-library/assets/jkt48/images/Bingo!.png",
+    "path": "https://najibibrahim.github.io/music-library/assets/jkt48/mp3/Bingo!.mp3",
+    "lyrics": "https://najibibrahim.github.io/music-library/assets/jkt48/lyrics/Bingo!.json"
+  },
+  {
+    "title": "birth",
+    "subtitle": "JKT48",
+    "img": "https://najibibrahim.github.io/music-library/assets/jkt48/images/Birth.png",
+    "path": "https://najibibrahim.github.io/music-library/assets/jkt48/mp3/Birth.mp3",
+    "lyrics": "https://najibibrahim.github.io/music-library/assets/jkt48/lyrics/Birth.json"
+  },
+  {
+    "title": "bunga matahari",
+    "subtitle": "JKT48",
+    "img": "https://najibibrahim.github.io/music-library/assets/jkt48/images/BungaMatahari.png",
+    "path": "https://najibibrahim.github.io/music-library/assets/jkt48/mp3/BungaMatahari.mp3",
+    "lyrics": "https://najibibrahim.github.io/music-library/assets/jkt48/lyrics/BungaMatahari.json"
+  },
+  {
     "title": "bunga sakuraku",
     "subtitle": "JKT48",
     "img": "https://najibibrahim.github.io/music-library/assets/jkt48/images/BungaSakuraku.png",
@@ -61,6 +96,20 @@
     "img": "https://najibibrahim.github.io/music-library/assets/jkt48/images/CaraCerobohUntukMencinta.png",
     "path": "https://najibibrahim.github.io/music-library/assets/jkt48/mp3/CaraCerobohUntukMencinta.mp3",
     "lyrics": "https://najibibrahim.github.io/music-library/assets/jkt48/lyrics/CaraCerobohUntukMencinta.json"
+  },
+  {
+    "title": "cara meminum ramune",
+    "subtitle": "JKT48",
+    "img": "https://najibibrahim.github.io/music-library/assets/jkt48/images/CaraMeminumRamune.png",
+    "path": "https://najibibrahim.github.io/music-library/assets/jkt48/mp3/CaraMeminumRamune.mp3",
+    "lyrics": "https://najibibrahim.github.io/music-library/assets/jkt48/lyrics/CaraMeminumRamune.json"
+  },
+  {
+    "title": "dewi theater",
+    "subtitle": "JKT48",
+    "img": "https://najibibrahim.github.io/music-library/assets/jkt48/images/DewiTheater.png",
+    "path": "https://najibibrahim.github.io/music-library/assets/jkt48/mp3/DewiTheater.mp3",
+    "lyrics": "https://najibibrahim.github.io/music-library/assets/jkt48/lyrics/DewiTheater.json"
   },
   {
     "title": "dialog dengan kenari",
@@ -182,6 +231,13 @@
     "lyrics": "https://najibibrahim.github.io/music-library/assets/jkt48/lyrics/Jakarta48.json"
   },
   {
+    "title": "jejak awan pesawat",
+    "subtitle": "JKT48",
+    "img": "https://najibibrahim.github.io/music-library/assets/jkt48/images/JejakAwanPesawat.png",
+    "path": "https://najibibrahim.github.io/music-library/assets/jkt48/mp3/JejakAwanPesawat.mp3",
+    "lyrics": "https://najibibrahim.github.io/music-library/assets/jkt48/lyrics/JejakAwanPesawat.json"
+  },
+  {
     "title": "jiwaru days",
     "subtitle": "JKT48",
     "img": "https://najibibrahim.github.io/music-library/assets/jkt48/images/JiwaruDays.png",
@@ -210,6 +266,13 @@
     "lyrics": "https://najibibrahim.github.io/music-library/assets/jkt48/lyrics/KelinciPertama.json"
   },
   {
+    "title": "kelopak kelopak bunga sakura",
+    "subtitle": "JKT48",
+    "img": "https://najibibrahim.github.io/music-library/assets/jkt48/images/KelopakKelopakBungaSakura.png",
+    "path": "https://najibibrahim.github.io/music-library/assets/jkt48/mp3/KelopakKelopakBungaSakura.mp3",
+    "lyrics": "https://najibibrahim.github.io/music-library/assets/jkt48/lyrics/KelopakKelopakBungaSakura.json"
+  },
+  {
     "title": "maafkan summer",
     "subtitle": "JKT48",
     "img": "https://najibibrahim.github.io/music-library/assets/jkt48/images/MaafkanSummer.png",
@@ -229,6 +292,13 @@
     "img": "https://najibibrahim.github.io/music-library/assets/jkt48/images/Menanti.png",
     "path": "https://najibibrahim.github.io/music-library/assets/jkt48/mp3/Menanti.mp3",
     "lyrics": "https://najibibrahim.github.io/music-library/assets/jkt48/lyrics/Menanti.json"
+  },
+  {
+    "title": "mimpi yang hina",
+    "subtitle": "JKT48",
+    "img": "https://najibibrahim.github.io/music-library/assets/jkt48/images/MimpiYangHina.png",
+    "path": "https://najibibrahim.github.io/music-library/assets/jkt48/mp3/MimpiYangHina.mp3",
+    "lyrics": "https://najibibrahim.github.io/music-library/assets/jkt48/lyrics/MimpiYangHina.json"
   },
   {
     "title": "musim panas yang kacau",
@@ -264,6 +334,13 @@
     "img": "https://najibibrahim.github.io/music-library/assets/jkt48/images/PonytaildanShu-Shu.png",
     "path": "https://najibibrahim.github.io/music-library/assets/jkt48/mp3/PonytaildanShu-Shu.mp3",
     "lyrics": "https://najibibrahim.github.io/music-library/assets/jkt48/lyrics/PonytaildanShu-Shu.json"
+  },
+  {
+    "title": "putri duyung yang sedang sedih",
+    "subtitle": "JKT48",
+    "img": "https://najibibrahim.github.io/music-library/assets/jkt48/images/PutriDuyungYangSedangSedih.png",
+    "path": "https://najibibrahim.github.io/music-library/assets/jkt48/mp3/PutriDuyungYangSedangSedih.mp3",
+    "lyrics": "https://najibibrahim.github.io/music-library/assets/jkt48/lyrics/PutriDuyungYangSedangSedih.json"
   },
   {
     "title": "rapsodi",
@@ -341,6 +418,20 @@
     "img": "https://najibibrahim.github.io/music-library/assets/jkt48/images/TeriakanDiamond.png",
     "path": "https://najibibrahim.github.io/music-library/assets/jkt48/mp3/TeriakanDiamond.mp3",
     "lyrics": "https://najibibrahim.github.io/music-library/assets/jkt48/lyrics/TeriakanDiamond.json"
+  },
+  {
+    "title": "tunas di balik seragam",
+    "subtitle": "JKT48",
+    "img": "https://najibibrahim.github.io/music-library/assets/jkt48/images/TunasDiBalikSeragam.png",
+    "path": "https://najibibrahim.github.io/music-library/assets/jkt48/mp3/TunasDiBalikSeragam.mp3",
+    "lyrics": "https://najibibrahim.github.io/music-library/assets/jkt48/lyrics/TunasDiBalikSeragam.json"
+  },
+  {
+    "title": "uza",
+    "subtitle": "JKT48",
+    "img": "https://najibibrahim.github.io/music-library/assets/jkt48/images/Uza.png",
+    "path": "https://najibibrahim.github.io/music-library/assets/jkt48/mp3/Uza.mp3",
+    "lyrics": "https://najibibrahim.github.io/music-library/assets/jkt48/lyrics/Uza.json"
   },
   {
     "title": "wassshoi j",
