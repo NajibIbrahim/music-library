@@ -105,6 +105,13 @@
     "lyrics": "https://najibibrahim.github.io/music-library/assets/jkt48/lyrics/CaraMeminumRamune.json"
   },
   {
+    "title": "cinta pertama di jam 7 lewat 12",
+    "subtitle": "JKT48",
+    "img": "https://najibibrahim.github.io/music-library/assets/jkt48/images/CintaPertamaDiJam7Lewat12.png",
+    "path": "https://najibibrahim.github.io/music-library/assets/jkt48/mp3/CintaPertamaDiJam7Lewat12.mp3",
+    "lyrics": "https://najibibrahim.github.io/music-library/assets/jkt48/lyrics/CintaPertamaDiJam7Lewat12.json"
+  },
+  {
     "title": "dewi theater",
     "subtitle": "JKT48",
     "img": "https://najibibrahim.github.io/music-library/assets/jkt48/images/DewiTheater.png",
@@ -273,6 +280,13 @@
     "lyrics": "https://najibibrahim.github.io/music-library/assets/jkt48/lyrics/KelopakKelopakBungaSakura.json"
   },
   {
+    "title": "kesucian hati hingga umur 19 tahun",
+    "subtitle": "JKT48",
+    "img": "https://najibibrahim.github.io/music-library/assets/jkt48/images/KesucianHatiHinggaUmur19Tahun.png",
+    "path": "https://najibibrahim.github.io/music-library/assets/jkt48/mp3/KesucianHatiHinggaUmur19Tahun.mp3",
+    "lyrics": "https://najibibrahim.github.io/music-library/assets/jkt48/lyrics/KesucianHatiHinggaUmur19Tahun.json"
+  },
+  {
     "title": "maafkan summer",
     "subtitle": "JKT48",
     "img": "https://najibibrahim.github.io/music-library/assets/jkt48/images/MaafkanSummer.png",
@@ -334,6 +348,13 @@
     "img": "https://najibibrahim.github.io/music-library/assets/jkt48/images/PonytaildanShu-Shu.png",
     "path": "https://najibibrahim.github.io/music-library/assets/jkt48/mp3/PonytaildanShu-Shu.mp3",
     "lyrics": "https://najibibrahim.github.io/music-library/assets/jkt48/lyrics/PonytaildanShu-Shu.json"
+  },
+  {
+    "title": "prinsip kesucian hati",
+    "subtitle": "JKT48",
+    "img": "https://najibibrahim.github.io/music-library/assets/jkt48/images/PrinsipKesucianHati.png",
+    "path": "https://najibibrahim.github.io/music-library/assets/jkt48/mp3/PrinsipKesucianHati.mp3",
+    "lyrics": "https://najibibrahim.github.io/music-library/assets/jkt48/lyrics/PrinsipKesucianHati.json"
   },
   {
     "title": "putri duyung yang sedang sedih",
