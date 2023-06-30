@@ -1,6 +1,6 @@
 {
-    "build": "3",
-    "forceUpdate": true,
+    "build": "4",
+    "forceUpdate": false,
     "title": "Warning",
     "message": "Silahkan perbarui aplikasi untuk mendapatkan fitur terbaru, perbaikan bug dan peningkatan performa"
 }
