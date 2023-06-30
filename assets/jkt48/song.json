@@ -14,13 +14,6 @@
     "lyrics": "https://najibibrahim.github.io/music-library/assets/jkt48/lyrics/AirMataPerasaanYangTakTersampaikan.json"
   },
   {
-    "title": "aitakatta",
-    "subtitle": "JKT48",
-    "img": "https://najibibrahim.github.io/music-library/assets/jkt48/images/Aitakatta.png",
-    "path": "https://najibibrahim.github.io/music-library/assets/jkt48/mp3/Aitakatta.mp3",
-    "lyrics": "https://najibibrahim.github.io/music-library/assets/jkt48/lyrics/Aitakatta.json"
-  },
-  {
     "title": "baby baby baby",
     "subtitle": "JKT48",
     "img": "https://najibibrahim.github.io/music-library/assets/jkt48/images/BabyBabyBaby.png",
@@ -63,6 +56,13 @@
     "lyrics": "https://najibibrahim.github.io/music-library/assets/jkt48/lyrics/FortuneCookieInLove.json"
   },
   {
+    "title": "ingin bertemu",
+    "subtitle": "JKT48",
+    "img": "https://najibibrahim.github.io/music-library/assets/jkt48/images/InginBertemu.png",
+    "path": "https://najibibrahim.github.io/music-library/assets/jkt48/mp3/InginBertemu.mp3",
+    "lyrics": "https://najibibrahim.github.io/music-library/assets/jkt48/lyrics/InginBertemu.json"
+  },
+  {
     "title": "masa depan yang menyilaukan mata",
     "subtitle": "JKT48",
     "img": "https://najibibrahim.github.io/music-library/assets/jkt48/images/MasaDepanYangMenyilaukanMata.png",
@@ -96,5 +96,12 @@
     "img": "https://najibibrahim.github.io/music-library/assets/jkt48/images/Seventeen.png",
     "path": "https://najibibrahim.github.io/music-library/assets/jkt48/mp3/Seventeen.mp3",
     "lyrics": "https://najibibrahim.github.io/music-library/assets/jkt48/lyrics/Seventeen.json"
+  },
+  {
+    "title": "teriakan diamond",
+    "subtitle": "JKT48",
+    "img": "https://najibibrahim.github.io/music-library/assets/jkt48/images/TeriakanDiamond.png",
+    "path": "https://najibibrahim.github.io/music-library/assets/jkt48/mp3/TeriakanDiamond.mp3",
+    "lyrics": "https://najibibrahim.github.io/music-library/assets/jkt48/lyrics/TeriakanDiamond.json"
   }
 ]
