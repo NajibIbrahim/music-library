@@ -385,6 +385,13 @@
     "lyrics": "https://najibibrahim.github.io/music-library/assets/jkt48/lyrics/River.json"
   },
   {
+    "title": "schoolyard puppy",
+    "subtitle": "JKT48",
+    "img": "https://najibibrahim.github.io/music-library/assets/jkt48/images/SchoolyardPuppy.png",
+    "path": "https://najibibrahim.github.io/music-library/assets/jkt48/mp3/SchoolyardPuppy.mp3",
+    "lyrics": "https://najibibrahim.github.io/music-library/assets/jkt48/lyrics/SchoolyardPuppy.json"
+  },
+  {
     "title": "seesaw game penuh air mata",
     "subtitle": "JKT48",
     "img": "https://najibibrahim.github.io/music-library/assets/jkt48/images/SeesawGamePenuhAirMata.png",
