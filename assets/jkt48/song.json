@@ -84,13 +84,6 @@
     "lyrics": "https://najibibrahim.github.io/music-library/assets/jkt48/lyrics/InginBertemu.json"
   },
   {
-    "title": "kelopak kelopak bunga sakura",
-    "subtitle": "JKT48",
-    "img": "https://najibibrahim.github.io/music-library/assets/jkt48/images/KelopakKelopakBungaSakura.png",
-    "path": "https://najibibrahim.github.io/music-library/assets/jkt48/mp3/KelopakKelopakBungaSakura.mp3",
-    "lyrics": "https://najibibrahim.github.io/music-library/assets/jkt48/lyrics/KelopakKelopakBungaSakura.json"
-  },
-  {
     "title": "maafkan summer",
     "subtitle": "JKT48",
     "img": "https://najibibrahim.github.io/music-library/assets/jkt48/images/MaafkanSummer.png",
@@ -147,38 +140,10 @@
     "lyrics": "https://najibibrahim.github.io/music-library/assets/jkt48/lyrics/SweetBitter.json"
   },
   {
-    "title": "tentang suratku",
-    "subtitle": "JKT48",
-    "img": "https://najibibrahim.github.io/music-library/assets/jkt48/images/TentangSuratku.png",
-    "path": "https://najibibrahim.github.io/music-library/assets/jkt48/mp3/TentangSuratku.mp3",
-    "lyrics": "https://najibibrahim.github.io/music-library/assets/jkt48/lyrics/TentangSuratku.json"
-  },
-  {
     "title": "teriakan diamond",
     "subtitle": "JKT48",
     "img": "https://najibibrahim.github.io/music-library/assets/jkt48/images/TeriakanDiamond.png",
     "path": "https://najibibrahim.github.io/music-library/assets/jkt48/mp3/TeriakanDiamond.mp3",
     "lyrics": "https://najibibrahim.github.io/music-library/assets/jkt48/lyrics/TeriakanDiamond.json"
-  },
-  {
-    "title": "tunas di balik seragam",
-    "subtitle": "seifuku no me",
-    "img": "https://najibibrahim.github.io/music-library/assets/jkt48/images/TunasDiBalikSeragam.png",
-    "path": "https://najibibrahim.github.io/music-library/assets/jkt48/mp3/TunasDiBalikSeragam.mp3",
-    "lyrics": "https://najibibrahim.github.io/music-library/assets/jkt48/lyrics/TunasDiBalikSeragam.json"
-  },
-  {
-    "title": "uza",
-    "subtitle": "jkt48",
-    "img": "https://najibibrahim.github.io/music-library/assets/jkt48/images/Uza.png",
-    "path": "https://najibibrahim.github.io/music-library/assets/jkt48/mp3/Uza.mp3",
-    "lyrics": "https://najibibrahim.github.io/music-library/assets/jkt48/lyrics/Uza.json"
-  },
-  {
-    "title": "wassshoi j",
-    "subtitle": "jkt48",
-    "img": "https://najibibrahim.github.io/music-library/assets/jkt48/images/WasshoiJ.png",
-    "path": "https://najibibrahim.github.io/music-library/assets/jkt48/mp3/WasshoiJ.mp3",
-    "lyrics": "https://najibibrahim.github.io/music-library/assets/jkt48/lyrics/WasshoiJ.json"
   }
 ]
