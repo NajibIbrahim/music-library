@@ -1,19 +1,5 @@
 [
   {
-    "title": "after rain",
-    "subtitle": "JKT48",
-    "img": "https://najibibrahim.github.io/music-library/assets/jkt48/images/AfterRain.png",
-    "path": "https://najibibrahim.github.io/music-library/assets/jkt48/mp3/AfterRain.mp3",
-    "lyrics": "https://najibibrahim.github.io/music-library/assets/jkt48/lyrics/AfterRain.json"
-  },
-  {
-    "title": "air mata perasaan yang tak tersampaikan",
-    "subtitle": "JKT48",
-    "img": "https://najibibrahim.github.io/music-library/assets/jkt48/images/AirMataPerasaanYangTakTersampaikan.png",
-    "path": "https://najibibrahim.github.io/music-library/assets/jkt48/mp3/AirMataPerasaanYangTakTersampaikan.mp3",
-    "lyrics": "https://najibibrahim.github.io/music-library/assets/jkt48/lyrics/AirMataPerasaanYangTakTersampaikan.json"
-  },
-  {
     "title": "benang sari, putik, dan kupu-kupu malam",
     "subtitle": "JKT48",
     "img": "https://najibibrahim.github.io/music-library/assets/jkt48/images/BenangSari,Putik,danKupu-KupuMalam.png",
@@ -54,12 +40,5 @@
     "img": "https://najibibrahim.github.io/music-library/assets/jkt48/images/PonytaildanShu-Shu.png",
     "path": "https://najibibrahim.github.io/music-library/assets/jkt48/mp3/PonytaildanShu-Shu.mp3",
     "lyrics": "https://najibibrahim.github.io/music-library/assets/jkt48/lyrics/PonytaildanShu-Shu.json"
-  },
-  {
-    "title": "rapsodi",
-    "subtitle": "JKT48",
-    "img": "https://najibibrahim.github.io/music-library/assets/jkt48/images/Rapsodi.png",
-    "path": "https://najibibrahim.github.io/music-library/assets/jkt48/mp3/Rapsodi.mp3",
-    "lyrics": "https://najibibrahim.github.io/music-library/assets/jkt48/lyrics/Rapsodi.json"
   }
 ]
