@@ -5,10 +5,10 @@
     {"text": "I'm tired of always waiting","time": 31},
     {"text": "Oh, yeah, yeah","time": 32},
     {"text": "I see you changed your number, that's why you don't get my calls","time": 34},
-    {"text": "I gave you all of me, now you don't wanna be involved","time": },
-    {"text": "Oh, yeah, yeah","time": },
-    {"text": "I really gotta face it","time": },
-    {"text": "Oh, yeah, yeah","time": },
+    {"text": "I gave you all of me, now you don't wanna be involved","time": 36},
+    {"text": "Oh, yeah, yeah","time": 38},
+    {"text": "I really gotta face it","time": 40},
+    {"text": "Oh, yeah, yeah","time": 44},
     {"text": "I just wanna be the one","time": 47},
     {"text": "But to you we're already done","time": 49},
     {"text": "Tell me, why'd you have to hit and run me?","time": 52},
@@ -56,7 +56,7 @@
     {"text": "All my love is gone (Go-o-o-o-o-o-one)","time": 189},
     {"text": "All my love is gone, gone, gone, gone (Go-o-o-o-o-o-one)","time": 195},
     {"text": "All my love is gone (Go-o-o-o-o-o-one)","time": 200},
-    {"text": "All my love is gone","time": }204,
+    {"text": "All my love is gone","time": 204},
     {"text": "Now you're dead and gone","time": 208},
     {"text": "","time": 227}
 ]
