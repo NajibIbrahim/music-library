@@ -19,7 +19,7 @@
     },
     {
         "title": "crazy over you", "subtitle": "BLACKPINK",
-        "img": "https://najibibrahim.github.io/music-library/assets/blackpink/images/cover1.png",
+        "img": "https://najibibrahim.github.io/music-library/assets/blackpink/images/CrazyOverYou.png",
         "path": "https://najibibrahim.github.io/music-library/assets/blackpink/mp3/CrazyOverYou.mp3",
         "lyrics": "https://najibibrahim.github.io/music-library/assets/blackpink/lyrics/CrazyOverYou.json"
     },
@@ -230,7 +230,7 @@
     },
     {
         "title": "you never know", "subtitle": "BLACKPINK",
-        "img": "https://najibibrahim.github.io/music-library/assets/blackpink/images/YouNeverKnow.png",
+        "img": "https://najibibrahim.github.io/music-library/assets/blackpink/images/cover1.png",
         "path": "https://najibibrahim.github.io/music-library/assets/blackpink/mp3/YouNeverKnow.mp3",
         "lyrics": "https://najibibrahim.github.io/music-library/assets/blackpink/lyrics/YouNeverKnow.json"
     }
