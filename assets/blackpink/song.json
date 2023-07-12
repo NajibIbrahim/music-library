@@ -36,6 +36,13 @@
         "lyrics": "https://najibibrahim.github.io/music-library/assets/blackpink/lyrics/DontKnowWhatToDo.json"
     },
     {
+        "title": "flower",
+        "subtitle": "BLACKPINK",
+        "img": "https://najibibrahim.github.io/music-library/assets/blackpink/images/Flower.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/blackpink/mp3/Flower.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/blackpink/lyrics/Flower.json"
+    },
+    {
         "title": "forever young", "subtitle": "BLACKPINK",
         "img": "https://najibibrahim.github.io/music-library/assets/blackpink/images/ForeverYoung.png",
         "path": "https://najibibrahim.github.io/music-library/assets/blackpink/mp3/ForeverYoung.mp3",

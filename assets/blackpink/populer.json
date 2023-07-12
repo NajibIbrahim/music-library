@@ -1,11 +1,19 @@
 [
   {
-    "title": "tally",
+    "title": "flower",
     "subtitle": "BLACKPINK",
     "cover": "https://najibibrahim.github.io/music-library/assets/blackpink/images/populer1.png",
-    "img": "https://najibibrahim.github.io/music-library/assets/blackpink/images/Tally.png",
-    "path": "https://najibibrahim.github.io/music-library/assets/blackpink/mp3/Tally.mp3",
-    "lyrics": "https://najibibrahim.github.io/music-library/assets/blackpink/lyrics/Tally.json"
+    "img": "https://najibibrahim.github.io/music-library/assets/blackpink/images/Flower.png",
+    "path": "https://najibibrahim.github.io/music-library/assets/blackpink/mp3/Flower.mp3",
+    "lyrics": "https://najibibrahim.github.io/music-library/assets/blackpink/lyrics/Flower.json"
+  },
+  {
+    "title": "pink venom",
+    "subtitle": "BLACKPINK",
+    "cover": "https://najibibrahim.github.io/music-library/assets/blackpink/images/populer1.png",
+    "img": "https://najibibrahim.github.io/music-library/assets/blackpink/images/PinkVenom.png",
+    "path": "https://najibibrahim.github.io/music-library/assets/blackpink/mp3/PinkVenom.mp3",
+    "lyrics": "https://najibibrahim.github.io/music-library/assets/blackpink/lyrics/PinkVenom.json"
   },
   {
     "title": "tally",
