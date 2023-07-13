@@ -16,6 +16,14 @@
     "lyrics": "https://najibibrahim.github.io/music-library/assets/blackpink/lyrics/PinkVenom.json"
   },
   {
+    "title": "how you like that",
+    "subtitle": "BLACKPINK",
+    "cover": "https://najibibrahim.github.io/music-library/assets/blackpink/images/populer3.png",
+    "img": "https://najibibrahim.github.io/music-library/assets/blackpink/images/HowYouLikeThat.png",
+    "path": "https://najibibrahim.github.io/music-library/assets/blackpink/mp3/HowYouLikeThat.mp3",
+    "lyrics": "https://najibibrahim.github.io/music-library/assets/blackpink/lyrics/HowYouLikeThat.json"
+  },
+  {
     "title": "tally",
     "subtitle": "BLACKPINK",
     "cover": "https://najibibrahim.github.io/music-library/assets/blackpink/images/populer3.png",
