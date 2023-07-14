@@ -1,0 +1,22 @@
+[
+    {
+      "title": "fix you", "subtitle": "Coldplay",
+      "img": "https://najibibrahim.github.io/music-library/assets/coldplay/images/FixYou.png",
+      "path": "https://najibibrahim.github.io/music-library/assets/coldplay/mp3/FixYou.mp3",
+      "lyrics": "https://najibibrahim.github.io/music-library/assets/coldplay/lyrics/FixYou.json"
+    },
+    {
+        "title": "paradise",
+        "subtitle": "Coldplay",
+        "img": "https://najibibrahim.github.io/music-library/assets/coldplay/images/Paradise.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/coldplay/mp3/Paradise.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/coldplay/lyrics/Paradise.json"
+    },
+    {
+        "title": "yellow",
+        "subtitle": "Coldplay",
+        "img": "https://najibibrahim.github.io/music-library/assets/coldplay/images/Yellow.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/coldplay/mp3/Yellow.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/coldplay/lyrics/yellow.json"
+    },
+]
