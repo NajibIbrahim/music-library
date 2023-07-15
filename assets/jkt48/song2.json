@@ -245,6 +245,13 @@
     "lyrics": "https://najibibrahim.github.io/music-library/assets/jkt48/lyrics/InginBertemu.json"
   },
   {
+    "title": "jadilah batu yang berputar",
+    "subtitle": "korogaru ishi ni nare",
+    "img": "https://najibibrahim.github.io/music-library/assets/jkt48/images/JadilahBatuYangBerputar.png",
+    "path": "https://najibibrahim.github.io/music-library/assets/jkt48/mp3/JadilahBatuYangBerputar.mp3",
+    "lyrics": "https://najibibrahim.github.io/music-library/assets/jkt48/lyrics/JadilahBatuYangBerputar.json"
+  },
+  {
     "title": "jakarta 48",
     "subtitle": "jkt48",
     "img": "https://najibibrahim.github.io/music-library/assets/jkt48/images/Jakarta48.png",
