@@ -1,6 +1,6 @@
 {
-    "show": false,
-    "build": "11",
+    "show": true,
+    "build": "13",
     "forceUpdate": true,
     "title": "Warning",
     "message": "Silahkan perbarui aplikasi untuk mendapatkan fitur terbaru, perbaikan bug dan peningkatan performa"
