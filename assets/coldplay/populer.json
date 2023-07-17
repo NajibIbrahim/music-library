@@ -2,25 +2,25 @@
   {
     "title": "yellow",
     "subtitle": "Coldplay",
-    "cover": "https://najibibrahim.github.io/music-library/assets/blackpink/images/populer1.png",
-    "img": "https://najibibrahim.github.io/music-library/assets/blackpink/images/Yellow.png",
-    "path": "https://najibibrahim.github.io/music-library/assets/blackpink/mp3/Yellow.mp3",
-    "lyrics": "https://najibibrahim.github.io/music-library/assets/blackpink/lyrics/Yellow.json"
+    "cover": "https://najibibrahim.github.io/music-library/assets/coldplay/images/populer1.png",
+    "img": "https://najibibrahim.github.io/music-library/assets/coldplay/images/Yellow.png",
+    "path": "https://najibibrahim.github.io/music-library/assets/coldplay/mp3/Yellow.mp3",
+    "lyrics": "https://najibibrahim.github.io/music-library/assets/coldplay/lyrics/Yellow.json"
   },
   {
     "title": "fix you",
     "subtitle": "Coldplay",
-    "cover": "https://najibibrahim.github.io/music-library/assets/blackpink/images/populer2.png",
-    "img": "https://najibibrahim.github.io/music-library/assets/blackpink/images/FixYou.png",
-    "path": "https://najibibrahim.github.io/music-library/assets/blackpink/mp3/FixYou.mp3",
-    "lyrics": "https://najibibrahim.github.io/music-library/assets/blackpink/lyrics/FixYou.json"
+    "cover": "https://najibibrahim.github.io/music-library/assets/coldplay/images/populer2.png",
+    "img": "https://najibibrahim.github.io/music-library/assets/coldplay/images/FixYou.png",
+    "path": "https://najibibrahim.github.io/music-library/assets/coldplay/mp3/FixYou.mp3",
+    "lyrics": "https://najibibrahim.github.io/music-library/assets/coldplay/lyrics/FixYou.json"
   },
   {
     "title": "paradise",
     "subtitle": "Coldplay",
-    "cover": "https://najibibrahim.github.io/music-library/assets/blackpink/images/populer3.png",
-    "img": "https://najibibrahim.github.io/music-library/assets/blackpink/images/Paradise.png",
-    "path": "https://najibibrahim.github.io/music-library/assets/blackpink/mp3/Paradise.mp3",
-    "lyrics": "https://najibibrahim.github.io/music-library/assets/blackpink/lyrics/Paradise.json"
+    "cover": "https://najibibrahim.github.io/music-library/assets/coldplay/images/populer3.png",
+    "img": "https://najibibrahim.github.io/music-library/assets/coldplay/images/Paradise.png",
+    "path": "https://najibibrahim.github.io/music-library/assets/coldplay/mp3/Paradise.mp3",
+    "lyrics": "https://najibibrahim.github.io/music-library/assets/coldplay/lyrics/Paradise.json"
   }
 ]
