@@ -84,11 +84,25 @@
         "lyrics": "https://najibibrahim.github.io/music-library/assets/coldplay/lyrics/ChristmasLights.json"
     },
     {
+        "title": "church",
+        "subtitle": "Coldplay",
+        "img": "https://najibibrahim.github.io/music-library/assets/coldplay/images/Church.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/coldplay/mp3/Church.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/coldplay/lyrics/Church.json"
+    },
+    {
         "title": "clocks",
         "subtitle": "Coldplay",
         "img": "https://najibibrahim.github.io/music-library/assets/coldplay/images/Clocks.png",
         "path": "https://najibibrahim.github.io/music-library/assets/coldplay/mp3/Clocks.mp3",
         "lyrics": "https://najibibrahim.github.io/music-library/assets/coldplay/lyrics/Clocks.json"
+    },
+    {
+        "title": "cry cry cry",
+        "subtitle": "Coldplay",
+        "img": "https://najibibrahim.github.io/music-library/assets/coldplay/images/CryCryCry.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/coldplay/mp3/CryCryCry.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/coldplay/lyrics/CryCryCry.json"
     },
     {
         "title": "daddy",
@@ -105,7 +119,7 @@
         "lyrics": "https://najibibrahim.github.io/music-library/assets/coldplay/lyrics/Daylight.json"
     },
     {
-        "title": "dont panic",
+        "title": "don't panic",
         "subtitle": "Coldplay",
         "img": "https://najibibrahim.github.io/music-library/assets/coldplay/images/DontPanic.png",
         "path": "https://najibibrahim.github.io/music-library/assets/coldplay/mp3/DontPanic.mp3",
@@ -141,7 +155,7 @@
     },
     {
         "title": "fun",
-        "subtitle": "Coldplay",
+        "subtitle": "Coldplay feat. tove lo",
         "img": "https://najibibrahim.github.io/music-library/assets/coldplay/images/Fun.png",
         "path": "https://najibibrahim.github.io/music-library/assets/coldplay/mp3/Fun.mp3",
         "lyrics": "https://najibibrahim.github.io/music-library/assets/coldplay/lyrics/Fun.json"
@@ -204,10 +218,17 @@
     },
     {
         "title": "my universe",
-        "subtitle": "Coldplay",
+        "subtitle": "Coldplay & BTS",
         "img": "https://najibibrahim.github.io/music-library/assets/coldplay/images/MyUniverse.png",
         "path": "https://najibibrahim.github.io/music-library/assets/coldplay/mp3/MyUniverse.mp3",
         "lyrics": "https://najibibrahim.github.io/music-library/assets/coldplay/lyrics/MyUniverse.json"
+    },
+    {
+        "title": "orphans",
+        "subtitle": "Coldplay",
+        "img": "https://najibibrahim.github.io/music-library/assets/coldplay/images/Orphans.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/coldplay/mp3/Orphans.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/coldplay/lyrics/Orphans.json"
     },
     {
         "title": "paradise",
@@ -218,14 +239,14 @@
     },
     {
         "title": "princess of china",
-        "subtitle": "Coldplay",
+        "subtitle": "Coldplay feat. rihanna",
         "img": "https://najibibrahim.github.io/music-library/assets/coldplay/images/PrincessOfChina.png",
         "path": "https://najibibrahim.github.io/music-library/assets/coldplay/mp3/PrincessOfChina.mp3",
         "lyrics": "https://najibibrahim.github.io/music-library/assets/coldplay/lyrics/PrincessOfChina.json"
     },
     {
         "title": "something just like this",
-        "subtitle": "Coldplay",
+        "subtitle": "The Chainsmokers & Coldplay",
         "img": "https://najibibrahim.github.io/music-library/assets/coldplay/images/SomethingJustLikeThis.png",
         "path": "https://najibibrahim.github.io/music-library/assets/coldplay/mp3/SomethingJustLikeThis.mp3",
         "lyrics": "https://najibibrahim.github.io/music-library/assets/coldplay/lyrics/SomethingJustLikeThis.json"
