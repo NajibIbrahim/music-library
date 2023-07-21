@@ -1,10 +1,87 @@
 [
     {
+        "title": "adventure of a lifetime",
+        "subtitle": "Coldplay",
+        "img": "https://najibibrahim.github.io/music-library/assets/coldplay/images/AdventureOfALifetime.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/coldplay/mp3/AdventureOfALifetime.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/coldplay/lyrics/AdventureOfALifetime.json"
+    },
+    {
+        "title": "a head full of dreams",
+        "subtitle": "Coldplay",
+        "img": "https://najibibrahim.github.io/music-library/assets/coldplay/images/AHeadFullOfDreams.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/coldplay/mp3/AHeadFullOfDreams.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/coldplay/lyrics/AHeadFullOfDreams.json"
+    },
+    {
+        "title": "aliens",
+        "subtitle": "Coldplay",
+        "img": "https://najibibrahim.github.io/music-library/assets/coldplay/images/Aliens.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/coldplay/mp3/Aliens.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/coldplay/lyrics/Aliens.json"
+    },
+    {
+        "title": "all i can think about is you",
+        "subtitle": "Coldplay",
+        "img": "https://najibibrahim.github.io/music-library/assets/coldplay/images/AllICanThinkAboutIsYou.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/coldplay/mp3/AllICanThinkAboutIsYou.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/coldplay/lyrics/AllICanThinkAboutIsYou.json"
+    },
+    {
+        "title": "a message",
+        "subtitle": "Coldplay",
+        "img": "https://najibibrahim.github.io/music-library/assets/coldplay/images/AMessage.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/coldplay/mp3/AMessage.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/coldplay/lyrics/AMessage.json"
+    },
+    {
+        "title": "arabesque",
+        "subtitle": "Coldplay",
+        "img": "https://najibibrahim.github.io/music-library/assets/coldplay/images/Arabesque.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/coldplay/mp3/Arabesque.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/coldplay/lyrics/Arabesque.json"
+    },
+    {
       "title": "a sky full of stars", 
       "subtitle": "Coldplay",
       "img": "https://najibibrahim.github.io/music-library/assets/coldplay/images/ASkyFullOfStars.png",
       "path": "https://najibibrahim.github.io/music-library/assets/coldplay/mp3/ASkyFullOfStars.mp3",
       "lyrics": "https://najibibrahim.github.io/music-library/assets/coldplay/lyrics/ASkyFullOfStars.json"
+    },
+    {
+        "title": "a whisper",
+        "subtitle": "Coldplay",
+        "img": "https://najibibrahim.github.io/music-library/assets/coldplay/images/AWhisper.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/coldplay/mp3/AWhisper.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/coldplay/lyrics/AWhisper.json"
+    },
+    {
+        "title": "birds",
+        "subtitle": "Coldplay",
+        "img": "https://najibibrahim.github.io/music-library/assets/coldplay/images/Birds.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/coldplay/mp3/Birds.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/coldplay/lyrics/Birds.json"
+    },
+    {
+        "title": "champion of the world",
+        "subtitle": "Coldplay",
+        "img": "https://najibibrahim.github.io/music-library/assets/coldplay/images/ChampionOfTheWorld.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/coldplay/mp3/ChampionOfTheWorld.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/coldplay/lyrics/ChampionOfTheWorld.json"
+    },
+    {
+        "title": "charlie brown",
+        "subtitle": "Coldplay",
+        "img": "https://najibibrahim.github.io/music-library/assets/coldplay/images/CharlieBrown.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/coldplay/mp3/CharlieBrown.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/coldplay/lyrics/CharlieBrown.json"
+    },
+    {
+        "title": "christmas lights",
+        "subtitle": "Coldplay",
+        "img": "https://najibibrahim.github.io/music-library/assets/coldplay/images/ChristmasLights.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/coldplay/mp3/ChristmasLights.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/coldplay/lyrics/ChristmasLights.json"
     },
     {
         "title": "clocks",
@@ -14,11 +91,81 @@
         "lyrics": "https://najibibrahim.github.io/music-library/assets/coldplay/lyrics/Clocks.json"
     },
     {
+        "title": "daddy",
+        "subtitle": "Coldplay",
+        "img": "https://najibibrahim.github.io/music-library/assets/coldplay/images/Daddy.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/coldplay/mp3/Daddy.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/coldplay/lyrics/Daddy.json"
+    },
+    {
+        "title": "daylight",
+        "subtitle": "Coldplay",
+        "img": "https://najibibrahim.github.io/music-library/assets/coldplay/images/Daylight.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/coldplay/mp3/Daylight.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/coldplay/lyrics/Daylight.json"
+    },
+    {
+        "title": "dont panic",
+        "subtitle": "Coldplay",
+        "img": "https://najibibrahim.github.io/music-library/assets/coldplay/images/DontPanic.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/coldplay/mp3/DontPanic.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/coldplay/lyrics/DontPanic.json"
+    },
+    {
+        "title": "everglow",
+        "subtitle": "Coldplay",
+        "img": "https://najibibrahim.github.io/music-library/assets/coldplay/images/Everglow.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/coldplay/mp3/Everglow.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/coldplay/lyrics/Everglow.json"
+    },
+    {
+        "title": "every teardrop is a waterfall",
+        "subtitle": "Coldplay",
+        "img": "https://najibibrahim.github.io/music-library/assets/coldplay/images/EveryTeardropIsAWaterfall.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/coldplay/mp3/EveryTeardropIsAWaterfall.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/coldplay/lyrics/EveryTeardropIsAWaterfall.json"
+    },
+    {
         "title": "fix you",
         "subtitle": "Coldplay",
         "img": "https://najibibrahim.github.io/music-library/assets/coldplay/images/FixYou.png",
         "path": "https://najibibrahim.github.io/music-library/assets/coldplay/mp3/FixYou.mp3",
         "lyrics": "https://najibibrahim.github.io/music-library/assets/coldplay/lyrics/FixYou.json"
+    },
+    {
+        "title": "flags",
+        "subtitle": "Coldplay",
+        "img": "https://najibibrahim.github.io/music-library/assets/coldplay/images/Flags.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/coldplay/mp3/Flags.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/coldplay/lyrics/Flags.json"
+    },
+    {
+        "title": "fun",
+        "subtitle": "Coldplay",
+        "img": "https://najibibrahim.github.io/music-library/assets/coldplay/images/Fun.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/coldplay/mp3/Fun.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/coldplay/lyrics/Fun.json"
+    },
+    {
+        "title": "god put a smile upon your face",
+        "subtitle": "Coldplay",
+        "img": "https://najibibrahim.github.io/music-library/assets/coldplay/images/GodPutASmileUponYourFace.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/coldplay/mp3/GodPutASmileUponYourFace.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/coldplay/lyrics/GodPutASmileUponYourFace.json"
+    },
+    {
+        "title": "green eyes",
+        "subtitle": "Coldplay",
+        "img": "https://najibibrahim.github.io/music-library/assets/coldplay/images/GreenEyes.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/coldplay/mp3/GreenEyes.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/coldplay/lyrics/GreenEyes.json"
+    },
+    {
+        "title": "humankind",
+        "subtitle": "Coldplay",
+        "img": "https://najibibrahim.github.io/music-library/assets/coldplay/images/Humankind.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/coldplay/mp3/Humankind.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/coldplay/lyrics/Humankind.json"
     },
     {
         "title": "hymn for the weekend",
@@ -28,6 +175,27 @@
         "lyrics": "https://najibibrahim.github.io/music-library/assets/coldplay/lyrics/HymnForTheWeekend.json"
     },
     {
+        "title": "hypnotised",
+        "subtitle": "Coldplay",
+        "img": "https://najibibrahim.github.io/music-library/assets/coldplay/images/Hypnotised.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/coldplay/mp3/Hypnotised.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/coldplay/lyrics/Hypnotised.json"
+    },
+    {
+        "title": "kaleidoscope",
+        "subtitle": "Coldplay",
+        "img": "https://najibibrahim.github.io/music-library/assets/coldplay/images/Kaleidoscope.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/coldplay/mp3/Kaleidoscope.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/coldplay/lyrics/Kaleidoscope.json"
+    },
+    {
+        "title": "low",
+        "subtitle": "Coldplay",
+        "img": "https://najibibrahim.github.io/music-library/assets/coldplay/images/Low.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/coldplay/mp3/Low.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/coldplay/lyrics/Low.json"
+    },
+    {
         "title": "magic",
         "subtitle": "Coldplay",
         "img": "https://najibibrahim.github.io/music-library/assets/coldplay/images/Magic.png",
@@ -35,11 +203,53 @@
         "lyrics": "https://najibibrahim.github.io/music-library/assets/coldplay/lyrics/Magic.json"
     },
     {
+        "title": "my universe",
+        "subtitle": "Coldplay",
+        "img": "https://najibibrahim.github.io/music-library/assets/coldplay/images/MyUniverse.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/coldplay/mp3/MyUniverse.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/coldplay/lyrics/MyUniverse.json"
+    },
+    {
         "title": "paradise",
         "subtitle": "Coldplay",
         "img": "https://najibibrahim.github.io/music-library/assets/coldplay/images/Paradise.png",
         "path": "https://najibibrahim.github.io/music-library/assets/coldplay/mp3/Paradise.mp3",
         "lyrics": "https://najibibrahim.github.io/music-library/assets/coldplay/lyrics/Paradise.json"
+    },
+    {
+        "title": "princess of china",
+        "subtitle": "Coldplay",
+        "img": "https://najibibrahim.github.io/music-library/assets/coldplay/images/PrincessOfChina.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/coldplay/mp3/PrincessOfChina.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/coldplay/lyrics/PrincessOfChina.json"
+    },
+    {
+        "title": "something just like this",
+        "subtitle": "Coldplay",
+        "img": "https://najibibrahim.github.io/music-library/assets/coldplay/images/SomethingJustLikeThis.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/coldplay/mp3/SomethingJustLikeThis.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/coldplay/lyrics/SomethingJustLikeThis.json"
+    },
+    {
+        "title": "sparks",
+        "subtitle": "Coldplay",
+        "img": "https://najibibrahim.github.io/music-library/assets/coldplay/images/Sparks.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/coldplay/mp3/Sparks.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/coldplay/lyrics/Sparks.json"
+    },
+    {
+        "title": "speed of sound",
+        "subtitle": "Coldplay",
+        "img": "https://najibibrahim.github.io/music-library/assets/coldplay/images/SpeedOfSound.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/coldplay/mp3/SpeedOfSound.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/coldplay/lyrics/SpeedOfSound.json"
+    },
+    {
+        "title": "talk",
+        "subtitle": "Coldplay",
+        "img": "https://najibibrahim.github.io/music-library/assets/coldplay/images/Talk.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/coldplay/mp3/Talk.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/coldplay/lyrics/Talk.json"
     },
     {
         "title": "the scientist",
