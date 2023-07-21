@@ -16,9 +16,25 @@
     "lyrics": "https://najibibrahim.github.io/music-library/assets/coldplay/lyrics/FixYou.json"
   },
   {
-    "title": "paradise",
+    "title": "viva la vida",
     "subtitle": "Coldplay",
     "cover": "https://najibibrahim.github.io/music-library/assets/coldplay/images/populer3.png",
+    "img": "https://najibibrahim.github.io/music-library/assets/coldplay/images/VivaLaVida.png",
+    "path": "https://najibibrahim.github.io/music-library/assets/coldplay/mp3/VivaLaVida.mp3",
+    "lyrics": "https://najibibrahim.github.io/music-library/assets/coldplay/lyrics/VivaLaVida.json"
+  },
+  {
+    "title": "a sky full of stars",
+    "subtitle": "Coldplay",
+    "cover": "https://najibibrahim.github.io/music-library/assets/coldplay/images/populer4.png",
+    "img": "https://najibibrahim.github.io/music-library/assets/coldplay/images/ASkyFullOfStars.png",
+    "path": "https://najibibrahim.github.io/music-library/assets/coldplay/mp3/ASkyFullOfStars.mp3",
+    "lyrics": "https://najibibrahim.github.io/music-library/assets/coldplay/lyrics/ASkyFullOfStars.json"
+  },
+  {
+    "title": "paradise",
+    "subtitle": "Coldplay",
+    "cover": "https://najibibrahim.github.io/music-library/assets/coldplay/images/populer5.png",
     "img": "https://najibibrahim.github.io/music-library/assets/coldplay/images/Paradise.png",
     "path": "https://najibibrahim.github.io/music-library/assets/coldplay/mp3/Paradise.mp3",
     "lyrics": "https://najibibrahim.github.io/music-library/assets/coldplay/lyrics/Paradise.json"
