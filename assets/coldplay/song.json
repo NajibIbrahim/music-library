@@ -245,6 +245,13 @@
         "lyrics": "https://najibibrahim.github.io/music-library/assets/coldplay/lyrics/SpeedOfSound.json"
     },
     {
+        "title": "sunrise",
+        "subtitle": "Coldplay",
+        "img": "https://najibibrahim.github.io/music-library/assets/coldplay/images/Sunrise.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/coldplay/mp3/Sunrise.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/coldplay/lyrics/Sunrise.json"
+    },
+    {
         "title": "talk",
         "subtitle": "Coldplay",
         "img": "https://najibibrahim.github.io/music-library/assets/coldplay/images/Talk.png",
