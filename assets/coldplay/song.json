@@ -84,13 +84,6 @@
         "lyrics": "https://najibibrahim.github.io/music-library/assets/coldplay/lyrics/ChristmasLights.json"
     },
     {
-        "title": "church",
-        "subtitle": "Coldplay",
-        "img": "https://najibibrahim.github.io/music-library/assets/coldplay/images/Church.png",
-        "path": "https://najibibrahim.github.io/music-library/assets/coldplay/mp3/Church.mp3",
-        "lyrics": "https://najibibrahim.github.io/music-library/assets/coldplay/lyrics/Church.json"
-    },
-    {
         "title": "clocks",
         "subtitle": "Coldplay",
         "img": "https://najibibrahim.github.io/music-library/assets/coldplay/images/Clocks.png",
