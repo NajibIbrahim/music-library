@@ -1,0 +1,107 @@
+[
+    {
+        "title": "22",
+        "subtitle": "Taylor Swift",
+        "img": "https://najibibrahim.github.io/music-library/assets/taylorswift/images/22.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/taylorswift/mp3/22.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/taylorswift/lyrics/22.json"
+    },
+    {
+        "title": "anti hero",
+        "subtitle": "Taylor Swift",
+        "img": "https://najibibrahim.github.io/music-library/assets/taylorswift/images/AntiHero.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/taylorswift/mp3/AntiHero.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/taylorswift/lyrics/AntiHero.json"
+    },
+    {
+        "title": "back to december",
+        "subtitle": "Taylor Swift",
+        "img": "https://najibibrahim.github.io/music-library/assets/taylorswift/images/BackToDecember.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/taylorswift/mp3/BackToDecember.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/taylorswift/lyrics/BackToDecember.json"
+    },
+    {
+        "title": "bad blood",
+        "subtitle": "Taylor Swift ft. Kendrick Lamar",
+        "img": "https://najibibrahim.github.io/music-library/assets/taylorswift/images/BadBlood.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/taylorswift/mp3/BadBlood.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/taylorswift/lyrics/BadBlood.json"
+    },
+    {
+        "title": "blank space",
+        "subtitle": "Taylor Swift",
+        "img": "https://najibibrahim.github.io/music-library/assets/taylorswift/images/BlankSpace.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/taylorswift/mp3/BlankSpace.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/taylorswift/lyrics/BlankSpace.json"
+    },
+    {
+        "title": "cruel summer",
+        "subtitle": "Taylor Swift",
+        "img": "https://najibibrahim.github.io/music-library/assets/taylorswift/images/CruelSummer.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/taylorswift/mp3/CruelSummer.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/taylorswift/lyrics/CruelSummer.json"
+    },
+    {
+        "title": "enchanted",
+        "subtitle": "Taylor Swift",
+        "img": "https://najibibrahim.github.io/music-library/assets/taylorswift/images/Enchanted.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/taylorswift/mp3/Enchanted.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/taylorswift/lyrics/Enchanted.json"
+    },
+    {
+        "title": "getaway car",
+        "subtitle": "Taylor Swift",
+        "img": "https://najibibrahim.github.io/music-library/assets/taylorswift/images/GetawayCar.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/taylorswift/mp3/GetawayCar.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/taylorswift/lyrics/GetawayCar.json"
+    },
+    {
+        "title": "i knew you were",
+        "subtitle": "Taylor Swift",
+        "img": "https://najibibrahim.github.io/music-library/assets/taylorswift/images/IKnewYouWere.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/taylorswift/mp3/IKnewYouWere.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/taylorswift/lyrics/IKnewYouWere.json"
+    },
+    {
+        "title": "long live",
+        "subtitle": "Taylor Swift",
+        "img": "https://najibibrahim.github.io/music-library/assets/taylorswift/images/LongLive.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/taylorswift/mp3/LongLive.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/taylorswift/lyrics/LongLive.json"
+    },
+    {
+        "title": "look what you made me do",
+        "subtitle": "Taylor Swift",
+        "img": "https://najibibrahim.github.io/music-library/assets/taylorswift/images/LookWhatYouMadeMeDo.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/taylorswift/mp3/LookWhatYouMadeMeDo.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/taylorswift/lyrics/LookWhatYouMadeMeDo.json"
+    },
+    {
+        "title": "love story",
+        "subtitle": "Taylor Swift",
+        "img": "https://najibibrahim.github.io/music-library/assets/taylorswift/images/LoveStory.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/taylorswift/mp3/LoveStory.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/taylorswift/lyrics/LoveStory.json"
+    },
+    {
+        "title": "mine",
+        "subtitle": "Taylor Swift",
+        "img": "https://najibibrahim.github.io/music-library/assets/taylorswift/images/Mine.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/taylorswift/mp3/Mine.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/taylorswift/lyrics/Mine.json"
+    },
+    {
+        "title": "shake it off",
+        "subtitle": "Taylor Swift",
+        "img": "https://najibibrahim.github.io/music-library/assets/taylorswift/images/ShakeItOff.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/taylorswift/mp3/ShakeItOff.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/taylorswift/lyrics/ShakeItOff.json"
+    },
+    {
+        "title": "style",
+        "subtitle": "Taylor Swift",
+        "img": "https://najibibrahim.github.io/music-library/assets/taylorswift/images/Style.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/taylorswift/mp3/Style.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/taylorswift/lyrics/Style.json"
+    }
+]

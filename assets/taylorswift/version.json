@@ -1,0 +1,7 @@
+{
+    "show": false,
+    "build": "1",
+    "forceUpdate": true,
+    "title": "Warning",
+    "message": "Please update the application to get the latest features, bug fixes and performance improvements"
+}
