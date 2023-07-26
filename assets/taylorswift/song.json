@@ -63,6 +63,13 @@
         "lyrics": "https://najibibrahim.github.io/music-library/assets/taylorswift/lyrics/GetawayCar.json"
     },
     {
+        "title": "i can see you",
+        "subtitle": "Taylor Swift",
+        "img": "https://najibibrahim.github.io/music-library/assets/taylorswift/images/ICanSeeYou.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/taylorswift/mp3/ICanSeeYou.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/taylorswift/lyrics/ICanSeeYou.json"
+    },
+    {
         "title": "i knew you were",
         "subtitle": "Taylor Swift",
         "img": "https://najibibrahim.github.io/music-library/assets/taylorswift/images/IKnewYouWere.png",
