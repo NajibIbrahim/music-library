@@ -63,6 +63,13 @@
         "lyrics": "https://najibibrahim.github.io/music-library/assets/taylorswift/lyrics/IKnewYouWere.json"
     },
     {
+        "title": "lavender haze",
+        "subtitle": "Taylor Swift",
+        "img": "https://najibibrahim.github.io/music-library/assets/taylorswift/images/LavenderHaze.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/taylorswift/mp3/LavenderHaze.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/taylorswift/lyrics/LavenderHaze.json"
+    },
+    {
         "title": "long live",
         "subtitle": "Taylor Swift",
         "img": "https://najibibrahim.github.io/music-library/assets/taylorswift/images/LongLive.png",
