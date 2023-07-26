@@ -28,6 +28,13 @@
         "lyrics": "https://najibibrahim.github.io/music-library/assets/taylorswift/lyrics/BadBlood.json"
     },
     {
+        "title": "bejeweled",
+        "subtitle": "Taylor Swift",
+        "img": "https://najibibrahim.github.io/music-library/assets/taylorswift/images/Bejeweled.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/taylorswift/mp3/Bejeweled.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/taylorswift/lyrics/Bejeweled.json"
+    },
+    {
         "title": "blank space",
         "subtitle": "Taylor Swift",
         "img": "https://najibibrahim.github.io/music-library/assets/taylorswift/images/BlankSpace.png",
