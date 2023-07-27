@@ -49,6 +49,13 @@
         "lyrics": "https://najibibrahim.github.io/music-library/assets/taylorswift/lyrics/CruelSummer.json"
     },
     {
+        "title": "daylight",
+        "subtitle": "Taylor Swift",
+        "img": "https://najibibrahim.github.io/music-library/assets/taylorswift/images/Daylight.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/taylorswift/mp3/Daylight.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/taylorswift/lyrics/Daylight.json"
+    },
+    {
         "title": "enchanted",
         "subtitle": "Taylor Swift",
         "img": "https://najibibrahim.github.io/music-library/assets/taylorswift/images/Enchanted.png",
@@ -124,5 +131,12 @@
         "img": "https://najibibrahim.github.io/music-library/assets/taylorswift/images/Style.png",
         "path": "https://najibibrahim.github.io/music-library/assets/taylorswift/mp3/Style.mp3",
         "lyrics": "https://najibibrahim.github.io/music-library/assets/taylorswift/lyrics/Style.json"
+    },
+    {
+        "title": "would've, could've, should've",
+        "subtitle": "Taylor Swift",
+        "img": "https://najibibrahim.github.io/music-library/assets/taylorswift/images/WouldveCouldveShouldve.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/taylorswift/mp3/WouldveCouldveShouldve.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/taylorswift/lyrics/WouldveCouldveShouldve.json"
     }
 ]
