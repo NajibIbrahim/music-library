@@ -70,6 +70,13 @@
         "lyrics": "https://najibibrahim.github.io/music-library/assets/taylorswift/lyrics/GetawayCar.json"
     },
     {
+        "title": "i bet you think about me",
+        "subtitle": "Taylor Swift ft. Chris Stapleton",
+        "img": "https://najibibrahim.github.io/music-library/assets/taylorswift/images/IBetYouThinkAboutMe.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/taylorswift/mp3/IBetYouThinkAboutMe.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/taylorswift/lyrics/IBetYouThinkAboutMe.json"
+    },
+    {
         "title": "i can see you",
         "subtitle": "Taylor Swift",
         "img": "https://najibibrahim.github.io/music-library/assets/taylorswift/images/ICanSeeYou.png",
