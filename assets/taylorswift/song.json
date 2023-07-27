@@ -154,6 +154,13 @@
         "lyrics": "https://najibibrahim.github.io/music-library/assets/taylorswift/lyrics/TheGreatWar.json"
     },
     {
+        "title": "the way i loved you",
+        "subtitle": "Taylor Swift",
+        "img": "https://najibibrahim.github.io/music-library/assets/taylorswift/images/TheWayILovedYou.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/taylorswift/mp3/TheWayILovedYou.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/taylorswift/lyrics/TheWayILovedYou.json"
+    },
+    {
         "title": "would've, could've, should've",
         "subtitle": "Taylor Swift",
         "img": "https://najibibrahim.github.io/music-library/assets/taylorswift/images/WouldveCouldveShouldve.png",
