@@ -1,0 +1,226 @@
+[
+    {
+      "title": "anpanman", 
+      "subtitle": "BTS",
+      "img": "https://najibibrahim.github.io/music-library/assets/bts/images/Anpanman.png",
+      "path": "https://najibibrahim.github.io/music-library/assets/bts/mp3/Anpanman.mp3",
+      "lyrics": "https://najibibrahim.github.io/music-library/assets/bts/lyrics/Anpanman.json"
+    },
+    {
+        "title": "bad decisions",
+        "subtitle": "BTS",
+        "img": "https://najibibrahim.github.io/music-library/assets/bts/images/BadDecisions.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/bts/mp3/BadDecisions.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/bts/lyrics/BadDecisions.json"
+    },
+    {
+        "title": "black swan",
+        "subtitle": "BTS",
+        "img": "https://najibibrahim.github.io/music-library/assets/bts/images/BlackSwan.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/bts/mp3/BlackSwan.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/bts/lyrics/BlackSwan.json"
+    },
+    {
+        "title": "blood sweat tears",
+        "subtitle": "BTS",
+        "img": "https://najibibrahim.github.io/music-library/assets/bts/images/BloodSweatTears.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/bts/mp3/BloodSweatTears.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/bts/lyrics/BloodSweatTears.json"
+    },
+    {
+        "title": "boy with luv",
+        "subtitle": "BTS",
+        "img": "https://najibibrahim.github.io/music-library/assets/bts/images/BoyWithLuv.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/bts/mp3/BoyWithLuv.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/bts/lyrics/BoyWithLuv.json"
+    },
+    {
+        "title": "butter",
+        "subtitle": "BTS",
+        "img": "https://najibibrahim.github.io/music-library/assets/bts/images/Butter.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/bts/mp3/Butter.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/bts/lyrics/Butter.json"
+    },
+    {
+        "title": "butterfly",
+        "subtitle": "BTS",
+        "img": "https://najibibrahim.github.io/music-library/assets/bts/images/Butterfly.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/bts/mp3/Butterfly.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/bts/lyrics/Butterfly.json"
+    },
+    {
+        "title": "danger",
+        "subtitle": "BTS",
+        "img": "https://najibibrahim.github.io/music-library/assets/bts/images/Danger.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/bts/mp3/Danger.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/bts/lyrics/Danger.json"
+    },
+    {
+        "title": "dna",
+        "subtitle": "BTS",
+        "img": "https://najibibrahim.github.io/music-library/assets/bts/images/DNA.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/bts/mp3/DNA.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/bts/lyrics/DNA.json"
+    },
+    {
+        "title": "dreamers",
+        "subtitle": "Jung Kook BTS",
+        "img": "https://najibibrahim.github.io/music-library/assets/bts/images/Dreamers.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/bts/mp3/Dreamers.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/bts/lyrics/Dreamers.json"
+    },
+    {
+        "title": "dynamite",
+        "subtitle": "BTS",
+        "img": "https://najibibrahim.github.io/music-library/assets/bts/images/Dynamite.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/bts/mp3/Dynamite.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/bts/lyrics/Dynamite.json"
+    },
+    {
+        "title": "euphoria",
+        "subtitle": "BTS",
+        "img": "https://najibibrahim.github.io/music-library/assets/bts/images/Euphoria.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/bts/mp3/Euphoria.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/bts/lyrics/Euphoria.json"
+    },
+    {
+        "title": "fake love",
+        "subtitle": "BTS",
+        "img": "https://najibibrahim.github.io/music-library/assets/bts/images/FakeLove.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/bts/mp3/FakeLove.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/bts/lyrics/FakeLove.json"
+    },
+    {
+        "title": "fire",
+        "subtitle": "BTS",
+        "img": "https://najibibrahim.github.io/music-library/assets/bts/images/Fire.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/bts/mp3/Fire.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/bts/lyrics/Fire.json"
+    },
+    {
+        "title": "idol",
+        "subtitle": "BTS",
+        "img": "https://najibibrahim.github.io/music-library/assets/bts/images/Idol.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/bts/mp3/Idol.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/bts/lyrics/Idol.json"
+    },
+    {
+        "title": "life goes on",
+        "subtitle": "BTS",
+        "img": "https://najibibrahim.github.io/music-library/assets/bts/images/LifeGoesOn.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/bts/mp3/LifeGoesOn.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/bts/lyrics/LifeGoesOn.json"
+    },
+    {
+        "title": "love myself",
+        "subtitle": "BTS",
+        "img": "https://najibibrahim.github.io/music-library/assets/bts/images/LoveMyself.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/bts/mp3/LoveMyself.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/bts/lyrics/LoveMyself.json"
+    },
+    {
+        "title": "make it right",
+        "subtitle": "BTS",
+        "img": "https://najibibrahim.github.io/music-library/assets/bts/images/MakeItRight.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/bts/mp3/MakeItRight.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/bts/lyrics/MakeItRight.json"
+    },
+    {
+        "title": "mic drop",
+        "subtitle": "BTS",
+        "img": "https://najibibrahim.github.io/music-library/assets/bts/images/MicDrop.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/bts/mp3/MicDrop.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/bts/lyrics/MicDrop.json"
+    },
+    {
+        "title": "my universe",
+        "subtitle": "BTS",
+        "img": "https://najibibrahim.github.io/music-library/assets/bts/images/MyUniverse.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/bts/mp3/MyUniverse.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/bts/lyrics/MyUniverse.json"
+    },
+    {
+        "title": "not today",
+        "subtitle": "BTS",
+        "img": "https://najibibrahim.github.io/music-library/assets/bts/images/NotToday.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/bts/mp3/NotToday.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/bts/lyrics/NotToday.json"
+    },
+    {
+        "title": "on",
+        "subtitle": "BTS",
+        "img": "https://najibibrahim.github.io/music-library/assets/bts/images/On.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/bts/mp3/On.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/bts/lyrics/On.json"
+    },
+    {
+        "title": "permission to dance",
+        "subtitle": "BTS",
+        "img": "https://najibibrahim.github.io/music-library/assets/bts/images/PermissionToDance.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/bts/mp3/PermissionToDance.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/bts/lyrics/PermissionToDance.json"
+    },
+    {
+        "title": "run",
+        "subtitle": "BTS",
+        "img": "https://najibibrahim.github.io/music-library/assets/bts/images/Run.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/bts/mp3/Run.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/bts/lyrics/Run.json"
+    },
+    {
+        "title": "savage love",
+        "subtitle": "BTS",
+        "img": "https://najibibrahim.github.io/music-library/assets/bts/images/SavageLove.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/bts/mp3/SavageLove.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/bts/lyrics/SavageLove.json"
+    },
+    {
+        "title": "so what",
+        "subtitle": "BTS",
+        "img": "https://najibibrahim.github.io/music-library/assets/bts/images/SoWhat.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/bts/mp3/SoWhat.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/bts/lyrics/SoWhat.json"
+    },
+    {
+        "title": "spring day",
+        "subtitle": "BTS",
+        "img": "https://najibibrahim.github.io/music-library/assets/bts/images/SpringDay.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/bts/mp3/SpringDay.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/bts/lyrics/SpringDay.json"
+    },
+    {
+        "title": "take two",
+        "subtitle": "BTS",
+        "img": "https://najibibrahim.github.io/music-library/assets/bts/images/TakeTwo.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/bts/mp3/TakeTwo.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/bts/lyrics/TakeTwo.json"
+    },
+    {
+        "title": "the truth untold",
+        "subtitle": "BTS",
+        "img": "https://najibibrahim.github.io/music-library/assets/bts/images/TheTruthUntold.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/bts/mp3/TheTruthUntold.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/bts/lyrics/TheTruthUntold.json"
+    },
+    {
+        "title": "trivia seesaw",
+        "subtitle": "BTS",
+        "img": "https://najibibrahim.github.io/music-library/assets/bts/images/TriviaSeesaw.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/bts/mp3/TriviaSeesaw.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/bts/lyrics/TriviaSeesaw.json"
+    },
+    {
+        "title": "waste it on me",
+        "subtitle": "BTS",
+        "img": "https://najibibrahim.github.io/music-library/assets/bts/images/WasteItOnMe.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/bts/mp3/WasteItOnMe.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/bts/lyrics/WasteItOnMe.json"
+    },
+    {
+        "title": "yet to come",
+        "subtitle": "BTS",
+        "img": "https://najibibrahim.github.io/music-library/assets/bts/images/YetToCome.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/bts/mp3/YetToCome.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/bts/lyrics/YetToCome.json"
+    }
+]
