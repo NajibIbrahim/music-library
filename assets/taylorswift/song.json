@@ -166,5 +166,12 @@
         "img": "https://najibibrahim.github.io/music-library/assets/taylorswift/images/WouldveCouldveShouldve.png",
         "path": "https://najibibrahim.github.io/music-library/assets/taylorswift/mp3/WouldveCouldveShouldve.mp3",
         "lyrics": "https://najibibrahim.github.io/music-library/assets/taylorswift/lyrics/WouldveCouldveShouldve.json"
+    },
+    {
+        "title": "you belong with me",
+        "subtitle": "Taylor Swift",
+        "img": "https://najibibrahim.github.io/music-library/assets/taylorswift/images/YouBelongWithMe.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/taylorswift/mp3/YouBelongWithMe.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/taylorswift/lyrics/YouBelongWithMe.json"
     }
 ]
