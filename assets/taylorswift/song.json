@@ -126,6 +126,13 @@
         "lyrics": "https://najibibrahim.github.io/music-library/assets/taylorswift/lyrics/Mine.json"
     },
     {
+        "title": "red",
+        "subtitle": "Taylor Swift",
+        "img": "https://najibibrahim.github.io/music-library/assets/taylorswift/images/Red.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/taylorswift/mp3/Red.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/taylorswift/lyrics/Red.json"
+    },
+    {
         "title": "shake it off",
         "subtitle": "Taylor Swift",
         "img": "https://najibibrahim.github.io/music-library/assets/taylorswift/images/ShakeItOff.png",
@@ -138,6 +145,13 @@
         "img": "https://najibibrahim.github.io/music-library/assets/taylorswift/images/Style.png",
         "path": "https://najibibrahim.github.io/music-library/assets/taylorswift/mp3/Style.mp3",
         "lyrics": "https://najibibrahim.github.io/music-library/assets/taylorswift/lyrics/Style.json"
+    },
+    {
+        "title": "the great war",
+        "subtitle": "Taylor Swift",
+        "img": "https://najibibrahim.github.io/music-library/assets/taylorswift/images/TheGreatWar.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/taylorswift/mp3/TheGreatWar.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/taylorswift/lyrics/TheGreatWar.json"
     },
     {
         "title": "would've, could've, should've",
