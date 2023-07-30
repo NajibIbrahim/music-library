@@ -8,7 +8,7 @@
     },
     {
         "title": "bad decisions",
-        "subtitle": "BTS",
+        "subtitle": "Benny Blanco, BTS & Snoop Dogg",
         "img": "https://najibibrahim.github.io/music-library/assets/bts/images/BadDecisions.png",
         "path": "https://najibibrahim.github.io/music-library/assets/bts/mp3/BadDecisions.mp3",
         "lyrics": "https://najibibrahim.github.io/music-library/assets/bts/lyrics/BadDecisions.json"
@@ -21,7 +21,7 @@
         "lyrics": "https://najibibrahim.github.io/music-library/assets/bts/lyrics/BlackSwan.json"
     },
     {
-        "title": "blood sweat tears",
+        "title": "blood sweat & tears",
         "subtitle": "BTS",
         "img": "https://najibibrahim.github.io/music-library/assets/bts/images/BloodSweatTears.png",
         "path": "https://najibibrahim.github.io/music-library/assets/bts/mp3/BloodSweatTears.mp3",
@@ -29,7 +29,7 @@
     },
     {
         "title": "boy with luv",
-        "subtitle": "BTS",
+        "subtitle": "BTS ft. Halsey",
         "img": "https://najibibrahim.github.io/music-library/assets/bts/images/BoyWithLuv.png",
         "path": "https://najibibrahim.github.io/music-library/assets/bts/mp3/BoyWithLuv.mp3",
         "lyrics": "https://najibibrahim.github.io/music-library/assets/bts/lyrics/BoyWithLuv.json"
@@ -78,7 +78,7 @@
     },
     {
         "title": "euphoria",
-        "subtitle": "BTS",
+        "subtitle": "Jung Kook BTS",
         "img": "https://najibibrahim.github.io/music-library/assets/bts/images/Euphoria.png",
         "path": "https://najibibrahim.github.io/music-library/assets/bts/mp3/Euphoria.mp3",
         "lyrics": "https://najibibrahim.github.io/music-library/assets/bts/lyrics/Euphoria.json"
@@ -120,7 +120,7 @@
     },
     {
         "title": "make it right",
-        "subtitle": "BTS",
+        "subtitle": "BTS ft. Lauv",
         "img": "https://najibibrahim.github.io/music-library/assets/bts/images/MakeItRight.png",
         "path": "https://najibibrahim.github.io/music-library/assets/bts/mp3/MakeItRight.mp3",
         "lyrics": "https://najibibrahim.github.io/music-library/assets/bts/lyrics/MakeItRight.json"
@@ -134,7 +134,7 @@
     },
     {
         "title": "my universe",
-        "subtitle": "BTS",
+        "subtitle": "Coldplay X BTS",
         "img": "https://najibibrahim.github.io/music-library/assets/bts/images/MyUniverse.png",
         "path": "https://najibibrahim.github.io/music-library/assets/bts/mp3/MyUniverse.mp3",
         "lyrics": "https://najibibrahim.github.io/music-library/assets/bts/lyrics/MyUniverse.json"
@@ -169,10 +169,17 @@
     },
     {
         "title": "savage love",
-        "subtitle": "BTS",
+        "subtitle": "BTS ft. Jason Derulo",
         "img": "https://najibibrahim.github.io/music-library/assets/bts/images/SavageLove.png",
         "path": "https://najibibrahim.github.io/music-library/assets/bts/mp3/SavageLove.mp3",
         "lyrics": "https://najibibrahim.github.io/music-library/assets/bts/lyrics/SavageLove.json"
+    },
+    {
+        "title": "seven",
+        "subtitle": "Jung Kook BTS ft. Latto",
+        "img": "https://najibibrahim.github.io/music-library/assets/bts/images/Seven.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/bts/mp3/Seven.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/bts/lyrics/Seven.json"
     },
     {
         "title": "so what",
@@ -197,21 +204,21 @@
     },
     {
         "title": "the truth untold",
-        "subtitle": "BTS",
+        "subtitle": "BTS ft. Steve Aoki",
         "img": "https://najibibrahim.github.io/music-library/assets/bts/images/TheTruthUntold.png",
         "path": "https://najibibrahim.github.io/music-library/assets/bts/mp3/TheTruthUntold.mp3",
         "lyrics": "https://najibibrahim.github.io/music-library/assets/bts/lyrics/TheTruthUntold.json"
     },
     {
         "title": "trivia seesaw",
-        "subtitle": "BTS",
+        "subtitle": "Suga BTS",
         "img": "https://najibibrahim.github.io/music-library/assets/bts/images/TriviaSeesaw.png",
         "path": "https://najibibrahim.github.io/music-library/assets/bts/mp3/TriviaSeesaw.mp3",
         "lyrics": "https://najibibrahim.github.io/music-library/assets/bts/lyrics/TriviaSeesaw.json"
     },
     {
         "title": "waste it on me",
-        "subtitle": "BTS",
+        "subtitle": "BTS ft. Steve Aoki",
         "img": "https://najibibrahim.github.io/music-library/assets/bts/images/WasteItOnMe.png",
         "path": "https://najibibrahim.github.io/music-library/assets/bts/mp3/WasteItOnMe.mp3",
         "lyrics": "https://najibibrahim.github.io/music-library/assets/bts/lyrics/WasteItOnMe.json"
