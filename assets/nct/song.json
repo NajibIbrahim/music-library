@@ -119,6 +119,13 @@
         "lyrics": "https://najibibrahim.github.io/music-library/assets/nct/lyrics/KickIt.json"
     },
     {
+        "title": "make a wish ( birthday song )",
+        "subtitle": "NCT U",
+        "img": "https://najibibrahim.github.io/music-library/assets/nct/images/MakeAWishBirthdaySong.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/nct/mp3/MakeAWishBirthdaySong.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/nct/lyrics/MakeAWishBirthdaySong.json"
+    },
+    {
         "title": "perfume",
         "subtitle": "NCT Dojaejung",
         "img": "https://najibibrahim.github.io/music-library/assets/nct/images/Perfume.png",
