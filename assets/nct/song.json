@@ -105,6 +105,13 @@
         "lyrics": "https://najibibrahim.github.io/music-library/assets/nct/lyrics/HotSauce.json"
     },
     {
+        "title": "istj",
+        "subtitle": "NCT DREAM",
+        "img": "https://najibibrahim.github.io/music-library/assets/nct/images/ISTJ.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/nct/mp3/ISTJ.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/nct/lyrics/ISTJ.json"
+    },
+    {
         "title": "kick it",
         "subtitle": "NCT 127",
         "img": "https://najibibrahim.github.io/music-library/assets/nct/images/KickIt.png",
