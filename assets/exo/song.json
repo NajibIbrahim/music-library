@@ -1,163 +1,107 @@
 [
     {
-      "title": "2 baddies", 
+      "title": "call me baby", 
       "subtitle": "EXO",
-      "img": "https://najibibrahim.github.io/music-library/assets/exo/images/2Baddies.png",
-      "path": "https://najibibrahim.github.io/music-library/assets/exo/mp3/2Baddies.mp3",
-      "lyrics": "https://najibibrahim.github.io/music-library/assets/exo/lyrics/2Baddies.json"
+      "img": "https://najibibrahim.github.io/music-library/assets/exo/images/CallMeBaby.png",
+      "path": "https://najibibrahim.github.io/music-library/assets/exo/mp3/CallMeBaby.mp3",
+      "lyrics": "https://najibibrahim.github.io/music-library/assets/exo/lyrics/CallMeBaby.json"
     },
     {
-        "title": "90's love",
+        "title": "don't fight the feeling",
         "subtitle": "EXO",
-        "img": "https://najibibrahim.github.io/music-library/assets/exo/images/90sLove.png",
-        "path": "https://najibibrahim.github.io/music-library/assets/exo/mp3/90sLove.mp3",
-        "lyrics": "https://najibibrahim.github.io/music-library/assets/exo/lyrics/90sLove.json"
+        "img": "https://najibibrahim.github.io/music-library/assets/exo/images/DontFightTheFeeling.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/exo/mp3/DontFightTheFeeling.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/exo/lyrics/DontFightTheFeeling.json"
     },
     {
-        "title": "Ay-Yo",
+        "title": "growl",
         "subtitle": "EXO",
-        "img": "https://najibibrahim.github.io/music-library/assets/exo/images/AyYo.png",
-        "path": "https://najibibrahim.github.io/music-library/assets/exo/mp3/AyYo.mp3",
-        "lyrics": "https://najibibrahim.github.io/music-library/assets/exo/lyrics/AyYo.json"
+        "img": "https://najibibrahim.github.io/music-library/assets/exo/images/Growl.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/exo/mp3/Growl.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/exo/lyrics/Growl.json"
     },
     {
-        "title": "baby don't stop",
+        "title": "ko ko bop",
         "subtitle": "EXO",
-        "img": "https://najibibrahim.github.io/music-library/assets/exo/images/BabyDontStop.png",
-        "path": "https://najibibrahim.github.io/music-library/assets/exo/mp3/BabyDontStop.mp3",
-        "lyrics": "https://najibibrahim.github.io/music-library/assets/exo/lyrics/BabyDontStop.json"
+        "img": "https://najibibrahim.github.io/music-library/assets/exo/images/KoKoBop.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/exo/mp3/KoKoBop.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/exo/lyrics/KoKoBop.json"
     },
     {
-        "title": "beatbox",
+        "title": "lotto",
         "subtitle": "EXO",
-        "img": "https://najibibrahim.github.io/music-library/assets/exo/images/Beatbox.png",
-        "path": "https://najibibrahim.github.io/music-library/assets/exo/mp3/Beatbox.mp3",
-        "lyrics": "https://najibibrahim.github.io/music-library/assets/exo/lyrics/Beatbox.json"
+        "img": "https://najibibrahim.github.io/music-library/assets/exo/images/Lotto.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/exo/mp3/Lotto.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/exo/lyrics/Lotto.json"
     },
     {
-        "title": "beautiful",
+        "title": "love me right",
         "subtitle": "EXO",
-        "img": "https://najibibrahim.github.io/music-library/assets/exo/images/Beautiful.png",
-        "path": "https://najibibrahim.github.io/music-library/assets/exo/mp3/Beautiful.mp3",
-        "lyrics": "https://najibibrahim.github.io/music-library/assets/exo/lyrics/Beautiful.json"
+        "img": "https://najibibrahim.github.io/music-library/assets/exo/images/LoveMeRight.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/exo/mp3/LoveMeRight.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/exo/lyrics/LoveMeRight.json"
     },
     {
-        "title": "boom",
+        "title": "love shot",
         "subtitle": "EXO",
-        "img": "https://najibibrahim.github.io/music-library/assets/exo/images/Boom.png",
-        "path": "https://najibibrahim.github.io/music-library/assets/exo/mp3/Boom.mp3",
-        "lyrics": "https://najibibrahim.github.io/music-library/assets/exo/lyrics/Boom.json"
+        "img": "https://najibibrahim.github.io/music-library/assets/exo/images/LoveShot.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/exo/mp3/LoveShot.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/exo/lyrics/LoveShot.json"
     },
     {
-        "title": "boss",
+        "title": "lucky one",
         "subtitle": "EXO",
-        "img": "https://najibibrahim.github.io/music-library/assets/exo/images/Boss.png",
-        "path": "https://najibibrahim.github.io/music-library/assets/exo/mp3/Boss.mp3",
-        "lyrics": "https://najibibrahim.github.io/music-library/assets/exo/lyrics/Boss.json"
+        "img": "https://najibibrahim.github.io/music-library/assets/exo/images/LuckyOne.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/exo/mp3/LuckyOne.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/exo/lyrics/LuckyOne.json"
     },
     {
-        "title": "broken melodies",
+        "title": "monster",
         "subtitle": "EXO",
-        "img": "https://najibibrahim.github.io/music-library/assets/exo/images/BrokenMelodies.png",
-        "path": "https://najibibrahim.github.io/music-library/assets/exo/mp3/BrokenMelodies.mp3",
-        "lyrics": "https://najibibrahim.github.io/music-library/assets/exo/lyrics/BrokenMelodies.json"
+        "img": "https://najibibrahim.github.io/music-library/assets/exo/images/Monster.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/exo/mp3/Monster.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/exo/lyrics/Monster.json"
     },
     {
-        "title": "candy",
+        "title": "obsession",
         "subtitle": "EXO",
-        "img": "https://najibibrahim.github.io/music-library/assets/exo/images/Candy.png",
-        "path": "https://najibibrahim.github.io/music-library/assets/exo/mp3/Candy.mp3",
-        "lyrics": "https://najibibrahim.github.io/music-library/assets/exo/lyrics/Candy.json"
+        "img": "https://najibibrahim.github.io/music-library/assets/exo/images/Obsession.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/exo/mp3/Obsession.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/exo/lyrics/Obsession.json"
     },
     {
-        "title": "cherry bomb",
+        "title": "overdose",
+        "subtitle": "EXO K",
+        "img": "https://najibibrahim.github.io/music-library/assets/exo/images/Overdose.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/exo/mp3/Overdose.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/exo/lyrics/Overdose.json"
+    },
+    {
+        "title": "power",
         "subtitle": "EXO",
-        "img": "https://najibibrahim.github.io/music-library/assets/exo/images/CherryBomb.png",
-        "path": "https://najibibrahim.github.io/music-library/assets/exo/mp3/CherryBomb.mp3",
-        "lyrics": "https://najibibrahim.github.io/music-library/assets/exo/lyrics/CherryBomb.json"
+        "img": "https://najibibrahim.github.io/music-library/assets/exo/images/Power.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/exo/mp3/Power.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/exo/lyrics/Power.json"
     },
     {
-        "title": "chewing gum",
+        "title": "rover",
+        "subtitle": "KAI EXO",
+        "img": "https://najibibrahim.github.io/music-library/assets/exo/images/Rover.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/exo/mp3/Rover.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/exo/lyrics/Rover.json"
+    },
+    {
+        "title": "tempo",
         "subtitle": "EXO",
-        "img": "https://najibibrahim.github.io/music-library/assets/exo/images/ChewingGum.png",
-        "path": "https://najibibrahim.github.io/music-library/assets/exo/mp3/ChewingGum.mp3",
-        "lyrics": "https://najibibrahim.github.io/music-library/assets/exo/lyrics/ChewingGum.json"
+        "img": "https://najibibrahim.github.io/music-library/assets/exo/images/Tempo.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/exo/mp3/Tempo.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/exo/lyrics/Tempo.json"
     },
     {
-        "title": "favorite ( vampire )",
+        "title": "universe",
         "subtitle": "EXO",
-        "img": "https://najibibrahim.github.io/music-library/assets/exo/images/FavoriteVampire.png",
-        "path": "https://najibibrahim.github.io/music-library/assets/exo/mp3/FavoriteVampire.mp3",
-        "lyrics": "https://najibibrahim.github.io/music-library/assets/exo/lyrics/FavoriteVampire.json"
-    },
-    {
-        "title": "golden hour",
-        "subtitle": "EXO",
-        "img": "https://najibibrahim.github.io/music-library/assets/exo/images/GoldenHour.png",
-        "path": "https://najibibrahim.github.io/music-library/assets/exo/mp3/GoldenHour.mp3",
-        "lyrics": "https://najibibrahim.github.io/music-library/assets/exo/lyrics/GoldenHour.json"
-    },
-    {
-        "title": "hot sauce",
-        "subtitle": "EXO",
-        "img": "https://najibibrahim.github.io/music-library/assets/exo/images/HotSauce.png",
-        "path": "https://najibibrahim.github.io/music-library/assets/exo/mp3/HotSauce.mp3",
-        "lyrics": "https://najibibrahim.github.io/music-library/assets/exo/lyrics/HotSauce.json"
-    },
-    {
-        "title": "istj",
-        "subtitle": "EXO",
-        "img": "https://najibibrahim.github.io/music-library/assets/exo/images/ISTJ.png",
-        "path": "https://najibibrahim.github.io/music-library/assets/exo/mp3/ISTJ.mp3",
-        "lyrics": "https://najibibrahim.github.io/music-library/assets/exo/lyrics/ISTJ.json"
-    },
-    {
-        "title": "kick it",
-        "subtitle": "EXO",
-        "img": "https://najibibrahim.github.io/music-library/assets/exo/images/KickIt.png",
-        "path": "https://najibibrahim.github.io/music-library/assets/exo/mp3/KickIt.mp3",
-        "lyrics": "https://najibibrahim.github.io/music-library/assets/exo/lyrics/KickIt.json"
-    },
-    {
-        "title": "make a wish ( birthday song )",
-        "subtitle": "EXO",
-        "img": "https://najibibrahim.github.io/music-library/assets/exo/images/MakeAWishBirthdaySong.png",
-        "path": "https://najibibrahim.github.io/music-library/assets/exo/mp3/MakeAWishBirthdaySong.mp3",
-        "lyrics": "https://najibibrahim.github.io/music-library/assets/exo/lyrics/MakeAWishBirthdaySong.json"
-    },
-    {
-        "title": "perfume",
-        "subtitle": "EXO",
-        "img": "https://najibibrahim.github.io/music-library/assets/exo/images/Perfume.png",
-        "path": "https://najibibrahim.github.io/music-library/assets/exo/mp3/Perfume.mp3",
-        "lyrics": "https://najibibrahim.github.io/music-library/assets/exo/lyrics/Perfume.json"
-    },
-    {
-        "title": "resonance",
-        "subtitle": "EXO",
-        "img": "https://najibibrahim.github.io/music-library/assets/exo/images/Resonance.png",
-        "path": "https://najibibrahim.github.io/music-library/assets/exo/mp3/Resonance.mp3",
-        "lyrics": "https://najibibrahim.github.io/music-library/assets/exo/lyrics/Resonance.json"
-    },
-    {
-        "title": "shalala",
-        "subtitle": "EXOAEYONG",
-        "img": "https://najibibrahim.github.io/music-library/assets/exo/images/Shalala.png",
-        "path": "https://najibibrahim.github.io/music-library/assets/exo/mp3/Shalala.mp3",
-        "lyrics": "https://najibibrahim.github.io/music-library/assets/exo/lyrics/Shalala.json"
-    },
-    {
-        "title": "simon says",
-        "subtitle": "EXO",
-        "img": "https://najibibrahim.github.io/music-library/assets/exo/images/SimonSays.png",
-        "path": "https://najibibrahim.github.io/music-library/assets/exo/mp3/SimonSays.mp3",
-        "lyrics": "https://najibibrahim.github.io/music-library/assets/exo/lyrics/SimonSays.json"
-    },
-    {
-        "title": "universe ( let's play ball )",
-        "subtitle": "EXO",
-        "img": "https://najibibrahim.github.io/music-library/assets/exo/images/UniverseLetsPlayBall.png",
-        "path": "https://najibibrahim.github.io/music-library/assets/exo/mp3/UniverseLetsPlayBall.mp3",
-        "lyrics": "https://najibibrahim.github.io/music-library/assets/exo/lyrics/UniverseLetsPlayBall.json"
+        "img": "https://najibibrahim.github.io/music-library/assets/exo/images/Universe.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/exo/mp3/Universe.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/exo/lyrics/Universe.json"
     }
 ]
