@@ -1,10 +1,24 @@
 [
     {
-      "title": "call me baby", 
+      "title": "artificial love", 
       "subtitle": "EXO",
-      "img": "https://najibibrahim.github.io/music-library/assets/exo/images/CallMeBaby.png",
-      "path": "https://najibibrahim.github.io/music-library/assets/exo/mp3/CallMeBaby.mp3",
-      "lyrics": "https://najibibrahim.github.io/music-library/assets/exo/lyrics/CallMeBaby.json"
+      "img": "https://najibibrahim.github.io/music-library/assets/exo/images/ArtificialLove.png",
+      "path": "https://najibibrahim.github.io/music-library/assets/exo/mp3/ArtificialLove.mp3",
+      "lyrics": "https://najibibrahim.github.io/music-library/assets/exo/lyrics/ArtificialLove.json"
+    },
+    {
+        "title": "call me baby",
+        "subtitle": "EXO",
+        "img": "https://najibibrahim.github.io/music-library/assets/exo/images/CallMeBaby.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/exo/mp3/CallMeBaby.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/exo/lyrics/CallMeBaby.json"
+    },
+    {
+        "title": "cream soda",
+        "subtitle": "EXO",
+        "img": "https://najibibrahim.github.io/music-library/assets/exo/images/CreamSoda.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/exo/mp3/CreamSoda.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/exo/lyrics/CreamSoda.json"
     },
     {
         "title": "don't fight the feeling",
