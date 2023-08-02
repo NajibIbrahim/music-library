@@ -1,42 +1,50 @@
 [
   {
-    "title": "what is love",
+    "title": "wannabe",
     "subtitle": "ITZY",
     "cover": "https://najibibrahim.github.io/music-library/assets/itzy/images/populer1.png",
-    "img": "https://najibibrahim.github.io/music-library/assets/itzy/images/WhatIsLove.png",
-    "path": "https://najibibrahim.github.io/music-library/assets/itzy/mp3/WhatIsLove.mp3",
-    "lyrics": "https://najibibrahim.github.io/music-library/assets/itzy/lyrics/WhatIsLove.json"
+    "img": "https://najibibrahim.github.io/music-library/assets/itzy/images/Wannabe.png",
+    "path": "https://najibibrahim.github.io/music-library/assets/itzy/mp3/Wannabe.mp3",
+    "lyrics": "https://najibibrahim.github.io/music-library/assets/itzy/lyrics/Wannabe.json"
   },
   {
-    "title": "likey",
+    "title": "icy",
     "subtitle": "ITZY",
     "cover": "https://najibibrahim.github.io/music-library/assets/itzy/images/populer2.png",
-    "img": "https://najibibrahim.github.io/music-library/assets/itzy/images/Likey.png",
-    "path": "https://najibibrahim.github.io/music-library/assets/itzy/mp3/Likey.mp3",
-    "lyrics": "https://najibibrahim.github.io/music-library/assets/itzy/lyrics/Likey.json"
+    "img": "https://najibibrahim.github.io/music-library/assets/itzy/images/Icy.png",
+    "path": "https://najibibrahim.github.io/music-library/assets/itzy/mp3/Icy.mp3",
+    "lyrics": "https://najibibrahim.github.io/music-library/assets/itzy/lyrics/Icy.json"
   },
   {
-    "title": "fancy",
+    "title": "loco",
+    "subtitle": "ITZY",
+    "cover": "https://najibibrahim.github.io/music-library/assets/itzy/images/populer3.png",
+    "img": "https://najibibrahim.github.io/music-library/assets/itzy/images/Loco.png",
+    "path": "https://najibibrahim.github.io/music-library/assets/itzy/mp3/Loco.mp3",
+    "lyrics": "https://najibibrahim.github.io/music-library/assets/itzy/lyrics/Loco.json"
+  },
+  {
+    "title": "dalla dalla",
     "subtitle": "ITZY",
     "cover": "https://najibibrahim.github.io/music-library/assets/itzy/images/populer4.png",
-    "img": "https://najibibrahim.github.io/music-library/assets/itzy/images/Fancy.png",
-    "path": "https://najibibrahim.github.io/music-library/assets/itzy/mp3/Fancy.mp3",
-    "lyrics": "https://najibibrahim.github.io/music-library/assets/itzy/lyrics/Fancy.json"
+    "img": "https://najibibrahim.github.io/music-library/assets/itzy/images/DallaDalla.png",
+    "path": "https://najibibrahim.github.io/music-library/assets/itzy/mp3/DallaDalla.mp3",
+    "lyrics": "https://najibibrahim.github.io/music-library/assets/itzy/lyrics/DallaDalla.json"
   },
   {
-    "title": "cheer up",
+    "title": "not shy",
     "subtitle": "ITZY",
     "cover": "https://najibibrahim.github.io/music-library/assets/itzy/images/populer5.png",
-    "img": "https://najibibrahim.github.io/music-library/assets/itzy/images/CheerUp.png",
-    "path": "https://najibibrahim.github.io/music-library/assets/itzy/mp3/CheerUp.mp3",
-    "lyrics": "https://najibibrahim.github.io/music-library/assets/itzy/lyrics/CheerUp.json"
+    "img": "https://najibibrahim.github.io/music-library/assets/itzy/images/NotShy.png",
+    "path": "https://najibibrahim.github.io/music-library/assets/itzy/mp3/NotShy.mp3",
+    "lyrics": "https://najibibrahim.github.io/music-library/assets/itzy/lyrics/NotShy.json"
   },
   {
-    "title": "like ooh - ahh",
+    "title": "in the morning",
     "subtitle": "ITZY",
     "cover": "https://najibibrahim.github.io/music-library/assets/itzy/images/populer6.png",
-    "img": "https://najibibrahim.github.io/music-library/assets/itzy/images/LikeOohAhh.png",
-    "path": "https://najibibrahim.github.io/music-library/assets/itzy/mp3/LikeOohAhh.mp3",
-    "lyrics": "https://najibibrahim.github.io/music-library/assets/itzy/lyrics/LikeOohAhh.json"
+    "img": "https://najibibrahim.github.io/music-library/assets/itzy/images/InTheMorning.png",
+    "path": "https://najibibrahim.github.io/music-library/assets/itzy/mp3/InTheMorning.mp3",
+    "lyrics": "https://najibibrahim.github.io/music-library/assets/itzy/lyrics/InTheMorning.json"
   }
 ]
