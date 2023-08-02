@@ -1,0 +1,50 @@
+[
+  {
+    "title": "yellow",
+    "subtitle": "TWICE",
+    "cover": "https://najibibrahim.github.io/music-library/assets/coldplay/images/populer1.png",
+    "img": "https://najibibrahim.github.io/music-library/assets/coldplay/images/Yellow.png",
+    "path": "https://najibibrahim.github.io/music-library/assets/coldplay/mp3/Yellow.mp3",
+    "lyrics": "https://najibibrahim.github.io/music-library/assets/coldplay/lyrics/Yellow.json"
+  },
+  {
+    "title": "fix you",
+    "subtitle": "TWICE",
+    "cover": "https://najibibrahim.github.io/music-library/assets/coldplay/images/populer2.png",
+    "img": "https://najibibrahim.github.io/music-library/assets/coldplay/images/FixYou.png",
+    "path": "https://najibibrahim.github.io/music-library/assets/coldplay/mp3/FixYou.mp3",
+    "lyrics": "https://najibibrahim.github.io/music-library/assets/coldplay/lyrics/FixYou.json"
+  },
+  {
+    "title": "my universe",
+    "subtitle": "TWICE",
+    "cover": "https://najibibrahim.github.io/music-library/assets/coldplay/images/populer3.png",
+    "img": "https://najibibrahim.github.io/music-library/assets/coldplay/images/MyUniverse.png",
+    "path": "https://najibibrahim.github.io/music-library/assets/coldplay/mp3/MyUniverse.mp3",
+    "lyrics": "https://najibibrahim.github.io/music-library/assets/coldplay/lyrics/MyUniverse.json"
+  },
+  {
+    "title": "viva la vida",
+    "subtitle": "TWICE",
+    "cover": "https://najibibrahim.github.io/music-library/assets/coldplay/images/populer4.png",
+    "img": "https://najibibrahim.github.io/music-library/assets/coldplay/images/VivaLaVida.png",
+    "path": "https://najibibrahim.github.io/music-library/assets/coldplay/mp3/VivaLaVida.mp3",
+    "lyrics": "https://najibibrahim.github.io/music-library/assets/coldplay/lyrics/VivaLaVida.json"
+  },
+  {
+    "title": "a sky full of stars",
+    "subtitle": "TWICE",
+    "cover": "https://najibibrahim.github.io/music-library/assets/coldplay/images/populer5.png",
+    "img": "https://najibibrahim.github.io/music-library/assets/coldplay/images/ASkyFullOfStars.png",
+    "path": "https://najibibrahim.github.io/music-library/assets/coldplay/mp3/ASkyFullOfStars.mp3",
+    "lyrics": "https://najibibrahim.github.io/music-library/assets/coldplay/lyrics/ASkyFullOfStars.json"
+  },
+  {
+    "title": "paradise",
+    "subtitle": "TWICE",
+    "cover": "https://najibibrahim.github.io/music-library/assets/coldplay/images/populer6.png",
+    "img": "https://najibibrahim.github.io/music-library/assets/coldplay/images/Paradise.png",
+    "path": "https://najibibrahim.github.io/music-library/assets/coldplay/mp3/Paradise.mp3",
+    "lyrics": "https://najibibrahim.github.io/music-library/assets/coldplay/lyrics/Paradise.json"
+  }
+]
