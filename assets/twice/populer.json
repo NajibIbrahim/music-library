@@ -16,17 +16,9 @@
     "lyrics": "https://najibibrahim.github.io/music-library/assets/twice/lyrics/Likey.json"
   },
   {
-    "title": "my universe",
-    "subtitle": "tt",
-    "cover": "https://najibibrahim.github.io/music-library/assets/twice/images/populer3.png",
-    "img": "https://najibibrahim.github.io/music-library/assets/twice/images/TT.png",
-    "path": "https://najibibrahim.github.io/music-library/assets/twice/mp3/TT.mp3",
-    "lyrics": "https://najibibrahim.github.io/music-library/assets/twice/lyrics/TT.json"
-  },
-  {
     "title": "fancy",
     "subtitle": "TWICE",
-    "cover": "https://najibibrahim.github.io/music-library/assets/twice/images/populer4.png",
+    "cover": "https://najibibrahim.github.io/music-library/assets/twice/images/populer3.png",
     "img": "https://najibibrahim.github.io/music-library/assets/twice/images/Fancy.png",
     "path": "https://najibibrahim.github.io/music-library/assets/twice/mp3/Fancy.mp3",
     "lyrics": "https://najibibrahim.github.io/music-library/assets/twice/lyrics/Fancy.json"
@@ -34,7 +26,7 @@
   {
     "title": "cheer up",
     "subtitle": "TWICE",
-    "cover": "https://najibibrahim.github.io/music-library/assets/twice/images/populer5.png",
+    "cover": "https://najibibrahim.github.io/music-library/assets/twice/images/populer4.png",
     "img": "https://najibibrahim.github.io/music-library/assets/twice/images/CheerUp.png",
     "path": "https://najibibrahim.github.io/music-library/assets/twice/mp3/CheerUp.mp3",
     "lyrics": "https://najibibrahim.github.io/music-library/assets/twice/lyrics/CheerUp.json"
@@ -42,7 +34,7 @@
   {
     "title": "like ooh - ahh",
     "subtitle": "TWICE",
-    "cover": "https://najibibrahim.github.io/music-library/assets/twice/images/populer6.png",
+    "cover": "https://najibibrahim.github.io/music-library/assets/twice/images/populer5.png",
     "img": "https://najibibrahim.github.io/music-library/assets/twice/images/LikeOohAhh.png",
     "path": "https://najibibrahim.github.io/music-library/assets/twice/mp3/LikeOohAhh.mp3",
     "lyrics": "https://najibibrahim.github.io/music-library/assets/twice/lyrics/LikeOohAhh.json"

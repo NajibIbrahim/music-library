@@ -1,0 +1,42 @@
+[
+  {
+    "title": "what is love",
+    "subtitle": "ITZY",
+    "cover": "https://najibibrahim.github.io/music-library/assets/itzy/images/populer1.png",
+    "img": "https://najibibrahim.github.io/music-library/assets/itzy/images/WhatIsLove.png",
+    "path": "https://najibibrahim.github.io/music-library/assets/itzy/mp3/WhatIsLove.mp3",
+    "lyrics": "https://najibibrahim.github.io/music-library/assets/itzy/lyrics/WhatIsLove.json"
+  },
+  {
+    "title": "likey",
+    "subtitle": "ITZY",
+    "cover": "https://najibibrahim.github.io/music-library/assets/itzy/images/populer2.png",
+    "img": "https://najibibrahim.github.io/music-library/assets/itzy/images/Likey.png",
+    "path": "https://najibibrahim.github.io/music-library/assets/itzy/mp3/Likey.mp3",
+    "lyrics": "https://najibibrahim.github.io/music-library/assets/itzy/lyrics/Likey.json"
+  },
+  {
+    "title": "fancy",
+    "subtitle": "ITZY",
+    "cover": "https://najibibrahim.github.io/music-library/assets/itzy/images/populer4.png",
+    "img": "https://najibibrahim.github.io/music-library/assets/itzy/images/Fancy.png",
+    "path": "https://najibibrahim.github.io/music-library/assets/itzy/mp3/Fancy.mp3",
+    "lyrics": "https://najibibrahim.github.io/music-library/assets/itzy/lyrics/Fancy.json"
+  },
+  {
+    "title": "cheer up",
+    "subtitle": "ITZY",
+    "cover": "https://najibibrahim.github.io/music-library/assets/itzy/images/populer5.png",
+    "img": "https://najibibrahim.github.io/music-library/assets/itzy/images/CheerUp.png",
+    "path": "https://najibibrahim.github.io/music-library/assets/itzy/mp3/CheerUp.mp3",
+    "lyrics": "https://najibibrahim.github.io/music-library/assets/itzy/lyrics/CheerUp.json"
+  },
+  {
+    "title": "like ooh - ahh",
+    "subtitle": "ITZY",
+    "cover": "https://najibibrahim.github.io/music-library/assets/itzy/images/populer6.png",
+    "img": "https://najibibrahim.github.io/music-library/assets/itzy/images/LikeOohAhh.png",
+    "path": "https://najibibrahim.github.io/music-library/assets/itzy/mp3/LikeOohAhh.mp3",
+    "lyrics": "https://najibibrahim.github.io/music-library/assets/itzy/lyrics/LikeOohAhh.json"
+  }
+]
