@@ -1,34 +1,34 @@
 [
   {
-    "title": "make a wish ( birthday song )",
-    "subtitle": "NCT U",
+    "title": "love shot",
+    "subtitle": "EXO",
     "cover": "https://najibibrahim.github.io/music-library/assets/exo/images/populer1.png",
-    "img": "https://najibibrahim.github.io/music-library/assets/exo/images/MakeAWishBirthdaySong.png",
-    "path": "https://najibibrahim.github.io/music-library/assets/exo/mp3/MakeAWishBirthdaySong.mp3",
-    "lyrics": "https://najibibrahim.github.io/music-library/assets/exo/lyrics/MakeAWishBirthdaySong.json"
+    "img": "https://najibibrahim.github.io/music-library/assets/exo/images/LoveShot.png",
+    "path": "https://najibibrahim.github.io/music-library/assets/exo/mp3/LoveShot.mp3",
+    "lyrics": "https://najibibrahim.github.io/music-library/assets/exo/lyrics/LoveShot.json"
   },
   {
-    "title": "resonance",
-    "subtitle": "NCT 2020",
+    "title": "monster",
+    "subtitle": "EXO",
     "cover": "https://najibibrahim.github.io/music-library/assets/exo/images/populer2.png",
-    "img": "https://najibibrahim.github.io/music-library/assets/exo/images/Resonance.png",
-    "path": "https://najibibrahim.github.io/music-library/assets/exo/mp3/Resonance.mp3",
-    "lyrics": "https://najibibrahim.github.io/music-library/assets/exo/lyrics/Resonance.json"
+    "img": "https://najibibrahim.github.io/music-library/assets/exo/images/Monster.png",
+    "path": "https://najibibrahim.github.io/music-library/assets/exo/mp3/Monster.mp3",
+    "lyrics": "https://najibibrahim.github.io/music-library/assets/exo/lyrics/Monster.json"
   },
   {
-    "title": "90's love",
-    "subtitle": "NCT U",
+    "title": "ko ko bop",
+    "subtitle": "EXO",
     "cover": "https://najibibrahim.github.io/music-library/assets/exo/images/populer3.png",
-    "img": "https://najibibrahim.github.io/music-library/assets/exo/images/90sLove.png",
-    "path": "https://najibibrahim.github.io/music-library/assets/exo/mp3/90sLove.mp3",
-    "lyrics": "https://najibibrahim.github.io/music-library/assets/exo/lyrics/90sLove.json"
+    "img": "https://najibibrahim.github.io/music-library/assets/exo/images/KoKoBop.png",
+    "path": "https://najibibrahim.github.io/music-library/assets/exo/mp3/KoKoBop.mp3",
+    "lyrics": "https://najibibrahim.github.io/music-library/assets/exo/lyrics/KoKoBop.json"
   },
   {
-    "title": "istj",
-    "subtitle": "NCT",
+    "title": "call me baby",
+    "subtitle": "EXO",
     "cover": "https://najibibrahim.github.io/music-library/assets/exo/images/populer4.png",
-    "img": "https://najibibrahim.github.io/music-library/assets/exo/images/ISTJ.png",
-    "path": "https://najibibrahim.github.io/music-library/assets/exo/mp3/ISTJ.mp3",
-    "lyrics": "https://najibibrahim.github.io/music-library/assets/exo/lyrics/ISTJ.json"
+    "img": "https://najibibrahim.github.io/music-library/assets/exo/images/CallMeBaby.png",
+    "path": "https://najibibrahim.github.io/music-library/assets/exo/mp3/CallMeBaby.mp3",
+    "lyrics": "https://najibibrahim.github.io/music-library/assets/exo/lyrics/CallMeBaby.json"
   }
 ]
