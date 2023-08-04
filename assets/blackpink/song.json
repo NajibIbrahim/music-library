@@ -6,6 +6,13 @@
       "lyrics": "https://najibibrahim.github.io/music-library/assets/blackpink/lyrics/AsIFItsYourLast.json"
     },
     {
+        "title": "all eyes on me",
+        "subtitle": "JISOO BLACKPINK",
+        "img": "https://najibibrahim.github.io/music-library/assets/blackpink/images/AllEyesOnMe.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/blackpink/mp3/AllEyesOnMe.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/blackpink/lyrics/AllEyesOnMe.json"
+    },
+    {
         "title": "bet you wanna", "subtitle": "BLACKPINK",
         "img": "https://najibibrahim.github.io/music-library/assets/blackpink/images/cover1.png",
         "path": "https://najibibrahim.github.io/music-library/assets/blackpink/mp3/BetYouWanna.mp3",
