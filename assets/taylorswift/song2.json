@@ -42,6 +42,20 @@
         "lyrics": "https://najibibrahim.github.io/music-library/assets/taylorswift/lyrics/BlankSpace.json"
     },
     {
+        "title": "cardigan",
+        "subtitle": "Taylor Swift",
+        "img": "https://najibibrahim.github.io/music-library/assets/taylorswift/images/Cardigan.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/taylorswift/mp3/Cardigan.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/taylorswift/lyrics/Cardigan.json"
+    },
+    {
+        "title": "champagne problems",
+        "subtitle": "Taylor Swift",
+        "img": "https://najibibrahim.github.io/music-library/assets/taylorswift/images/ChampagneProblems.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/taylorswift/mp3/ChampagneProblems.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/taylorswift/lyrics/ChampagneProblems.json"
+    },
+    {
         "title": "cruel summer",
         "subtitle": "Taylor Swift",
         "img": "https://najibibrahim.github.io/music-library/assets/taylorswift/images/CruelSummer.png",
@@ -61,6 +75,13 @@
         "img": "https://najibibrahim.github.io/music-library/assets/taylorswift/images/Enchanted.png",
         "path": "https://najibibrahim.github.io/music-library/assets/taylorswift/mp3/Enchanted.mp3",
         "lyrics": "https://najibibrahim.github.io/music-library/assets/taylorswift/lyrics/Enchanted.json"
+    },
+    {
+        "title": "exile",
+        "subtitle": "Taylor Swift",
+        "img": "https://najibibrahim.github.io/music-library/assets/taylorswift/images/Exile.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/taylorswift/mp3/Exile.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/taylorswift/lyrics/Exile.json"
     },
     {
         "title": "getaway car",
@@ -91,6 +112,20 @@
         "lyrics": "https://najibibrahim.github.io/music-library/assets/taylorswift/lyrics/IKnewYouWere.json"
     },
     {
+        "title": "invisible string",
+        "subtitle": "Taylor Swift",
+        "img": "https://najibibrahim.github.io/music-library/assets/taylorswift/images/InvisibleString.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/taylorswift/mp3/InvisibleString.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/taylorswift/lyrics/InvisibleString.json"
+    },
+    {
+        "title": "i think he knows",
+        "subtitle": "Taylor Swift",
+        "img": "https://najibibrahim.github.io/music-library/assets/taylorswift/images/IThinkHeKnows.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/taylorswift/mp3/IThinkHeKnows.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/taylorswift/lyrics/IThinkHeKnows.json"
+    },
+    {
         "title": "lavender haze",
         "subtitle": "Taylor Swift",
         "img": "https://najibibrahim.github.io/music-library/assets/taylorswift/images/LavenderHaze.png",
@@ -112,6 +147,13 @@
         "lyrics": "https://najibibrahim.github.io/music-library/assets/taylorswift/lyrics/LookWhatYouMadeMeDo.json"
     },
     {
+        "title": "lover",
+        "subtitle": "Taylor Swift",
+        "img": "https://najibibrahim.github.io/music-library/assets/taylorswift/images/Lover.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/taylorswift/mp3/Lover.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/taylorswift/lyrics/Lover.json"
+    },
+    {
         "title": "love story",
         "subtitle": "Taylor Swift",
         "img": "https://najibibrahim.github.io/music-library/assets/taylorswift/images/LoveStory.png",
@@ -119,11 +161,39 @@
         "lyrics": "https://najibibrahim.github.io/music-library/assets/taylorswift/lyrics/LoveStory.json"
     },
     {
+        "title": "me!",
+        "subtitle": "Taylor Swift ft. Brendon Urie",
+        "img": "https://najibibrahim.github.io/music-library/assets/taylorswift/images/Me.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/taylorswift/mp3/Me.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/taylorswift/lyrics/Me.json"
+    },
+    {
         "title": "mine",
         "subtitle": "Taylor Swift",
         "img": "https://najibibrahim.github.io/music-library/assets/taylorswift/images/Mine.png",
         "path": "https://najibibrahim.github.io/music-library/assets/taylorswift/mp3/Mine.mp3",
         "lyrics": "https://najibibrahim.github.io/music-library/assets/taylorswift/lyrics/Mine.json"
+    },
+    {
+        "title": "mirrorball",
+        "subtitle": "Taylor Swift",
+        "img": "https://najibibrahim.github.io/music-library/assets/taylorswift/images/Mirrorball.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/taylorswift/mp3/Mirrorball.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/taylorswift/lyrics/Mirrorball.json"
+    },
+    {
+        "title": "my tears ricochet",
+        "subtitle": "Taylor Swift",
+        "img": "https://najibibrahim.github.io/music-library/assets/taylorswift/images/MyTearsRicochet.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/taylorswift/mp3/MyTearsRicochet.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/taylorswift/lyrics/MyTearsRicochet.json"
+    },
+    {
+        "title": "no body no crime",
+        "subtitle": "Taylor Swift ft. HAIM",
+        "img": "https://najibibrahim.github.io/music-library/assets/taylorswift/images/NoBodyNoCrimeFt.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/taylorswift/mp3/NoBodyNoCrimeFt.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/taylorswift/lyrics/NoBodyNoCrimeFt.json"
     },
     {
         "title": "red",
@@ -147,6 +217,13 @@
         "lyrics": "https://najibibrahim.github.io/music-library/assets/taylorswift/lyrics/Style.json"
     },
     {
+        "title": "The 1",
+        "subtitle": "Taylor Swift",
+        "img": "https://najibibrahim.github.io/music-library/assets/taylorswift/images/The1.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/taylorswift/mp3/The1.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/taylorswift/lyrics/The1.json"
+    },
+    {
         "title": "the great war",
         "subtitle": "Taylor Swift",
         "img": "https://najibibrahim.github.io/music-library/assets/taylorswift/images/TheGreatWar.png",
@@ -154,11 +231,32 @@
         "lyrics": "https://najibibrahim.github.io/music-library/assets/taylorswift/lyrics/TheGreatWar.json"
     },
     {
+        "title": "the last great american dynasty",
+        "subtitle": "Taylor Swift",
+        "img": "https://najibibrahim.github.io/music-library/assets/taylorswift/images/TheLastGreatAmericanDynasty.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/taylorswift/mp3/TheLastGreatAmericanDynasty.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/taylorswift/lyrics/TheLastGreatAmericanDynasty.json"
+    },
+    {
+        "title": "the man",
+        "subtitle": "Taylor Swift",
+        "img": "https://najibibrahim.github.io/music-library/assets/taylorswift/images/TheMan.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/taylorswift/mp3/TheMan.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/taylorswift/lyrics/TheMan.json"
+    },
+    {
         "title": "the way i loved you",
         "subtitle": "Taylor Swift",
         "img": "https://najibibrahim.github.io/music-library/assets/taylorswift/images/TheWayILovedYou.png",
         "path": "https://najibibrahim.github.io/music-library/assets/taylorswift/mp3/TheWayILovedYou.mp3",
         "lyrics": "https://najibibrahim.github.io/music-library/assets/taylorswift/lyrics/TheWayILovedYou.json"
+    },
+    {
+        "title": "willow",
+        "subtitle": "Taylor Swift",
+        "img": "https://najibibrahim.github.io/music-library/assets/taylorswift/images/Willow.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/taylorswift/mp3/Willow.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/taylorswift/lyrics/Willow.json"
     },
     {
         "title": "would've, could've, should've",
@@ -173,5 +271,12 @@
         "img": "https://najibibrahim.github.io/music-library/assets/taylorswift/images/YouBelongWithMe.png",
         "path": "https://najibibrahim.github.io/music-library/assets/taylorswift/mp3/YouBelongWithMe.mp3",
         "lyrics": "https://najibibrahim.github.io/music-library/assets/taylorswift/lyrics/YouBelongWithMe.json"
+    },
+    {
+        "title": "you need to calm down",
+        "subtitle": "Taylor Swift",
+        "img": "https://najibibrahim.github.io/music-library/assets/taylorswift/images/YouNeedToCalmDown.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/taylorswift/mp3/YouNeedToCalmDown.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/taylorswift/lyrics/YouNeedToCalmDown.json"
     }
 ]
