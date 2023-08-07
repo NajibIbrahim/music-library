@@ -1,149 +1,142 @@
 [
     {
-        "title": "alcohol free",
-        "subtitle": "TWICE",
-        "img": "https://najibibrahim.github.io/music-library/assets/twice/images/AlcoholFree.png",
-        "path": "https://najibibrahim.github.io/music-library/assets/twice/mp3/AlcoholFree.mp3",
-        "lyrics": "https://najibibrahim.github.io/music-library/assets/twice/lyrics/AlcoholFree.json"
+        "title": "#Twenty",
+        "subtitle": "ITZY",
+        "img": "https://najibibrahim.github.io/music-library/assets/itzy/images/#Twenty.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/itzy/mp3/#Twenty.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/itzy/lyrics/#Twenty.json"
     },
     {
-        "title": "cheer up",
-        "subtitle": "TWICE",
-        "img": "https://najibibrahim.github.io/music-library/assets/twice/images/CheerUp.png",
-        "path": "https://najibibrahim.github.io/music-library/assets/twice/mp3/CheerUp.mp3",
-        "lyrics": "https://najibibrahim.github.io/music-library/assets/twice/lyrics/CheerUp.json"
+        "title": "365",
+        "subtitle": "ITZY",
+        "img": "https://najibibrahim.github.io/music-library/assets/itzy/images/365.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/itzy/mp3/365.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/itzy/lyrics/365.json"
     },
     {
-        "title": "dance the night away",
-        "subtitle": "TWICE",
-        "img": "https://najibibrahim.github.io/music-library/assets/twice/images/DanceTheNightAway.png",
-        "path": "https://najibibrahim.github.io/music-library/assets/twice/mp3/DanceTheNightAway.mp3",
-        "lyrics": "https://najibibrahim.github.io/music-library/assets/twice/lyrics/DanceTheNightAway.json"
+        "title": "be in love",
+        "subtitle": "ITZY",
+        "img": "https://najibibrahim.github.io/music-library/assets/itzy/images/BeInLove.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/itzy/mp3/BeInLove.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/itzy/lyrics/BeInLove.json"
     },
     {
-        "title": "fancy",
-        "subtitle": "TWICE",
-        "img": "https://najibibrahim.github.io/music-library/assets/twice/images/Fancy.png",
-        "path": "https://najibibrahim.github.io/music-library/assets/twice/mp3/Fancy.mp3",
-        "lyrics": "https://najibibrahim.github.io/music-library/assets/twice/lyrics/Fancy.json"
+        "title": "bet on me",
+        "subtitle": "ITZY",
+        "img": "https://najibibrahim.github.io/music-library/assets/itzy/images/BetOnMe.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/itzy/mp3/BetOnMe.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/itzy/lyrics/BetOnMe.json"
     },
     {
-        "title": "feel special",
-        "subtitle": "TWICE",
-        "img": "https://najibibrahim.github.io/music-library/assets/twice/images/FeelSpecial.png",
-        "path": "https://najibibrahim.github.io/music-library/assets/twice/mp3/FeelSpecial.mp3",
-        "lyrics": "https://najibibrahim.github.io/music-library/assets/twice/lyrics/FeelSpecial.json"
+        "title": "BOOMBOXX",
+        "subtitle": "ITZY",
+        "img": "https://najibibrahim.github.io/music-library/assets/itzy/images/BOOMBOXX.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/itzy/mp3/BOOMBOXX.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/itzy/lyrics/BOOMBOXX.json"
     },
     {
-        "title": "heart shaker",
-        "subtitle": "TWICE",
-        "img": "https://najibibrahim.github.io/music-library/assets/twice/images/HeartShaker.png",
-        "path": "https://najibibrahim.github.io/music-library/assets/twice/mp3/HeartShaker.mp3",
-        "lyrics": "https://najibibrahim.github.io/music-library/assets/twice/lyrics/HeartShaker.json"
+        "title": "boys like you",
+        "subtitle": "ITZY",
+        "img": "https://najibibrahim.github.io/music-library/assets/itzy/images/BoysLikeYou.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/itzy/mp3/BoysLikeYou.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/itzy/lyrics/BoysLikeYou.json"
     },
     {
-        "title": "i cant stop me",
-        "subtitle": "TWICE",
-        "img": "https://najibibrahim.github.io/music-library/assets/twice/images/ICantStopMe.png",
-        "path": "https://najibibrahim.github.io/music-library/assets/twice/mp3/ICantStopMe.mp3",
-        "lyrics": "https://najibibrahim.github.io/music-library/assets/twice/lyrics/ICantStopMe.json"
+        "title": "cake",
+        "subtitle": "ITZY",
+        "img": "https://najibibrahim.github.io/music-library/assets/itzy/images/Cake.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/itzy/mp3/Cake.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/itzy/lyrics/Cake.json"
     },
     {
-        "title": "knock knock",
-        "subtitle": "TWICE",
-        "img": "https://najibibrahim.github.io/music-library/assets/twice/images/KnockKnock.png",
-        "path": "https://najibibrahim.github.io/music-library/assets/twice/mp3/KnockKnock.mp3",
-        "lyrics": "https://najibibrahim.github.io/music-library/assets/twice/lyrics/KnockKnock.json"
+        "title": "cheshire",
+        "subtitle": "ITZY",
+        "img": "https://najibibrahim.github.io/music-library/assets/itzy/images/Cheshire.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/itzy/mp3/Cheshire.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/itzy/lyrics/Cheshire.json"
     },
     {
-        "title": "like ooh - ahh",
-        "subtitle": "TWICE",
-        "img": "https://najibibrahim.github.io/music-library/assets/twice/images/LikeOohAhh.png",
-        "path": "https://najibibrahim.github.io/music-library/assets/twice/mp3/LikeOohAhh.mp3",
-        "lyrics": "https://najibibrahim.github.io/music-library/assets/twice/lyrics/LikeOohAhh.json"
+        "title": "dalla dalla",
+        "subtitle": "ITZY",
+        "img": "https://najibibrahim.github.io/music-library/assets/itzy/images/DallaDalla.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/itzy/mp3/DallaDalla.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/itzy/lyrics/DallaDalla.json"
     },
     {
-        "title": "likey",
-        "subtitle": "TWICE",
-        "img": "https://najibibrahim.github.io/music-library/assets/twice/images/Likey.png",
-        "path": "https://najibibrahim.github.io/music-library/assets/twice/mp3/Likey.mp3",
-        "lyrics": "https://najibibrahim.github.io/music-library/assets/twice/lyrics/Likey.json"
+        "title": "icy",
+        "subtitle": "ITZY",
+        "img": "https://najibibrahim.github.io/music-library/assets/itzy/images/Icy.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/itzy/mp3/Icy.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/itzy/lyrics/Icy.json"
     },
     {
-        "title": "merry happy",
-        "subtitle": "TWICE",
-        "img": "https://najibibrahim.github.io/music-library/assets/twice/images/MerryHappy.png",
-        "path": "https://najibibrahim.github.io/music-library/assets/twice/mp3/MerryHappy.mp3",
-        "lyrics": "https://najibibrahim.github.io/music-library/assets/twice/lyrics/MerryHappy.json"
+        "title": "ID",
+        "subtitle": "ITZY",
+        "img": "https://najibibrahim.github.io/music-library/assets/itzy/images/ID.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/itzy/mp3/ID.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/itzy/lyrics/ID.json"
     },
     {
-        "title": "more more",
-        "subtitle": "TWICE",
-        "img": "https://najibibrahim.github.io/music-library/assets/twice/images/MoreMore.png",
-        "path": "https://najibibrahim.github.io/music-library/assets/twice/mp3/MoreMore.mp3",
-        "lyrics": "https://najibibrahim.github.io/music-library/assets/twice/lyrics/MoreMore.json"
+        "title": "in the morning",
+        "subtitle": "ITZY",
+        "img": "https://najibibrahim.github.io/music-library/assets/itzy/images/InTheMorning.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/itzy/mp3/InTheMorning.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/itzy/lyrics/InTheMorning.json"
     },
     {
-        "title": "scientist",
-        "subtitle": "TWICE",
-        "img": "https://najibibrahim.github.io/music-library/assets/twice/images/Scientist.png",
-        "path": "https://najibibrahim.github.io/music-library/assets/twice/mp3/Scientist.mp3",
-        "lyrics": "https://najibibrahim.github.io/music-library/assets/twice/lyrics/Scientist.json"
+        "title": "loco",
+        "subtitle": "ITZY",
+        "img": "https://najibibrahim.github.io/music-library/assets/itzy/images/Loco.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/itzy/mp3/Loco.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/itzy/lyrics/Loco.json"
     },
     {
-        "title": "set me free",
-        "subtitle": "TWICE",
-        "img": "https://najibibrahim.github.io/music-library/assets/twice/images/SetMeFree.png",
-        "path": "https://najibibrahim.github.io/music-library/assets/twice/mp3/SetMeFree.mp3",
-        "lyrics": "https://najibibrahim.github.io/music-library/assets/twice/lyrics/SetMeFree.json"
+        "title": "not shy",
+        "subtitle": "ITZY",
+        "img": "https://najibibrahim.github.io/music-library/assets/itzy/images/NotShy.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/itzy/mp3/NotShy.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/itzy/lyrics/NotShy.json"
     },
     {
-        "title": "signal",
-        "subtitle": "TWICE",
-        "img": "https://najibibrahim.github.io/music-library/assets/twice/images/Signal.png",
-        "path": "https://najibibrahim.github.io/music-library/assets/twice/mp3/Signal.mp3",
-        "lyrics": "https://najibibrahim.github.io/music-library/assets/twice/lyrics/Signal.json"
+        "title": "sneakers",
+        "subtitle": "ITZY",
+        "img": "https://najibibrahim.github.io/music-library/assets/itzy/images/Sneakers.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/itzy/mp3/Sneakers.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/itzy/lyrics/Sneakers.json"
     },
     {
-        "title": "talk that talk",
-        "subtitle": "TWICE",
-        "img": "https://najibibrahim.github.io/music-library/assets/twice/images/TalkThatTalk.png",
-        "path": "https://najibibrahim.github.io/music-library/assets/twice/mp3/TalkThatTalk.mp3",
-        "lyrics": "https://najibibrahim.github.io/music-library/assets/twice/lyrics/TalkThatTalk.json"
+        "title": "snowy",
+        "subtitle": "ITZY",
+        "img": "https://najibibrahim.github.io/music-library/assets/itzy/images/Snowy.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/itzy/mp3/Snowy.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/itzy/lyrics/Snowy.json"
     },
     {
-        "title": "the best thing i ever did",
-        "subtitle": "TWICE",
-        "img": "https://najibibrahim.github.io/music-library/assets/twice/images/TheBestThingIEverDid.png",
-        "path": "https://najibibrahim.github.io/music-library/assets/twice/mp3/TheBestThingIEverDid.mp3",
-        "lyrics": "https://najibibrahim.github.io/music-library/assets/twice/lyrics/TheBestThingIEverDid.json"
+        "title": "swipe",
+        "subtitle": "ITZY",
+        "img": "https://najibibrahim.github.io/music-library/assets/itzy/images/Swipe.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/itzy/mp3/Swipe.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/itzy/lyrics/Swipe.json"
     },
     {
-        "title": "the feels",
-        "subtitle": "TWICE",
-        "img": "https://najibibrahim.github.io/music-library/assets/twice/images/TheFeels.png",
-        "path": "https://najibibrahim.github.io/music-library/assets/twice/mp3/TheFeels.mp3",
-        "lyrics": "https://najibibrahim.github.io/music-library/assets/twice/lyrics/TheFeels.json"
+        "title": "voltage",
+        "subtitle": "ITZY",
+        "img": "https://najibibrahim.github.io/music-library/assets/itzy/images/Voltage.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/itzy/mp3/Voltage.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/itzy/lyrics/Voltage.json"
     },
     {
-        "title": "tt",
-        "subtitle": "TWICE",
-        "img": "https://najibibrahim.github.io/music-library/assets/twice/images/TT.png",
-        "path": "https://najibibrahim.github.io/music-library/assets/twice/mp3/TT.mp3",
-        "lyrics": "https://najibibrahim.github.io/music-library/assets/twice/lyrics/TT.json"
+        "title": "wannabe",
+        "subtitle": "ITZY",
+        "img": "https://najibibrahim.github.io/music-library/assets/itzy/images/Wannabe.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/itzy/mp3/Wannabe.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/itzy/lyrics/Wannabe.json"
     },
     {
-        "title": "what is love",
-        "subtitle": "TWICE",
-        "img": "https://najibibrahim.github.io/music-library/assets/twice/images/WhatIsLove.png",
-        "path": "https://najibibrahim.github.io/music-library/assets/twice/mp3/WhatIsLove.mp3",
-        "lyrics": "https://najibibrahim.github.io/music-library/assets/twice/lyrics/WhatIsLove.json"
-    },
-    {
-        "title": "yes or yes",
-        "subtitle": "TWICE",
-        "img": "https://najibibrahim.github.io/music-library/assets/twice/images/YesOrYes.png",
-        "path": "https://najibibrahim.github.io/music-library/assets/twice/mp3/YesOrYes.mp3",
-        "lyrics": "https://najibibrahim.github.io/music-library/assets/twice/lyrics/YesOrYes.json"
+        "title": "weapon",
+        "subtitle": "ITZY",
+        "img": "https://najibibrahim.github.io/music-library/assets/itzy/images/Weapon.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/itzy/mp3/Weapon.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/itzy/lyrics/Weapon.json"
     }
 ]
