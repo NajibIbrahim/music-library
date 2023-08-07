@@ -1,6 +1,6 @@
 [
     {
-        "title": "#Twenty",
+        "title": "#twenty",
         "subtitle": "ITZY",
         "img": "https://najibibrahim.github.io/music-library/assets/itzy/images/#Twenty.png",
         "path": "https://najibibrahim.github.io/music-library/assets/itzy/mp3/#Twenty.mp3",
@@ -28,7 +28,7 @@
         "lyrics": "https://najibibrahim.github.io/music-library/assets/itzy/lyrics/BetOnMe.json"
     },
     {
-        "title": "BOOMBOXX",
+        "title": "b[oo]m-boxx",
         "subtitle": "ITZY",
         "img": "https://najibibrahim.github.io/music-library/assets/itzy/images/BOOMBOXX.png",
         "path": "https://najibibrahim.github.io/music-library/assets/itzy/mp3/BOOMBOXX.mp3",
@@ -70,7 +70,7 @@
         "lyrics": "https://najibibrahim.github.io/music-library/assets/itzy/lyrics/Icy.json"
     },
     {
-        "title": "ID",
+        "title": "id",
         "subtitle": "ITZY",
         "img": "https://najibibrahim.github.io/music-library/assets/itzy/images/ID.png",
         "path": "https://najibibrahim.github.io/music-library/assets/itzy/mp3/ID.mp3",
