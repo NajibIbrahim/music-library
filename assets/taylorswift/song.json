@@ -42,6 +42,13 @@
         "lyrics": "https://najibibrahim.github.io/music-library/assets/taylorswift/lyrics/BlankSpace.json"
     },
     {
+        "title": "champagne problems",
+        "subtitle": "Taylor Swift",
+        "img": "https://najibibrahim.github.io/music-library/assets/taylorswift/images/ChampagneProblems.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/taylorswift/mp3/ChampagneProblems.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/taylorswift/lyrics/ChampagneProblems.json"
+    },
+    {
         "title": "cruel summer",
         "subtitle": "Taylor Swift",
         "img": "https://najibibrahim.github.io/music-library/assets/taylorswift/images/CruelSummer.png",
@@ -61,6 +68,13 @@
         "img": "https://najibibrahim.github.io/music-library/assets/taylorswift/images/Enchanted.png",
         "path": "https://najibibrahim.github.io/music-library/assets/taylorswift/mp3/Enchanted.mp3",
         "lyrics": "https://najibibrahim.github.io/music-library/assets/taylorswift/lyrics/Enchanted.json"
+    },
+    {
+        "title": "exile",
+        "subtitle": "Taylor Swift ft. Bon Iver",
+        "img": "https://najibibrahim.github.io/music-library/assets/taylorswift/images/Exile.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/taylorswift/mp3/Exile.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/taylorswift/lyrics/Exile.json"
     },
     {
         "title": "getaway car",
