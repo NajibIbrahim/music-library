@@ -42,6 +42,13 @@
         "lyrics": "https://najibibrahim.github.io/music-library/assets/taylorswift/lyrics/BlankSpace.json"
     },
     {
+        "title": "cardigan",
+        "subtitle": "Taylor Swift",
+        "img": "https://najibibrahim.github.io/music-library/assets/taylorswift/images/Cardigan.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/taylorswift/mp3/Cardigan.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/taylorswift/lyrics/Cardigan.json"
+    },
+    {
         "title": "champagne problems",
         "subtitle": "Taylor Swift",
         "img": "https://najibibrahim.github.io/music-library/assets/taylorswift/images/ChampagneProblems.png",
