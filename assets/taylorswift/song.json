@@ -112,6 +112,13 @@
         "lyrics": "https://najibibrahim.github.io/music-library/assets/taylorswift/lyrics/IKnewYouWere.json"
     },
     {
+        "title": "invisible string",
+        "subtitle": "Taylor Swift",
+        "img": "https://najibibrahim.github.io/music-library/assets/taylorswift/images/InvisibleString.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/taylorswift/mp3/InvisibleString.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/taylorswift/lyrics/InvisibleString.json"
+    },
+    {
         "title": "lavender haze",
         "subtitle": "Taylor Swift",
         "img": "https://najibibrahim.github.io/music-library/assets/taylorswift/images/LavenderHaze.png",
@@ -131,6 +138,13 @@
         "img": "https://najibibrahim.github.io/music-library/assets/taylorswift/images/LookWhatYouMadeMeDo.png",
         "path": "https://najibibrahim.github.io/music-library/assets/taylorswift/mp3/LookWhatYouMadeMeDo.mp3",
         "lyrics": "https://najibibrahim.github.io/music-library/assets/taylorswift/lyrics/LookWhatYouMadeMeDo.json"
+    },
+    {
+        "title": "lover",
+        "subtitle": "Taylor Swift",
+        "img": "https://najibibrahim.github.io/music-library/assets/taylorswift/images/Lover.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/taylorswift/mp3/Lover.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/taylorswift/lyrics/Lover.json"
     },
     {
         "title": "love story",
