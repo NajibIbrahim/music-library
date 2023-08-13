@@ -1,0 +1,42 @@
+[
+  {
+    "title": "psycho",
+    "subtitle": "RED VELVET",
+    "cover": "https://najibibrahim.github.io/music-library/assets/twice/images/populer1.png",
+    "img": "https://najibibrahim.github.io/music-library/assets/twice/images/psycho.png",
+    "path": "https://najibibrahim.github.io/music-library/assets/twice/mp3/psycho.mp3",
+    "lyrics": "https://najibibrahim.github.io/music-library/assets/twice/lyrics/psycho.json"
+  },
+  {
+    "title": "red flavor",
+    "subtitle": "RED VELVET",
+    "cover": "https://najibibrahim.github.io/music-library/assets/twice/images/populer2.png",
+    "img": "https://najibibrahim.github.io/music-library/assets/twice/images/RedFlavor.png",
+    "path": "https://najibibrahim.github.io/music-library/assets/twice/mp3/RedFlavor.mp3",
+    "lyrics": "https://najibibrahim.github.io/music-library/assets/twice/lyrics/RedFlavor.json"
+  },
+  {
+    "title": "bad boy",
+    "subtitle": "RED VELVET",
+    "cover": "https://najibibrahim.github.io/music-library/assets/twice/images/populer3.png",
+    "img": "https://najibibrahim.github.io/music-library/assets/twice/images/BadBoy.png",
+    "path": "https://najibibrahim.github.io/music-library/assets/twice/mp3/BadBoy.mp3",
+    "lyrics": "https://najibibrahim.github.io/music-library/assets/twice/lyrics/BadBoy.json"
+  },
+  {
+    "title": "peek-a-boo",
+    "subtitle": "RED VELVET",
+    "cover": "https://najibibrahim.github.io/music-library/assets/twice/images/populer4.png",
+    "img": "https://najibibrahim.github.io/music-library/assets/twice/images/PeekABoo.png",
+    "path": "https://najibibrahim.github.io/music-library/assets/twice/mp3/PeekABoo.mp3",
+    "lyrics": "https://najibibrahim.github.io/music-library/assets/twice/lyrics/PeekABoo.json"
+  },
+  {
+    "title": "russian roulette",
+    "subtitle": "RED VELVET",
+    "cover": "https://najibibrahim.github.io/music-library/assets/twice/images/populer5.png",
+    "img": "https://najibibrahim.github.io/music-library/assets/twice/images/RussianRoulette.png",
+    "path": "https://najibibrahim.github.io/music-library/assets/twice/mp3/RussianRoulette.mp3",
+    "lyrics": "https://najibibrahim.github.io/music-library/assets/twice/lyrics/RussianRoulette.json"
+  }
+]
