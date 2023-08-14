@@ -1,0 +1,50 @@
+[
+  {
+    "title": "next level",
+    "subtitle": "aespa",
+    "cover": "https://najibibrahim.github.io/music-library/assets/aespa/images/populer1.png",
+    "img": "https://najibibrahim.github.io/music-library/assets/aespa/images/NextLevel.png",
+    "path": "https://najibibrahim.github.io/music-library/assets/aespa/mp3/NextLevel.mp3",
+    "lyrics": "https://najibibrahim.github.io/music-library/assets/aespa/lyrics/NextLevel.json"
+  },
+  {
+    "title": "black mamba",
+    "subtitle": "aespa",
+    "cover": "https://najibibrahim.github.io/music-library/assets/aespa/images/populer2.png",
+    "img": "https://najibibrahim.github.io/music-library/assets/aespa/images/BlackMamba.png",
+    "path": "https://najibibrahim.github.io/music-library/assets/aespa/mp3/BlackMamba.mp3",
+    "lyrics": "https://najibibrahim.github.io/music-library/assets/aespa/lyrics/BlackMamba.json"
+  },
+  {
+    "title": "savage",
+    "subtitle": "aespa",
+    "cover": "https://najibibrahim.github.io/music-library/assets/aespa/images/populer3.png",
+    "img": "https://najibibrahim.github.io/music-library/assets/aespa/images/Savage.png",
+    "path": "https://najibibrahim.github.io/music-library/assets/aespa/mp3/Savage.mp3",
+    "lyrics": "https://najibibrahim.github.io/music-library/assets/aespa/lyrics/Savage.json"
+  },
+  {
+    "title": "girls",
+    "subtitle": "aespa",
+    "cover": "https://najibibrahim.github.io/music-library/assets/aespa/images/populer4.png",
+    "img": "https://najibibrahim.github.io/music-library/assets/aespa/images/Girls.png",
+    "path": "https://najibibrahim.github.io/music-library/assets/aespa/mp3/Girls.mp3",
+    "lyrics": "https://najibibrahim.github.io/music-library/assets/aespa/lyrics/Girls.json"
+  },
+  {
+    "title": "spicy",
+    "subtitle": "aespa",
+    "cover": "https://najibibrahim.github.io/music-library/assets/aespa/images/populer5.png",
+    "img": "https://najibibrahim.github.io/music-library/assets/aespa/images/Spicy.png",
+    "path": "https://najibibrahim.github.io/music-library/assets/aespa/mp3/Spicy.mp3",
+    "lyrics": "https://najibibrahim.github.io/music-library/assets/aespa/lyrics/Spicy.json"
+  },
+  {
+    "title": "dreams come true",
+    "subtitle": "aespa",
+    "cover": "https://najibibrahim.github.io/music-library/assets/aespa/images/populer6.png",
+    "img": "https://najibibrahim.github.io/music-library/assets/aespa/images/DreamsComeTrue.png",
+    "path": "https://najibibrahim.github.io/music-library/assets/aespa/mp3/DreamsComeTrue.mp3",
+    "lyrics": "https://najibibrahim.github.io/music-library/assets/aespa/lyrics/DreamsComeTrue.json"
+  }
+]

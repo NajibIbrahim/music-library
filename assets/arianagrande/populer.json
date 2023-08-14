@@ -1,0 +1,42 @@
+[
+  {
+    "title": "thank u, next",
+    "subtitle": "Ariana Grande",
+    "cover": "https://najibibrahim.github.io/music-library/assets/arianagrande/images/populer1.png",
+    "img": "https://najibibrahim.github.io/music-library/assets/arianagrande/images/ThankUNext.png",
+    "path": "https://najibibrahim.github.io/music-library/assets/arianagrande/mp3/ThankUNext.mp3",
+    "lyrics": "https://najibibrahim.github.io/music-library/assets/arianagrande/lyrics/ThankUNext.json"
+  },
+  {
+    "title": "into you",
+    "subtitle": "Ariana Grande",
+    "cover": "https://najibibrahim.github.io/music-library/assets/arianagrande/images/populer2.png",
+    "img": "https://najibibrahim.github.io/music-library/assets/arianagrande/images/IntoYou.png",
+    "path": "https://najibibrahim.github.io/music-library/assets/arianagrande/mp3/IntoYou.mp3",
+    "lyrics": "https://najibibrahim.github.io/music-library/assets/arianagrande/lyrics/IntoYou.json"
+  },
+  {
+    "title": "no tears left to cry",
+    "subtitle": "Ariana Grande",
+    "cover": "https://najibibrahim.github.io/music-library/assets/arianagrande/images/populer3.png",
+    "img": "https://najibibrahim.github.io/music-library/assets/arianagrande/images/NoTearsLeftToCry.png",
+    "path": "https://najibibrahim.github.io/music-library/assets/arianagrande/mp3/NoTearsLeftToCry.mp3",
+    "lyrics": "https://najibibrahim.github.io/music-library/assets/arianagrande/lyrics/NoTearsLeftToCry.json"
+  },
+  {
+    "title": "side to side",
+    "subtitle": "Ariana Grande ft. Nicki Minaj",
+    "cover": "https://najibibrahim.github.io/music-library/assets/arianagrande/images/populer4.png",
+    "img": "https://najibibrahim.github.io/music-library/assets/arianagrande/images/SideToSide.png",
+    "path": "https://najibibrahim.github.io/music-library/assets/arianagrande/mp3/SideToSide.mp3",
+    "lyrics": "https://najibibrahim.github.io/music-library/assets/arianagrande/lyrics/SideToSide.json"
+  },
+  {
+    "title": "7 rings",
+    "subtitle": "Ariana Grande",
+    "cover": "https://najibibrahim.github.io/music-library/assets/arianagrande/images/populer5.png",
+    "img": "https://najibibrahim.github.io/music-library/assets/arianagrande/images/7Rings.png",
+    "path": "https://najibibrahim.github.io/music-library/assets/arianagrande/mp3/7Rings.mp3",
+    "lyrics": "https://najibibrahim.github.io/music-library/assets/arianagrande/lyrics/7Rings.json"
+  }
+]
