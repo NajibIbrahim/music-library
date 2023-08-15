@@ -56,11 +56,39 @@
         "lyrics": "https://najibibrahim.github.io/music-library/assets/arianagrande/lyrics/Don’tCallMeAngel(Charlie’sAngels).json"
     },
     {
+        "title": "everyday",
+        "subtitle": "Ariana Grande",
+        "img": "https://najibibrahim.github.io/music-library/assets/arianagrande/images/Everyday.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/arianagrande/mp3/Everyday.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/arianagrande/lyrics/Everyday.json"
+    },
+    {
+        "title": "focus",
+        "subtitle": "Ariana Grande",
+        "img": "https://najibibrahim.github.io/music-library/assets/arianagrande/images/Focus.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/arianagrande/mp3/Focus.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/arianagrande/lyrics/Focus.json"
+    },
+    {
+        "title": "imagine",
+        "subtitle": "Ariana Grande",
+        "img": "https://najibibrahim.github.io/music-library/assets/arianagrande/images/Imagine.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/arianagrande/mp3/Imagine.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/arianagrande/lyrics/Imagine.json"
+    },
+    {
         "title": "into you",
         "subtitle": "Ariana Grande",
         "img": "https://najibibrahim.github.io/music-library/assets/arianagrande/images/IntoYou.png",
         "path": "https://najibibrahim.github.io/music-library/assets/arianagrande/mp3/IntoYou.mp3",
         "lyrics": "https://najibibrahim.github.io/music-library/assets/arianagrande/lyrics/IntoYou.json"
+    },
+    {
+        "title": "let me love you",
+        "subtitle": "Ariana Grande ft. Lil Wayne",
+        "img": "https://najibibrahim.github.io/music-library/assets/arianagrande/images/LetMeLoveYou.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/arianagrande/mp3/LetMeLoveYou.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/arianagrande/lyrics/LetMeLoveYou.json"
     },
     {
         "title": "love me harder",
@@ -70,11 +98,25 @@
         "lyrics": "https://najibibrahim.github.io/music-library/assets/arianagrande/lyrics/LoveMeHarder.json"
     },
     {
+        "title": "needy",
+        "subtitle": "Ariana Grande",
+        "img": "https://najibibrahim.github.io/music-library/assets/arianagrande/images/Needy.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/arianagrande/mp3/Needy.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/arianagrande/lyrics/Needy.json"
+    },
+    {
         "title": "no tears left to cry",
         "subtitle": "Ariana Grande",
         "img": "https://najibibrahim.github.io/music-library/assets/arianagrande/images/NoTearsLeftToCry.png",
         "path": "https://najibibrahim.github.io/music-library/assets/arianagrande/mp3/NoTearsLeftToCry.mp3",
         "lyrics": "https://najibibrahim.github.io/music-library/assets/arianagrande/lyrics/NoTearsLeftToCry.json"
+    },
+    {
+        "title": "one last time",
+        "subtitle": "Ariana Grande",
+        "img": "https://najibibrahim.github.io/music-library/assets/arianagrande/images/OneLastTime.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/arianagrande/mp3/OneLastTime.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/arianagrande/lyrics/OneLastTime.json"
     },
     {
         "title": "positions",
