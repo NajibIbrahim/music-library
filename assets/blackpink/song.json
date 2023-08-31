@@ -212,6 +212,13 @@
         "lyrics": "https://najibibrahim.github.io/music-library/assets/blackpink/lyrics/Tally.json"
     },
     {
+        "title": "the girls",
+        "subtitle": "BLACKPINK",
+        "img": "https://najibibrahim.github.io/music-library/assets/blackpink/images/TheGirls.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/blackpink/mp3/TheGirls.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/blackpink/lyrics/TheGirls.json"
+    },
+    {
         "title": "the happiest girl", "subtitle": "BLACKPINK",
         "img": "https://najibibrahim.github.io/music-library/assets/blackpink/images/TheHappiestGirl.png",
         "path": "https://najibibrahim.github.io/music-library/assets/blackpink/mp3/TheHappiestGirl.mp3",
