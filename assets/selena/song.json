@@ -1,20 +1,20 @@
 [
     {
-        "title": "AYearWithoutRain",
+        "title": "a year without rain",
         "subtitle": "Selena Gomez & The Scene",
         "img": "https://najibibrahim.github.io/music-library/assets/selena/images/AYearWithoutRain.png",
         "path": "https://najibibrahim.github.io/music-library/assets/selena/mp3/AYearWithoutRain.mp3",
         "lyrics": "https://najibibrahim.github.io/music-library/assets/selena/lyrics/AYearWithoutRain.json"
     },
     {
-        "title": "BackToYou",
+        "title": "back to you",
         "subtitle": "Selena Gomez",
         "img": "https://najibibrahim.github.io/music-library/assets/selena/images/BackToYou.png",
         "path": "https://najibibrahim.github.io/music-library/assets/selena/mp3/BackToYou.mp3",
         "lyrics": "https://najibibrahim.github.io/music-library/assets/selena/lyrics/BackToYou.json"
     },
     {
-        "title": "Boyfriend",
+        "title": "boyfriend",
         "subtitle": "Selena Gomez",
         "img": "https://najibibrahim.github.io/music-library/assets/selena/images/Boyfriend.png",
         "path": "https://najibibrahim.github.io/music-library/assets/selena/mp3/Boyfriend.mp3",
@@ -42,7 +42,7 @@
         "lyrics": "https://najibibrahim.github.io/music-library/assets/selena/lyrics/BadBoy.json"
     },
     {
-        "title": "HandsToMyself",
+        "title": "hands to myself",
         "subtitle": "Selena Gomez",
         "img": "https://najibibrahim.github.io/music-library/assets/selena/images/HandsToMyself.png",
         "path": "https://najibibrahim.github.io/music-library/assets/selena/mp3/HandsToMyself.mp3",
