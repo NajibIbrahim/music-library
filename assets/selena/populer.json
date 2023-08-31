@@ -1,0 +1,50 @@
+[
+  {
+    "title": "come & get it",
+    "subtitle": "Selena Gomez",
+    "cover": "https://najibibrahim.github.io/music-library/assets/selena/images/populer1.png",
+    "img": "https://najibibrahim.github.io/music-library/assets/selena/images/Come&GetIt.png",
+    "path": "https://najibibrahim.github.io/music-library/assets/selena/mp3/Come&GetIt.mp3",
+    "lyrics": "https://najibibrahim.github.io/music-library/assets/selena/lyrics/Come&GetIt.json"
+  },
+  {
+    "title": "the heart wants what it wants",
+    "subtitle": "Selena Gomez",
+    "cover": "https://najibibrahim.github.io/music-library/assets/selena/images/populer2.png",
+    "img": "https://najibibrahim.github.io/music-library/assets/selena/images/TheHeartWantsWhatItWants.png",
+    "path": "https://najibibrahim.github.io/music-library/assets/selena/mp3/TheHeartWantsWhatItWants.mp3",
+    "lyrics": "https://najibibrahim.github.io/music-library/assets/selena/lyrics/TheHeartWantsWhatItWants.json"
+  },
+  {
+    "title": "love you like a love song",
+    "subtitle": "Selena Gomez",
+    "cover": "https://najibibrahim.github.io/music-library/assets/selena/images/populer3.png",
+    "img": "https://najibibrahim.github.io/music-library/assets/selena/images/LoveYouLikeALoveSong.png",
+    "path": "https://najibibrahim.github.io/music-library/assets/selena/mp3/LoveYouLikeALoveSong.mp3",
+    "lyrics": "https://najibibrahim.github.io/music-library/assets/selena/lyrics/LoveYouLikeALoveSong.json"
+  },
+  {
+    "title": "IceCream",
+    "subtitle": "BLACKPINK & Selena Gomez",
+    "cover": "https://najibibrahim.github.io/music-library/assets/selena/images/populer4.png",
+    "img": "https://najibibrahim.github.io/music-library/assets/selena/images/IceCream.png",
+    "path": "https://najibibrahim.github.io/music-library/assets/blackpink/mp3/IceCream.mp3",
+    "lyrics": "https://najibibrahim.github.io/music-library/assets/selena/lyrics/IceCream.json"
+  },
+  {
+    "title": "calm down",
+    "subtitle": "Selena Gomez",
+    "cover": "https://najibibrahim.github.io/music-library/assets/selena/images/populer5.png",
+    "img": "https://najibibrahim.github.io/music-library/assets/selena/images/CalmDown.png",
+    "path": "https://najibibrahim.github.io/music-library/assets/selena/mp3/CalmDown.mp3",
+    "lyrics": "https://najibibrahim.github.io/music-library/assets/selena/lyrics/CalmDown.json"
+  },
+  {
+    "title": "kill em with kindness",
+    "subtitle": "Selena Gomez",
+    "cover": "https://najibibrahim.github.io/music-library/assets/selena/images/populer6.png",
+    "img": "https://najibibrahim.github.io/music-library/assets/selena/images/KillEmWithKindness.png",
+    "path": "https://najibibrahim.github.io/music-library/assets/selena/mp3/KillEmWithKindness.mp3",
+    "lyrics": "https://najibibrahim.github.io/music-library/assets/selena/lyrics/KillEmWithKindness.json"
+  }
+]
