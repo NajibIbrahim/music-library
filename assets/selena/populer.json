@@ -8,20 +8,20 @@
     "lyrics": "https://najibibrahim.github.io/music-library/assets/selena/lyrics/Come&GetIt.json"
   },
   {
-    "title": "the heart wants what it wants",
-    "subtitle": "Selena Gomez",
-    "cover": "https://najibibrahim.github.io/music-library/assets/selena/images/populer2.png",
-    "img": "https://najibibrahim.github.io/music-library/assets/selena/images/TheHeartWantsWhatItWants.png",
-    "path": "https://najibibrahim.github.io/music-library/assets/selena/mp3/TheHeartWantsWhatItWants.mp3",
-    "lyrics": "https://najibibrahim.github.io/music-library/assets/selena/lyrics/TheHeartWantsWhatItWants.json"
-  },
-  {
     "title": "love you like a love song",
     "subtitle": "Selena Gomez",
     "cover": "https://najibibrahim.github.io/music-library/assets/selena/images/populer3.png",
     "img": "https://najibibrahim.github.io/music-library/assets/selena/images/LoveYouLikeALoveSong.png",
     "path": "https://najibibrahim.github.io/music-library/assets/selena/mp3/LoveYouLikeALoveSong.mp3",
     "lyrics": "https://najibibrahim.github.io/music-library/assets/selena/lyrics/LoveYouLikeALoveSong.json"
+  },
+  {
+    "title": "the heart wants what it wants",
+    "subtitle": "Selena Gomez",
+    "cover": "https://najibibrahim.github.io/music-library/assets/selena/images/populer2.png",
+    "img": "https://najibibrahim.github.io/music-library/assets/selena/images/TheHeartWantsWhatItWants.png",
+    "path": "https://najibibrahim.github.io/music-library/assets/selena/mp3/TheHeartWantsWhatItWants.mp3",
+    "lyrics": "https://najibibrahim.github.io/music-library/assets/selena/lyrics/TheHeartWantsWhatItWants.json"
   },
   {
     "title": "ice icream",
