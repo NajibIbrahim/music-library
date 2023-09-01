@@ -49,13 +49,6 @@
         "lyrics": "https://najibibrahim.github.io/music-library/assets/arianagrande/lyrics/DangerousWoman.json"
     },
     {
-        "title": "don’t call me angel (charlie’s angels)",
-        "subtitle": "Ariana Grande, Lana Del Rey, & Miley Cyrus",
-        "img": "https://najibibrahim.github.io/music-library/assets/arianagrande/images/Don’tCallMeAngel(Charlie’sAngels).png",
-        "path": "https://najibibrahim.github.io/music-library/assets/arianagrande/mp3/Don’tCallMeAngel(Charlie’sAngels).mp3",
-        "lyrics": "https://najibibrahim.github.io/music-library/assets/arianagrande/lyrics/Don’tCallMeAngel(Charlie’sAngels).json"
-    },
-    {
         "title": "into you",
         "subtitle": "Ariana Grande",
         "img": "https://najibibrahim.github.io/music-library/assets/arianagrande/images/IntoYou.png",
@@ -75,27 +68,6 @@
         "img": "https://najibibrahim.github.io/music-library/assets/arianagrande/images/NoTearsLeftToCry.png",
         "path": "https://najibibrahim.github.io/music-library/assets/arianagrande/mp3/NoTearsLeftToCry.mp3",
         "lyrics": "https://najibibrahim.github.io/music-library/assets/arianagrande/lyrics/NoTearsLeftToCry.json"
-    },
-    {
-        "title": "positions",
-        "subtitle": "Ariana Grande",
-        "img": "https://najibibrahim.github.io/music-library/assets/arianagrande/images/Positions.png",
-        "path": "https://najibibrahim.github.io/music-library/assets/arianagrande/mp3/Positions.mp3",
-        "lyrics": "https://najibibrahim.github.io/music-library/assets/arianagrande/lyrics/Positions.json"
-    },
-    {
-        "title": "Problem",
-        "subtitle": "Ariana Grande ft. Iggy Azalea",
-        "img": "https://najibibrahim.github.io/music-library/assets/arianagrande/images/Problem.png",
-        "path": "https://najibibrahim.github.io/music-library/assets/arianagrande/mp3/Problem.mp3",
-        "lyrics": "https://najibibrahim.github.io/music-library/assets/arianagrande/lyrics/Problem.json"
-    },
-    {
-        "title": "RightThere",
-        "subtitle": "Ariana Grande ft. Big Sean",
-        "img": "https://najibibrahim.github.io/music-library/assets/arianagrande/images/RightThere.png",
-        "path": "https://najibibrahim.github.io/music-library/assets/arianagrande/mp3/RightThere.mp3",
-        "lyrics": "https://najibibrahim.github.io/music-library/assets/arianagrande/lyrics/RightThere.json"
     },
     {
         "title": "santa tell me",
