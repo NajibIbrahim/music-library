@@ -1,0 +1,42 @@
+[
+  {
+    "title": "what was i made for?",
+    "subtitle": "Billie Eillish",
+    "cover": "https://najibibrahim.github.io/music-library/assets/arianagrande/images/populer1.png",
+    "img": "https://najibibrahim.github.io/music-library/assets/arianagrande/images/WhatWasIMadeFor?.png",
+    "path": "https://najibibrahim.github.io/music-library/assets/arianagrande/mp3/WhatWasIMadeFor?.mp3",
+    "lyrics": "https://najibibrahim.github.io/music-library/assets/arianagrande/lyrics/WhatWasIMadeFor?.json"
+  },
+  {
+    "title": "lovely",
+    "subtitle": "Billie Eillish & Khalid",
+    "cover": "https://najibibrahim.github.io/music-library/assets/arianagrande/images/populer2.png",
+    "img": "https://najibibrahim.github.io/music-library/assets/arianagrande/images/Lovely.png",
+    "path": "https://najibibrahim.github.io/music-library/assets/arianagrande/mp3/Lovely.mp3",
+    "lyrics": "https://najibibrahim.github.io/music-library/assets/arianagrande/lyrics/Lovely.json"
+  },
+  {
+    "title": "bad guy",
+    "subtitle": "Billie Eillish",
+    "cover": "https://najibibrahim.github.io/music-library/assets/arianagrande/images/populer3.png",
+    "img": "https://najibibrahim.github.io/music-library/assets/arianagrande/images/BadGuy.png",
+    "path": "https://najibibrahim.github.io/music-library/assets/arianagrande/mp3/BadGuy.mp3",
+    "lyrics": "https://najibibrahim.github.io/music-library/assets/arianagrande/lyrics/BadGuy.json"
+  },
+  {
+    "title": "when the partys over",
+    "subtitle": "Billie Eillish",
+    "cover": "https://najibibrahim.github.io/music-library/assets/arianagrande/images/populer4.png",
+    "img": "https://najibibrahim.github.io/music-library/assets/arianagrande/images/WhenThePartysOver.png",
+    "path": "https://najibibrahim.github.io/music-library/assets/arianagrande/mp3/WhenThePartysOver.mp3",
+    "lyrics": "https://najibibrahim.github.io/music-library/assets/arianagrande/lyrics/WhenThePartysOver.json"
+  },
+  {
+    "title": "everything i wanted",
+    "subtitle": "Billie Eillish",
+    "cover": "https://najibibrahim.github.io/music-library/assets/arianagrande/images/populer5.png",
+    "img": "https://najibibrahim.github.io/music-library/assets/arianagrande/images/EverythingIWanted.png",
+    "path": "https://najibibrahim.github.io/music-library/assets/arianagrande/mp3/EverythingIWanted.mp3",
+    "lyrics": "https://najibibrahim.github.io/music-library/assets/arianagrande/lyrics/EverythingIWanted.json"
+  }
+]
