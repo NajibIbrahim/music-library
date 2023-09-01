@@ -42,6 +42,27 @@
         "lyrics": "https://najibibrahim.github.io/music-library/assets/selena/lyrics/Fetish.json"
     },
     {
+        "title": "hands to myself",
+        "subtitle": "Selena Gomez",
+        "img": "https://najibibrahim.github.io/music-library/assets/selena/images/HandsToMyself.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/selena/mp3/HandsToMyself.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/selena/lyrics/HandsToMyself.json"
+    },
+    {
+        "title": "ice cream",
+        "subtitle": "BLACKPINK & Selena Gomez",
+        "img": "https://najibibrahim.github.io/music-library/assets/selena/images/IceCream.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/blackpink/mp3/IceCream.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/selena/lyrics/IceCream.json"
+    },
+    {
+        "title": "kill em with kindness",
+        "subtitle": "Selena Gomez",
+        "img": "https://najibibrahim.github.io/music-library/assets/selena/images/KillEmWithKindness.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/selena/mp3/KillEmWithKindness.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/selena/lyrics/KillEmWithKindness.json"
+    },
+    {
         "title": "look at her now",
         "subtitle": "Selena Gomez",
         "img": "https://najibibrahim.github.io/music-library/assets/selena/images/LookAtHerNow.png",

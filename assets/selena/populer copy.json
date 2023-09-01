@@ -24,6 +24,14 @@
     "lyrics": "https://najibibrahim.github.io/music-library/assets/selena/lyrics/TheHeartWantsWhatItWants.json"
   },
   {
+    "title": "ice icream",
+    "subtitle": "BLACKPINK & Selena Gomez",
+    "cover": "https://najibibrahim.github.io/music-library/assets/selena/images/populer4.png",
+    "img": "https://najibibrahim.github.io/music-library/assets/selena/images/IceCream.png",
+    "path": "https://najibibrahim.github.io/music-library/assets/blackpink/mp3/IceCream.mp3",
+    "lyrics": "https://najibibrahim.github.io/music-library/assets/selena/lyrics/IceCream.json"
+  },
+  {
     "title": "calm down",
     "subtitle": "Selena Gomez",
     "cover": "https://najibibrahim.github.io/music-library/assets/selena/images/populer5.png",
