@@ -70,6 +70,13 @@
         "lyrics": "https://najibibrahim.github.io/music-library/assets/twice/lyrics/HeartShaker.json"
     },
     {
+        "title": "hello",
+        "subtitle": "TWICE",
+        "img": "https://najibibrahim.github.io/music-library/assets/twice/images/Hello.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/twice/mp3/Hello.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/twice/lyrics/Hello.json"
+    },
+    {
         "title": "i cant stop me",
         "subtitle": "TWICE",
         "img": "https://najibibrahim.github.io/music-library/assets/twice/images/ICantStopMe.png",
@@ -89,6 +96,13 @@
         "img": "https://najibibrahim.github.io/music-library/assets/twice/images/KnockKnock.png",
         "path": "https://najibibrahim.github.io/music-library/assets/twice/mp3/KnockKnock.mp3",
         "lyrics": "https://najibibrahim.github.io/music-library/assets/twice/lyrics/KnockKnock.json"
+    },
+    {
+        "title": "kura kura",
+        "subtitle": "TWICE",
+        "img": "https://najibibrahim.github.io/music-library/assets/twice/images/KuraKura.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/twice/mp3/KuraKura.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/twice/lyrics/KuraKura.json"
     },
     {
         "title": "last waltz",
@@ -140,6 +154,13 @@
         "lyrics": "https://najibibrahim.github.io/music-library/assets/twice/lyrics/Pop.json"
     },
     {
+        "title": "queen of hearts",
+        "subtitle": "NAYEON TWICE",
+        "img": "https://najibibrahim.github.io/music-library/assets/twice/images/QueenOfHearts.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/twice/mp3/QueenOfHearts.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/twice/lyrics/QueenOfHearts.json"
+    },
+    {
         "title": "scientist",
         "subtitle": "TWICE",
         "img": "https://najibibrahim.github.io/music-library/assets/twice/images/Scientist.png",
@@ -187,6 +208,13 @@
         "img": "https://najibibrahim.github.io/music-library/assets/twice/images/TT.png",
         "path": "https://najibibrahim.github.io/music-library/assets/twice/mp3/TT.mp3",
         "lyrics": "https://najibibrahim.github.io/music-library/assets/twice/lyrics/TT.json"
+    },
+    {
+        "title": "up no more",
+        "subtitle": "TWICE",
+        "img": "https://najibibrahim.github.io/music-library/assets/twice/images/UpNoMore.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/twice/mp3/UpNoMore.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/twice/lyrics/UpNoMore.json"
     },
     {
         "title": "what is love",
