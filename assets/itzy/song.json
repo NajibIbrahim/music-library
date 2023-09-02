@@ -63,6 +63,20 @@
         "lyrics": "https://najibibrahim.github.io/music-library/assets/itzy/lyrics/DallaDalla.json"
     },
     {
+        "title": "domino",
+        "subtitle": "ITZY",
+        "img": "https://najibibrahim.github.io/music-library/assets/itzy/images/Domino.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/itzy/mp3/Domino.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/itzy/lyrics/Domino.json"
+    },
+    {
+        "title": "free fall",
+        "subtitle": "ITZY",
+        "img": "https://najibibrahim.github.io/music-library/assets/itzy/images/FreeFall.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/itzy/mp3/FreeFall.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/itzy/lyrics/FreeFall.json"
+    },
+    {
         "title": "icy",
         "subtitle": "ITZY",
         "img": "https://najibibrahim.github.io/music-library/assets/itzy/images/Icy.png",
@@ -98,6 +112,13 @@
         "lyrics": "https://najibibrahim.github.io/music-library/assets/itzy/lyrics/NotShy.json"
     },
     {
+        "title": "racer",
+        "subtitle": "ITZY",
+        "img": "https://najibibrahim.github.io/music-library/assets/itzy/images/Racer.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/itzy/mp3/Racer.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/itzy/lyrics/Racer.json"
+    },
+    {
         "title": "sneakers",
         "subtitle": "ITZY",
         "img": "https://najibibrahim.github.io/music-library/assets/itzy/images/Sneakers.png",
@@ -112,11 +133,25 @@
         "lyrics": "https://najibibrahim.github.io/music-library/assets/itzy/lyrics/Snowy.json"
     },
     {
+        "title": "sorry not sorry",
+        "subtitle": "ITZY",
+        "img": "https://najibibrahim.github.io/music-library/assets/itzy/images/SorryNotSorry.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/itzy/mp3/SorryNotSorry.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/itzy/lyrics/SorryNotSorry.json"
+    },
+    {
         "title": "swipe",
         "subtitle": "ITZY",
         "img": "https://najibibrahim.github.io/music-library/assets/itzy/images/Swipe.png",
         "path": "https://najibibrahim.github.io/music-library/assets/itzy/mp3/Swipe.mp3",
         "lyrics": "https://najibibrahim.github.io/music-library/assets/itzy/lyrics/Swipe.json"
+    },
+    {
+        "title": "ting ting ting",
+        "subtitle": "ITZY",
+        "img": "https://najibibrahim.github.io/music-library/assets/itzy/images/TingTingTing.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/itzy/mp3/TingTingTing.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/itzy/lyrics/TingTingTing.json"
     },
     {
         "title": "voltage",
