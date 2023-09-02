@@ -1,0 +1,42 @@
+[
+  {
+    "title": "what was i made for?",
+    "subtitle": "Billie Eillish",
+    "cover": "https://najibibrahim.github.io/music-library/assets/billieeilish/images/populer1.png",
+    "img": "https://najibibrahim.github.io/music-library/assets/billieeilish/images/WhatWasIMadeFor?.png",
+    "path": "https://najibibrahim.github.io/music-library/assets/billieeilish/mp3/WhatWasIMadeFor?.mp3",
+    "lyrics": "https://najibibrahim.github.io/music-library/assets/billieeilish/lyrics/WhatWasIMadeFor?.json"
+  },
+  {
+    "title": "lovely",
+    "subtitle": "Billie Eillish & Khalid",
+    "cover": "https://najibibrahim.github.io/music-library/assets/billieeilish/images/populer2.png",
+    "img": "https://najibibrahim.github.io/music-library/assets/billieeilish/images/Lovely.png",
+    "path": "https://najibibrahim.github.io/music-library/assets/billieeilish/mp3/Lovely.mp3",
+    "lyrics": "https://najibibrahim.github.io/music-library/assets/billieeilish/lyrics/Lovely.json"
+  },
+  {
+    "title": "bad guy",
+    "subtitle": "Billie Eillish",
+    "cover": "https://najibibrahim.github.io/music-library/assets/billieeilish/images/populer3.png",
+    "img": "https://najibibrahim.github.io/music-library/assets/billieeilish/images/BadGuy.png",
+    "path": "https://najibibrahim.github.io/music-library/assets/billieeilish/mp3/BadGuy.mp3",
+    "lyrics": "https://najibibrahim.github.io/music-library/assets/billieeilish/lyrics/BadGuy.json"
+  },
+  {
+    "title": "when the partys over",
+    "subtitle": "Billie Eillish",
+    "cover": "https://najibibrahim.github.io/music-library/assets/billieeilish/images/populer4.png",
+    "img": "https://najibibrahim.github.io/music-library/assets/billieeilish/images/WhenThePartysOver.png",
+    "path": "https://najibibrahim.github.io/music-library/assets/billieeilish/mp3/WhenThePartysOver.mp3",
+    "lyrics": "https://najibibrahim.github.io/music-library/assets/billieeilish/lyrics/WhenThePartysOver.json"
+  },
+  {
+    "title": "everything i wanted",
+    "subtitle": "Billie Eillish",
+    "cover": "https://najibibrahim.github.io/music-library/assets/billieeilish/images/populer5.png",
+    "img": "https://najibibrahim.github.io/music-library/assets/billieeilish/images/EverythingIWanted.png",
+    "path": "https://najibibrahim.github.io/music-library/assets/billieeilish/mp3/EverythingIWanted.mp3",
+    "lyrics": "https://najibibrahim.github.io/music-library/assets/billieeilish/lyrics/EverythingIWanted.json"
+  }
+]
