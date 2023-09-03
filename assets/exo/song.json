@@ -21,6 +21,13 @@
         "lyrics": "https://najibibrahim.github.io/music-library/assets/exo/lyrics/CreamSoda.json"
     },
     {
+        "title": "dancing king",
+        "subtitle": "EXO & Yoo Jae Suk",
+        "img": "https://najibibrahim.github.io/music-library/assets/exo/images/DancingKing.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/exo/mp3/DancingKing.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/exo/lyrics/DancingKing.json"
+    },
+    {
         "title": "don't fight the feeling",
         "subtitle": "EXO",
         "img": "https://najibibrahim.github.io/music-library/assets/exo/images/DontFightTheFeeling.png",
@@ -42,18 +49,18 @@
         "lyrics": "https://najibibrahim.github.io/music-library/assets/exo/lyrics/Growl.json"
     },
     {
-        "title": "mama",
-        "subtitle": "EXO K",
-        "img": "https://najibibrahim.github.io/music-library/assets/exo/images/Mama.png",
-        "path": "https://najibibrahim.github.io/music-library/assets/exo/mp3/Mama.mp3",
-        "lyrics": "https://najibibrahim.github.io/music-library/assets/exo/lyrics/Mama.json"
-    },
-    {
         "title": "ko ko bop",
         "subtitle": "EXO",
         "img": "https://najibibrahim.github.io/music-library/assets/exo/images/KoKoBop.png",
         "path": "https://najibibrahim.github.io/music-library/assets/exo/mp3/KoKoBop.mp3",
         "lyrics": "https://najibibrahim.github.io/music-library/assets/exo/lyrics/KoKoBop.json"
+    },
+    {
+        "title": "lightsaber",
+        "subtitle": "EXO",
+        "img": "https://najibibrahim.github.io/music-library/assets/exo/images/Lightsaber.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/exo/mp3/Lightsaber.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/exo/lyrics/Lightsaber.json"
     },
     {
         "title": "lotto",
@@ -82,6 +89,20 @@
         "img": "https://najibibrahim.github.io/music-library/assets/exo/images/LuckyOne.png",
         "path": "https://najibibrahim.github.io/music-library/assets/exo/mp3/LuckyOne.mp3",
         "lyrics": "https://najibibrahim.github.io/music-library/assets/exo/lyrics/LuckyOne.json"
+    },
+    {
+        "title": "mama",
+        "subtitle": "EXO",
+        "img": "https://najibibrahim.github.io/music-library/assets/exo/images/Mama.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/exo/mp3/Mama.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/exo/lyrics/Mama.json"
+    },
+    {
+        "title": "miracles in december",
+        "subtitle": "EXO",
+        "img": "https://najibibrahim.github.io/music-library/assets/exo/images/MiraclesInDecember.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/exo/mp3/MiraclesInDecember.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/exo/lyrics/MiraclesInDecember.json"
     },
     {
         "title": "monster",
@@ -119,6 +140,13 @@
         "lyrics": "https://najibibrahim.github.io/music-library/assets/exo/lyrics/Rover.json"
     },
     {
+        "title": "sing for you",
+        "subtitle": "EXO",
+        "img": "https://najibibrahim.github.io/music-library/assets/exo/images/SingForYou.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/exo/mp3/SingForYou.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/exo/lyrics/SingForYou.json"
+    },
+    {
         "title": "tempo",
         "subtitle": "EXO",
         "img": "https://najibibrahim.github.io/music-library/assets/exo/images/Tempo.png",
@@ -131,6 +159,13 @@
         "img": "https://najibibrahim.github.io/music-library/assets/exo/images/TheEve.png",
         "path": "https://najibibrahim.github.io/music-library/assets/exo/mp3/TheEve.mp3",
         "lyrics": "https://najibibrahim.github.io/music-library/assets/exo/lyrics/TheEve.json"
+    },
+    {
+        "title": "unfair",
+        "subtitle": "EXO",
+        "img": "https://najibibrahim.github.io/music-library/assets/exo/images/Unfair.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/exo/mp3/Unfair.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/exo/lyrics/Unfair.json"
     },
     {
         "title": "universe",
