@@ -42,6 +42,13 @@
         "lyrics": "https://najibibrahim.github.io/music-library/assets/nct/lyrics/Beautiful.json"
     },
     {
+        "title": "black on black",
+        "subtitle": "NCT 2018",
+        "img": "https://najibibrahim.github.io/music-library/assets/nct/images/BlackOnBlack.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/nct/mp3/BlackOnBlack.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/nct/lyrics/BlackOnBlack.json"
+    },
+    {
         "title": "boom",
         "subtitle": "NCT DREAM",
         "img": "https://najibibrahim.github.io/music-library/assets/nct/images/Boom.png",
@@ -70,6 +77,13 @@
         "lyrics": "https://najibibrahim.github.io/music-library/assets/nct/lyrics/Candy.json"
     },
     {
+        "title": "chain",
+        "subtitle": "NCT 127",
+        "img": "https://najibibrahim.github.io/music-library/assets/nct/images/Chain.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/nct/mp3/Chain.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/nct/lyrics/Chain.json"
+    },
+    {
         "title": "cherry bomb",
         "subtitle": "NCT 127",
         "img": "https://najibibrahim.github.io/music-library/assets/nct/images/CherryBomb.png",
@@ -89,6 +103,13 @@
         "img": "https://najibibrahim.github.io/music-library/assets/nct/images/FavoriteVampire.png",
         "path": "https://najibibrahim.github.io/music-library/assets/nct/mp3/FavoriteVampire.mp3",
         "lyrics": "https://najibibrahim.github.io/music-library/assets/nct/lyrics/FavoriteVampire.json"
+    },
+    {
+        "title": "fire truck",
+        "subtitle": "NCT 127",
+        "img": "https://najibibrahim.github.io/music-library/assets/nct/images/FireTruck.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/nct/mp3/FireTruck.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/nct/lyrics/FireTruck.json"
     },
     {
         "title": "golden hour",
@@ -159,5 +180,26 @@
         "img": "https://najibibrahim.github.io/music-library/assets/nct/images/UniverseLetsPlayBall.png",
         "path": "https://najibibrahim.github.io/music-library/assets/nct/mp3/UniverseLetsPlayBall.mp3",
         "lyrics": "https://najibibrahim.github.io/music-library/assets/nct/lyrics/UniverseLetsPlayBall.json"
+    },
+    {
+        "title": "Wakey Wakey",
+        "subtitle": "NCT 127",
+        "img": "https://najibibrahim.github.io/music-library/assets/nct/images/WakeyWakey.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/nct/mp3/WakeyWakey.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/nct/lyrics/WakeyWakey.json"
+    },
+    {
+        "title": "We Go Up",
+        "subtitle": "NCT DREAM",
+        "img": "https://najibibrahim.github.io/music-library/assets/nct/images/UniverseLetsPlayBall.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/nct/mp3/UniverseLetsPlayBall.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/nct/lyrics/UniverseLetsPlayBall.json"
+    },
+    {
+        "title": "We Young",
+        "subtitle": "NCT DREAM",
+        "img": "https://najibibrahim.github.io/music-library/assets/nct/images/WeYoung.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/nct/mp3/WeYoung.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/nct/lyrics/WeYoung.json"
     }
 ]
