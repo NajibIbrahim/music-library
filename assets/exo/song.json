@@ -28,11 +28,25 @@
         "lyrics": "https://najibibrahim.github.io/music-library/assets/exo/lyrics/DontFightTheFeeling.json"
     },
     {
+        "title": "don't go",
+        "subtitle": "EXO K",
+        "img": "https://najibibrahim.github.io/music-library/assets/exo/images/DontGo.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/exo/mp3/DontGo.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/exo/lyrics/DontGo.json"
+    },
+    {
         "title": "growl",
         "subtitle": "EXO",
         "img": "https://najibibrahim.github.io/music-library/assets/exo/images/Growl.png",
         "path": "https://najibibrahim.github.io/music-library/assets/exo/mp3/Growl.mp3",
         "lyrics": "https://najibibrahim.github.io/music-library/assets/exo/lyrics/Growl.json"
+    },
+    {
+        "title": "mama",
+        "subtitle": "EXO K",
+        "img": "https://najibibrahim.github.io/music-library/assets/exo/images/Mama.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/exo/mp3/Mama.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/exo/lyrics/Mama.json"
     },
     {
         "title": "ko ko bop",
@@ -112,10 +126,31 @@
         "lyrics": "https://najibibrahim.github.io/music-library/assets/exo/lyrics/Tempo.json"
     },
     {
+        "title": "the eve",
+        "subtitle": "EXO",
+        "img": "https://najibibrahim.github.io/music-library/assets/exo/images/TheEve.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/exo/mp3/TheEve.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/exo/lyrics/TheEve.json"
+    },
+    {
         "title": "universe",
         "subtitle": "EXO",
         "img": "https://najibibrahim.github.io/music-library/assets/exo/images/Universe.png",
         "path": "https://najibibrahim.github.io/music-library/assets/exo/mp3/Universe.mp3",
         "lyrics": "https://najibibrahim.github.io/music-library/assets/exo/lyrics/Universe.json"
+    },
+    {
+        "title": "wolf",
+        "subtitle": "EXO",
+        "img": "https://najibibrahim.github.io/music-library/assets/exo/images/Wolf.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/exo/mp3/Wolf.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/exo/lyrics/Wolf.json"
+    },
+    {
+        "title": "xoxo (kisses & hugs)",
+        "subtitle": "EXO K",
+        "img": "https://najibibrahim.github.io/music-library/assets/exo/images/Xoxo.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/exo/mp3/Xoxo.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/exo/lyrics/Xoxo.json"
     }
 ]
