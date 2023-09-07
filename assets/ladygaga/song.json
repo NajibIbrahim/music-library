@@ -1,0 +1,107 @@
+[
+    {
+        "title": "Alejandro",
+        "subtitle": "Lady Gaga & Bradley Cooper",
+        "img": "https://najibibrahim.github.io/music-library/assets/ladygaga/images/Alejandro.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/ladygaga/mp3/Alejandro.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/ladygaga/lyrics/Alejandro.json"
+    },
+    {
+        "title": "Alice",
+        "subtitle": "Lady Gaga",
+        "img": "https://najibibrahim.github.io/music-library/assets/ladygaga/images/Alice.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/ladygaga/mp3/Alice.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/ladygaga/lyrics/Alice.json"
+    },
+    {
+        "title": "AlwaysRememberUsThisWay",
+        "subtitle": "Lady Gaga",
+        "img": "https://najibibrahim.github.io/music-library/assets/ladygaga/images/AlwaysRememberUsThisWay.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/ladygaga/mp3/AlwaysRememberUsThisWay.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/ladygaga/lyrics/AlwaysRememberUsThisWay.json"
+    },
+    {
+        "title": "Applause",
+        "subtitle": "Lady Gaga",
+        "img": "https://najibibrahim.github.io/music-library/assets/ladygaga/images/Applause.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/ladygaga/mp3/Applause.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/ladygaga/lyrics/Applause.json"
+    },
+    {
+        "title": "BadRomance",
+        "subtitle": "Lady Gaga",
+        "img": "https://najibibrahim.github.io/music-library/assets/ladygaga/images/BadRomance.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/ladygaga/mp3/BadRomance.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/ladygaga/lyrics/BadRomance.json"
+    },
+    {
+        "title": "BloodyMary",
+        "subtitle": "Lady Gaga",
+        "img": "https://najibibrahim.github.io/music-library/assets/ladygaga/images/BloodyMary.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/ladygaga/mp3/BloodyMary.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/ladygaga/lyrics/BloodyMary.json"
+    },
+    {
+        "title": "HoldMyHand",
+        "subtitle": "Lady Gaga",
+        "img": "https://najibibrahim.github.io/music-library/assets/ladygaga/images/HoldMyHand.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/ladygaga/mp3/HoldMyHand.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/ladygaga/lyrics/HoldMyHand.json"
+    },
+    {
+        "title": "ImOnTheEdgeOfGlory",
+        "subtitle": "Lady Gaga",
+        "img": "https://najibibrahim.github.io/music-library/assets/ladygaga/images/ImOnTheEdgeOfGlory.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/ladygaga/mp3/ImOnTheEdgeOfGlory.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/ladygaga/lyrics/ImOnTheEdgeOfGlory.json"
+    },
+    {
+        "title": "JustDance",
+        "subtitle": "Lady Gaga ft. Colby O'Donis",
+        "img": "https://najibibrahim.github.io/music-library/assets/ladygaga/images/JustDance.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/ladygaga/mp3/JustDance.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/ladygaga/lyrics/JustDance.json"
+    },
+    {
+        "title": "Paparazzi",
+        "subtitle": "Lady Gaga",
+        "img": "https://najibibrahim.github.io/music-library/assets/ladygaga/images/Paparazzi.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/ladygaga/mp3/Paparazzi.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/ladygaga/lyrics/Paparazzi.json"
+    },
+    {
+        "title": "PokerFace",
+        "subtitle": "Lady Gaga",
+        "img": "https://najibibrahim.github.io/music-library/assets/ladygaga/images/PokerFace.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/ladygaga/mp3/PokerFace.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/ladygaga/lyrics/PokerFace.json"
+    },
+    {
+        "title": "Shallow",
+        "subtitle": "Lady Gaga",
+        "img": "https://najibibrahim.github.io/music-library/assets/ladygaga/images/Shallow.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/ladygaga/mp3/Shallow.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/ladygaga/lyrics/Shallow.json"
+    },
+    {
+        "title": "StupidLove",
+        "subtitle": "Lady Gaga",
+        "img": "https://najibibrahim.github.io/music-library/assets/ladygaga/images/StupidLove.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/ladygaga/mp3/StupidLove.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/ladygaga/lyrics/StupidLove.json"
+    },
+    {
+        "title": "Telephone",
+        "subtitle": "Lady Gaga ft. Beyonce",
+        "img": "https://najibibrahim.github.io/music-library/assets/ladygaga/images/Telephone.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/ladygaga/mp3/Telephone.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/ladygaga/lyrics/Telephone.json"
+    },
+    {
+        "title": "TheCure",
+        "subtitle": "Lady Gaga",
+        "img": "https://najibibrahim.github.io/music-library/assets/ladygaga/images/TheCure.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/ladygaga/mp3/TheCure.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/ladygaga/lyrics/TheCure.json"
+    }
+]

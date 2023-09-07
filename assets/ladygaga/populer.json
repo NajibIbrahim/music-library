@@ -1,0 +1,34 @@
+[
+  {
+    "title": "Shallow",
+    "subtitle": "Lady Gaga & Bradley Cooper",
+    "cover": "https://najibibrahim.github.io/music-library/assets/billieeilish/images/populer1.png",
+    "img": "https://najibibrahim.github.io/music-library/assets/billieeilish/images/Shallow.png",
+    "path": "https://najibibrahim.github.io/music-library/assets/billieeilish/mp3/Shallow.mp3",
+    "lyrics": "https://najibibrahim.github.io/music-library/assets/billieeilish/lyrics/Shallow.json"
+  },
+  {
+    "title": "PokerFace",
+    "subtitle": "Lady Gaga",
+    "cover": "https://najibibrahim.github.io/music-library/assets/billieeilish/images/populer2.png",
+    "img": "https://najibibrahim.github.io/music-library/assets/billieeilish/images/PokerFace.png",
+    "path": "https://najibibrahim.github.io/music-library/assets/billieeilish/mp3/PokerFace.mp3",
+    "lyrics": "https://najibibrahim.github.io/music-library/assets/billieeilish/lyrics/PokerFace.json"
+  },
+  {
+    "title": "AlwaysRememberUsThisWay",
+    "subtitle": "Lady Gaga",
+    "cover": "https://najibibrahim.github.io/music-library/assets/billieeilish/images/populer3.png",
+    "img": "https://najibibrahim.github.io/music-library/assets/billieeilish/images/AlwaysRememberUsThisWay.png",
+    "path": "https://najibibrahim.github.io/music-library/assets/billieeilish/mp3/AlwaysRememberUsThisWay.mp3",
+    "lyrics": "https://najibibrahim.github.io/music-library/assets/billieeilish/lyrics/AlwaysRememberUsThisWay.json"
+  },
+  {
+    "title": "BadRomance",
+    "subtitle": "Lady Gaga",
+    "cover": "https://najibibrahim.github.io/music-library/assets/billieeilish/images/populer4.png",
+    "img": "https://najibibrahim.github.io/music-library/assets/billieeilish/images/BadRomance.png",
+    "path": "https://najibibrahim.github.io/music-library/assets/billieeilish/mp3/BadRomance.mp3",
+    "lyrics": "https://najibibrahim.github.io/music-library/assets/billieeilish/lyrics/BadRomance.json"
+  }
+]
