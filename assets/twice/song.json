@@ -77,6 +77,13 @@
         "lyrics": "https://najibibrahim.github.io/music-library/assets/twice/lyrics/FeelSpecial.json"
     },
     {
+        "title": "go hard",
+        "subtitle": "TWICE",
+        "img": "https://najibibrahim.github.io/music-library/assets/twice/images/GoHard.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/twice/mp3/GoHard.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/twice/lyrics/GoHard.json"
+    },
+    {
         "title": "heart shaker",
         "subtitle": "TWICE",
         "img": "https://najibibrahim.github.io/music-library/assets/twice/images/HeartShaker.png",
@@ -96,6 +103,13 @@
         "img": "https://najibibrahim.github.io/music-library/assets/twice/images/Hello.png",
         "path": "https://najibibrahim.github.io/music-library/assets/twice/mp3/Hello.mp3",
         "lyrics": "https://najibibrahim.github.io/music-library/assets/twice/lyrics/Hello.json"
+    },
+    {
+        "title": "hot",
+        "subtitle": "TWICE",
+        "img": "https://najibibrahim.github.io/music-library/assets/twice/images/Hot.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/twice/mp3/Hot.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/twice/lyrics/Hot.json"
     },
     {
         "title": "i cant stop me",
@@ -145,6 +159,13 @@
         "img": "https://najibibrahim.github.io/music-library/assets/twice/images/Likey.png",
         "path": "https://najibibrahim.github.io/music-library/assets/twice/mp3/Likey.mp3",
         "lyrics": "https://najibibrahim.github.io/music-library/assets/twice/lyrics/Likey.json"
+    },
+    {
+        "title": "love foolish",
+        "subtitle": "TWICE",
+        "img": "https://najibibrahim.github.io/music-library/assets/twice/images/LoveFoolish.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/twice/mp3/LoveFoolish.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/twice/lyrics/LoveFoolish.json"
     },
     {
         "title": "merry & happy",
@@ -250,6 +271,13 @@
         "img": "https://najibibrahim.github.io/music-library/assets/twice/images/UpNoMore.png",
         "path": "https://najibibrahim.github.io/music-library/assets/twice/mp3/UpNoMore.mp3",
         "lyrics": "https://najibibrahim.github.io/music-library/assets/twice/lyrics/UpNoMore.json"
+    },
+    {
+        "title": "wallflower",
+        "subtitle": "TWICE",
+        "img": "https://najibibrahim.github.io/music-library/assets/twice/images/Wallflower.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/twice/mp3/Wallflower.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/twice/lyrics/Wallflower.json"
     },
     {
         "title": "what is love",
