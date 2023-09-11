@@ -63,6 +63,13 @@
         "lyrics": "https://najibibrahim.github.io/music-library/assets/itzy/lyrics/Cheshire.json"
     },
     {
+        "title": "chillin' chillin'",
+        "subtitle": "ITZY",
+        "img": "https://najibibrahim.github.io/music-library/assets/itzy/images/ChillinChillin.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/itzy/mp3/ChillinChillin.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/itzy/lyrics/ChillinChillin.json"
+    },
+    {
         "title": "dalla dalla",
         "subtitle": "ITZY",
         "img": "https://najibibrahim.github.io/music-library/assets/itzy/images/DallaDalla.png",
@@ -105,6 +112,13 @@
         "lyrics": "https://najibibrahim.github.io/music-library/assets/itzy/lyrics/ID.json"
     },
     {
+        "title": "i don't wanna dance",
+        "subtitle": "ITZY",
+        "img": "https://najibibrahim.github.io/music-library/assets/itzy/images/IDontWannaDance.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/itzy/mp3/IDontWannaDance.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/itzy/lyrics/IDontWannaDance.json"
+    },
+    {
         "title": "in the morning",
         "subtitle": "ITZY",
         "img": "https://najibibrahim.github.io/music-library/assets/itzy/images/InTheMorning.png",
@@ -126,11 +140,25 @@
         "lyrics": "https://najibibrahim.github.io/music-library/assets/itzy/lyrics/Loco.json"
     },
     {
+        "title": "louder",
+        "subtitle": "ITZY",
+        "img": "https://najibibrahim.github.io/music-library/assets/itzy/images/Louder.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/itzy/mp3/Louder.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/itzy/lyrics/Louder.json"
+    },
+    {
         "title": "love is",
         "subtitle": "ITZY",
         "img": "https://najibibrahim.github.io/music-library/assets/itzy/images/LoveIs.png",
         "path": "https://najibibrahim.github.io/music-library/assets/itzy/mp3/LoveIs.mp3",
         "lyrics": "https://najibibrahim.github.io/music-library/assets/itzy/lyrics/LoveIs.json"
+    },
+    {
+        "title": "nobody like you",
+        "subtitle": "ITZY",
+        "img": "https://najibibrahim.github.io/music-library/assets/itzy/images/NobodyLikeYou.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/itzy/mp3/NobodyLikeYou.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/itzy/lyrics/NobodyLikeYou.json"
     },
     {
         "title": "not shy",
@@ -166,6 +194,13 @@
         "img": "https://najibibrahim.github.io/music-library/assets/itzy/images/Snowy.png",
         "path": "https://najibibrahim.github.io/music-library/assets/itzy/mp3/Snowy.mp3",
         "lyrics": "https://najibibrahim.github.io/music-library/assets/itzy/lyrics/Snowy.json"
+    },
+    {
+        "title": "sooo lucky",
+        "subtitle": "ITZY",
+        "img": "https://najibibrahim.github.io/music-library/assets/itzy/images/SoooLucky.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/itzy/mp3/SoooLucky.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/itzy/lyrics/SoooLucky.json"
     },
     {
         "title": "sorry not sorry",
@@ -217,6 +252,13 @@
         "lyrics": "https://najibibrahim.github.io/music-library/assets/itzy/lyrics/Wannabe.json"
     },
     {
+        "title": "want it?",
+        "subtitle": "ITZY",
+        "img": "https://najibibrahim.github.io/music-library/assets/itzy/images/WantIt.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/itzy/mp3/WantIt.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/itzy/lyrics/WantIt.json"
+    },
+    {
         "title": "weapon",
         "subtitle": "ITZY",
         "img": "https://najibibrahim.github.io/music-library/assets/itzy/images/Weapon.png",
@@ -229,5 +271,19 @@
         "img": "https://najibibrahim.github.io/music-library/assets/itzy/images/WhatIWant.png",
         "path": "https://najibibrahim.github.io/music-library/assets/itzy/mp3/WhatIWant.mp3",
         "lyrics": "https://najibibrahim.github.io/music-library/assets/itzy/lyrics/WhatIWant.json"
+    },
+    {
+        "title": "wild wild west",
+        "subtitle": "ITZY",
+        "img": "https://najibibrahim.github.io/music-library/assets/itzy/images/WildWildWest.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/itzy/mp3/WildWildWest.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/itzy/lyrics/WildWildWest.json"
+    },
+    {
+        "title": "you make me",
+        "subtitle": "ITZY",
+        "img": "https://najibibrahim.github.io/music-library/assets/itzy/images/YouMakeMe.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/itzy/mp3/YouMakeMe.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/itzy/lyrics/YouMakeMe.json"
     }
 ]
