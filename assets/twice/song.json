@@ -63,6 +63,13 @@
         "lyrics": "https://najibibrahim.github.io/music-library/assets/twice/lyrics/Doughnut.json"
     },
     {
+        "title": "fake & true",
+        "subtitle": "TWICE",
+        "img": "https://najibibrahim.github.io/music-library/assets/twice/images/Fake&True.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/twice/mp3/Fake&True.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/twice/lyrics/Fake&True.json"
+    },
+    {
         "title": "fancy",
         "subtitle": "TWICE",
         "img": "https://najibibrahim.github.io/music-library/assets/twice/images/Fancy.png",
