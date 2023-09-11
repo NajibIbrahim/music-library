@@ -14,6 +14,13 @@
         "lyrics": "https://najibibrahim.github.io/music-library/assets/twice/lyrics/Better.json"
     },
     {
+        "title": "blame it on me",
+        "subtitle": "TWICE",
+        "img": "https://najibibrahim.github.io/music-library/assets/twice/images/BlameItOnMe.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/twice/mp3/BlameItOnMe.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/twice/lyrics/BlameItOnMe.json"
+    },
+    {
         "title": "celebrate",
         "subtitle": "TWICE",
         "img": "https://najibibrahim.github.io/music-library/assets/twice/images/Celebrate.png",
@@ -26,6 +33,13 @@
         "img": "https://najibibrahim.github.io/music-library/assets/twice/images/CheerUp.png",
         "path": "https://najibibrahim.github.io/music-library/assets/twice/mp3/CheerUp.mp3",
         "lyrics": "https://najibibrahim.github.io/music-library/assets/twice/lyrics/CheerUp.json"
+    },
+    {
+        "title": "crazy stupid love",
+        "subtitle": "TWICE",
+        "img": "https://najibibrahim.github.io/music-library/assets/twice/images/CrazyStupidLove.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/twice/mp3/CrazyStupidLove.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/twice/lyrics/CrazyStupidLove.json"
     },
     {
         "title": "cry for me",
@@ -68,6 +82,13 @@
         "img": "https://najibibrahim.github.io/music-library/assets/twice/images/HeartShaker.png",
         "path": "https://najibibrahim.github.io/music-library/assets/twice/mp3/HeartShaker.mp3",
         "lyrics": "https://najibibrahim.github.io/music-library/assets/twice/lyrics/HeartShaker.json"
+    },
+    {
+        "title": "hell in heaven",
+        "subtitle": "TWICE",
+        "img": "https://najibibrahim.github.io/music-library/assets/twice/images/HellInHeaven.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/twice/mp3/HellInHeaven.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/twice/lyrics/HellInHeaven.json"
     },
     {
         "title": "hello",
@@ -133,6 +154,13 @@
         "lyrics": "https://najibibrahim.github.io/music-library/assets/twice/lyrics/MerryHappy.json"
     },
     {
+        "title": "moonlight sunrise",
+        "subtitle": "TWICE",
+        "img": "https://najibibrahim.github.io/music-library/assets/twice/images/MoonlightSunrise.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/twice/mp3/MoonlightSunrise.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/twice/lyrics/MoonlightSunrise.json"
+    },
+    {
         "title": "more & more",
         "subtitle": "TWICE",
         "img": "https://najibibrahim.github.io/music-library/assets/twice/images/MoreMore.png",
@@ -152,6 +180,13 @@
         "img": "https://najibibrahim.github.io/music-library/assets/twice/images/Pop.png",
         "path": "https://najibibrahim.github.io/music-library/assets/twice/mp3/Pop.mp3",
         "lyrics": "https://najibibrahim.github.io/music-library/assets/twice/lyrics/Pop.json"
+    },
+    {
+        "title": "queen",
+        "subtitle": "NAYEON TWICE",
+        "img": "https://najibibrahim.github.io/music-library/assets/twice/images/Queen.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/twice/mp3/Queen.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/twice/lyrics/Queen.json"
     },
     {
         "title": "queen of hearts",
