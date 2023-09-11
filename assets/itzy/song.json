@@ -49,6 +49,13 @@
         "lyrics": "https://najibibrahim.github.io/music-library/assets/itzy/lyrics/Cake.json"
     },
     {
+        "title": "cherry",
+        "subtitle": "ITZY",
+        "img": "https://najibibrahim.github.io/music-library/assets/itzy/images/Cherry.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/itzy/mp3/Cherry.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/itzy/lyrics/Cherry.json"
+    },
+    {
         "title": "cheshire",
         "subtitle": "ITZY",
         "img": "https://najibibrahim.github.io/music-library/assets/itzy/images/Cheshire.png",
@@ -105,6 +112,13 @@
         "lyrics": "https://najibibrahim.github.io/music-library/assets/itzy/lyrics/Loco.json"
     },
     {
+        "title": "mafia in the morning",
+        "subtitle": "ITZY",
+        "img": "https://najibibrahim.github.io/music-library/assets/itzy/images/MafiaInTheMorning.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/itzy/mp3/MafiaInTheMorning.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/itzy/lyrics/MafiaInTheMorning.json"
+    },
+    {
         "title": "not shy",
         "subtitle": "ITZY",
         "img": "https://najibibrahim.github.io/music-library/assets/itzy/images/NotShy.png",
@@ -117,6 +131,13 @@
         "img": "https://najibibrahim.github.io/music-library/assets/itzy/images/Racer.png",
         "path": "https://najibibrahim.github.io/music-library/assets/itzy/mp3/Racer.mp3",
         "lyrics": "https://najibibrahim.github.io/music-library/assets/itzy/lyrics/Racer.json"
+    },
+    {
+        "title": "shoot!",
+        "subtitle": "ITZY",
+        "img": "https://najibibrahim.github.io/music-library/assets/itzy/images/Shoot.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/itzy/mp3/Shoot.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/itzy/lyrics/Shoot.json"
     },
     {
         "title": "sneakers",
@@ -147,6 +168,13 @@
         "lyrics": "https://najibibrahim.github.io/music-library/assets/itzy/lyrics/Swipe.json"
     },
     {
+        "title": "that's a no no",
+        "subtitle": "ITZY",
+        "img": "https://najibibrahim.github.io/music-library/assets/itzy/images/ThatsANoNo.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/itzy/mp3/ThatsANoNo.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/itzy/lyrics/ThatsANoNo.json"
+    },
+    {
         "title": "ting ting ting",
         "subtitle": "ITZY",
         "img": "https://najibibrahim.github.io/music-library/assets/itzy/images/TingTingTing.png",
@@ -173,5 +201,12 @@
         "img": "https://najibibrahim.github.io/music-library/assets/itzy/images/Weapon.png",
         "path": "https://najibibrahim.github.io/music-library/assets/itzy/mp3/Weapon.mp3",
         "lyrics": "https://najibibrahim.github.io/music-library/assets/itzy/lyrics/Weapon.json"
+    },
+    {
+        "title": "what i want",
+        "subtitle": "ITZY",
+        "img": "https://najibibrahim.github.io/music-library/assets/itzy/images/WhatIWant.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/itzy/mp3/WhatIWant.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/itzy/lyrics/WhatIWant.json"
     }
 ]
