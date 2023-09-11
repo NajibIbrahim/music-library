@@ -84,6 +84,20 @@
         "lyrics": "https://najibibrahim.github.io/music-library/assets/twice/lyrics/GoHard.json"
     },
     {
+        "title": "got the thrills",
+        "subtitle": "TWICE",
+        "img": "https://najibibrahim.github.io/music-library/assets/twice/images/GotTheThrills.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/twice/mp3/GotTheThrills.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/twice/lyrics/GotTheThrills.json"
+    },
+    {
+        "title": "hare hare",
+        "subtitle": "TWICE",
+        "img": "https://najibibrahim.github.io/music-library/assets/twice/images/HareHare.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/twice/mp3/HareHare.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/twice/lyrics/HareHare.json"
+    },
+    {
         "title": "heart shaker",
         "subtitle": "TWICE",
         "img": "https://najibibrahim.github.io/music-library/assets/twice/images/HeartShaker.png",
