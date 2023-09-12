@@ -7,6 +7,13 @@
         "lyrics": "https://najibibrahim.github.io/music-library/assets/exo/lyrics/ArtificialLove.json"
     },
     {
+        "title": "baby don't cry",
+        "subtitle": "EXO K",
+        "img": "https://najibibrahim.github.io/music-library/assets/exo/images/BabyDontCry.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/exo/mp3/BabyDontCry.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/exo/lyrics/BabyDontCry.json"
+    },
+    {
         "title": "call me baby",
         "subtitle": "EXO",
         "img": "https://najibibrahim.github.io/music-library/assets/exo/images/CallMeBaby.png",
@@ -84,6 +91,13 @@
         "lyrics": "https://najibibrahim.github.io/music-library/assets/exo/lyrics/LoveShot.json"
     },
     {
+        "title": "lucky",
+        "subtitle": "EXO K",
+        "img": "https://najibibrahim.github.io/music-library/assets/exo/images/Lucky.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/exo/mp3/Lucky.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/exo/lyrics/Lucky.json"
+    },
+    {
         "title": "lucky one",
         "subtitle": "EXO",
         "img": "https://najibibrahim.github.io/music-library/assets/exo/images/LuckyOne.png",
@@ -126,6 +140,13 @@
         "lyrics": "https://najibibrahim.github.io/music-library/assets/exo/lyrics/Overdose.json"
     },
     {
+        "title": "peter pan",
+        "subtitle": "EXO K",
+        "img": "https://najibibrahim.github.io/music-library/assets/exo/images/PeterPan.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/exo/mp3/PeterPan.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/exo/lyrics/PeterPan.json"
+    },
+    {
         "title": "power",
         "subtitle": "EXO",
         "img": "https://najibibrahim.github.io/music-library/assets/exo/images/Power.png",
@@ -159,6 +180,13 @@
         "img": "https://najibibrahim.github.io/music-library/assets/exo/images/TheEve.png",
         "path": "https://najibibrahim.github.io/music-library/assets/exo/mp3/TheEve.mp3",
         "lyrics": "https://najibibrahim.github.io/music-library/assets/exo/lyrics/TheEve.json"
+    },
+    {
+        "title": "the first snow",
+        "subtitle": "EXO K",
+        "img": "https://najibibrahim.github.io/music-library/assets/exo/images/TheFirstSnow.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/exo/mp3/TheFirstSnow.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/exo/lyrics/TheFirstSnow.json"
     },
     {
         "title": "unfair",
