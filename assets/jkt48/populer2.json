@@ -1,5 +1,13 @@
 [
   {
+    "title": "kebun binatang saat hujan",
+    "subtitle": "ame no doubutsuen",
+    "cover": "https://najibibrahim.github.io/music-library/assets/jkt48/images/populer6.png",
+    "img": "https://najibibrahim.github.io/music-library/assets/jkt48/images/KebunBinatangSaatHujan.png",
+    "path": "https://najibibrahim.github.io/music-library/assets/jkt48/mp3/KebunBinatangSaatHujan.mp3",
+    "lyrics": "https://najibibrahim.github.io/music-library/assets/jkt48/lyrics/KebunBinatangSaatHujan.json"
+  },
+  {
     "title": "ponytail dan shu-shu",
     "subtitle": "JKT48",
     "cover": "https://najibibrahim.github.io/music-library/assets/jkt48/images/populer1.png",
@@ -38,13 +46,5 @@
     "img": "https://najibibrahim.github.io/music-library/assets/jkt48/images/EurekaMilikKita.png",
     "path": "https://najibibrahim.github.io/music-library/assets/jkt48/mp3/EurekaMilikKita.mp3",
     "lyrics": "https://najibibrahim.github.io/music-library/assets/jkt48/lyrics/EurekaMilikKita.json"
-  },
-  {
-    "title": "pesawat kertas 365 hari",
-    "subtitle": "JKT48",
-    "cover": "https://najibibrahim.github.io/music-library/assets/jkt48/images/populer6.png",
-    "img": "https://najibibrahim.github.io/music-library/assets/jkt48/images/PesawatKertas365Hari.png",
-    "path": "https://najibibrahim.github.io/music-library/assets/jkt48/mp3/PesawatKertas365Hari.mp3",
-    "lyrics": "https://najibibrahim.github.io/music-library/assets/jkt48/lyrics/PesawatKertas365Hari.json"
   }
 ]
