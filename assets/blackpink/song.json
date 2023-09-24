@@ -25,6 +25,13 @@
         "lyrics": "https://najibibrahim.github.io/music-library/assets/blackpink/lyrics/Boombayah.json"
     },
     {
+        "title": "clarity",
+        "subtitle": "JISOO BLACKPINK",
+        "img": "https://najibibrahim.github.io/music-library/assets/blackpink/images/Clarity.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/blackpink/mp3/Clarity.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/blackpink/lyrics/Clarity.json"
+    },
+    {
         "title": "crazy over you", "subtitle": "BLACKPINK",
         "img": "https://najibibrahim.github.io/music-library/assets/blackpink/images/CrazyOverYou.png",
         "path": "https://najibibrahim.github.io/music-library/assets/blackpink/mp3/CrazyOverYou.mp3",
