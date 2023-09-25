@@ -1,5 +1,12 @@
 [
     {
+        "title": "1 to 10",
+        "subtitle": "Jeongyeon, Mina & Tzuyu",
+        "img": "https://najibibrahim.github.io/music-library/assets/twice/images/1To10.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/twice/mp3/1To10.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/twice/lyrics/1To10.json"
+    },
+    {
         "title": "1, 3, 2",
         "subtitle": "Jeongyeon, Mina & Tzuyu",
         "img": "https://najibibrahim.github.io/music-library/assets/twice/images/132.png",
@@ -147,6 +154,13 @@
         "lyrics": "https://najibibrahim.github.io/music-library/assets/twice/lyrics/DanceTheNightAway.json"
     },
     {
+        "title": "do it again",
+        "subtitle": "TWICE",
+        "img": "https://najibibrahim.github.io/music-library/assets/twice/images/DoItAgain.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/twice/mp3/DoItAgain.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/twice/lyrics/DoItAgain.json"
+    },
+    {
         "title": "doughnut",
         "subtitle": "TWICE",
         "img": "https://najibibrahim.github.io/music-library/assets/twice/images/Doughnut.png",
@@ -201,6 +215,13 @@
         "img": "https://najibibrahim.github.io/music-library/assets/twice/images/GoHard.png",
         "path": "https://najibibrahim.github.io/music-library/assets/twice/mp3/GoHard.mp3",
         "lyrics": "https://najibibrahim.github.io/music-library/assets/twice/lyrics/GoHard.json"
+    },
+    {
+        "title": "going crazy",
+        "subtitle": "TWICE",
+        "img": "https://najibibrahim.github.io/music-library/assets/twice/images/GoingCrazy.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/twice/mp3/GoingCrazy.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/twice/lyrics/GoingCrazy.json"
     },
     {
         "title": "good at love",
@@ -301,6 +322,13 @@
         "lyrics": "https://najibibrahim.github.io/music-library/assets/twice/lyrics/IWantYouBack.json"
     },
     {
+        "title": "jelly jelly",
+        "subtitle": "TWICE",
+        "img": "https://najibibrahim.github.io/music-library/assets/twice/images/JellyJelly.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/twice/mp3/JellyJelly.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/twice/lyrics/JellyJelly.json"
+    },
+    {
         "title": "knock knock",
         "subtitle": "TWICE",
         "img": "https://najibibrahim.github.io/music-library/assets/twice/images/KnockKnock.png",
@@ -327,6 +355,13 @@
         "img": "https://najibibrahim.github.io/music-library/assets/twice/images/LastWaltz.png",
         "path": "https://najibibrahim.github.io/music-library/assets/twice/mp3/LastWaltz.mp3",
         "lyrics": "https://najibibrahim.github.io/music-library/assets/twice/lyrics/LastWaltz.json"
+    },
+    {
+        "title": "like a fool",
+        "subtitle": "TWICE",
+        "img": "https://najibibrahim.github.io/music-library/assets/twice/images/LikeAFool.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/twice/mp3/LikeAFool.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/twice/lyrics/LikeAFool.json"
     },
     {
         "title": "like ooh - ahh",
@@ -420,11 +455,25 @@
         "lyrics": "https://najibibrahim.github.io/music-library/assets/twice/lyrics/Polish.json"
     },
     {
+        "title": "ponytail",
+        "subtitle": "TWICE",
+        "img": "https://najibibrahim.github.io/music-library/assets/twice/images/Ponytail.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/twice/mp3/Ponytail.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/twice/lyrics/Ponytail.json"
+    },
+    {
         "title": "pop!",
         "subtitle": "NAYEON TWICE",
         "img": "https://najibibrahim.github.io/music-library/assets/twice/images/Pop.png",
         "path": "https://najibibrahim.github.io/music-library/assets/twice/mp3/Pop.mp3",
         "lyrics": "https://najibibrahim.github.io/music-library/assets/twice/lyrics/Pop.json"
+    },
+    {
+        "title": "precious love",
+        "subtitle": "TWICE",
+        "img": "https://najibibrahim.github.io/music-library/assets/twice/images/PreciousLove.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/twice/mp3/PreciousLove.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/twice/lyrics/PreciousLove.json"
     },
     {
         "title": "promise",
@@ -581,11 +630,25 @@
         "lyrics": "https://najibibrahim.github.io/music-library/assets/twice/lyrics/Trouble.json"
     },
     {
+        "title": "truth",
+        "subtitle": "TWICE",
+        "img": "https://najibibrahim.github.io/music-library/assets/twice/images/Truth.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/twice/mp3/Truth.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/twice/lyrics/Truth.json"
+    },
+    {
         "title": "tt",
         "subtitle": "TWICE",
         "img": "https://najibibrahim.github.io/music-library/assets/twice/images/TT.png",
         "path": "https://najibibrahim.github.io/music-library/assets/twice/mp3/TT.mp3",
         "lyrics": "https://najibibrahim.github.io/music-library/assets/twice/lyrics/TT.json"
+    },
+    {
+        "title": "tuk tok (ready to talk)",
+        "subtitle": "TWICE",
+        "img": "https://najibibrahim.github.io/music-library/assets/twice/images/TukTok.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/twice/mp3/TukTok.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/twice/lyrics/TukTok.json"
     },
     {
         "title": "up no more",
@@ -621,6 +684,13 @@
         "img": "https://najibibrahim.github.io/music-library/assets/twice/images/Wishing.png",
         "path": "https://najibibrahim.github.io/music-library/assets/twice/mp3/Wishing.mp3",
         "lyrics": "https://najibibrahim.github.io/music-library/assets/twice/lyrics/Wishing.json"
+    },
+    {
+        "title": "woohoo",
+        "subtitle": "TWICE",
+        "img": "https://najibibrahim.github.io/music-library/assets/twice/images/Woohoo.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/twice/mp3/Woohoo.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/twice/lyrics/Woohoo.json"
     },
     {
         "title": "yes or yes",
