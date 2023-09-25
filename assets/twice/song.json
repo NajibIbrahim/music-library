@@ -56,6 +56,13 @@
         "lyrics": "https://najibibrahim.github.io/music-library/assets/twice/lyrics/Better.json"
     },
     {
+        "title": "be ok",
+        "subtitle": "TWICE",
+        "img": "https://najibibrahim.github.io/music-library/assets/twice/images/BeOk.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/twice/mp3/BeOk.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/twice/lyrics/BeOk.json"
+    },
+    {
         "title": "blame it on me",
         "subtitle": "TWICE",
         "img": "https://najibibrahim.github.io/music-library/assets/twice/images/BlameItOnMe.png",
@@ -210,6 +217,13 @@
         "lyrics": "https://najibibrahim.github.io/music-library/assets/twice/lyrics/GotTheThrills.json"
     },
     {
+        "title": "happy happy",
+        "subtitle": "TWICE",
+        "img": "https://najibibrahim.github.io/music-library/assets/twice/images/HappyHappy.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/twice/mp3/HappyHappy.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/twice/lyrics/HappyHappy.json"
+    },
+    {
         "title": "hare hare",
         "subtitle": "TWICE",
         "img": "https://najibibrahim.github.io/music-library/assets/twice/images/HareHare.png",
@@ -245,6 +259,13 @@
         "lyrics": "https://najibibrahim.github.io/music-library/assets/twice/lyrics/Hot.json"
     },
     {
+        "title": "how you doin",
+        "subtitle": "TWICE",
+        "img": "https://najibibrahim.github.io/music-library/assets/twice/images/HowYouDoin.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/twice/mp3/HowYouDoin.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/twice/lyrics/HowYouDoin.json"
+    },
+    {
         "title": "i can't stop me",
         "subtitle": "TWICE",
         "img": "https://najibibrahim.github.io/music-library/assets/twice/images/ICantStopMe.png",
@@ -257,6 +278,13 @@
         "img": "https://najibibrahim.github.io/music-library/assets/twice/images/Icon.png",
         "path": "https://najibibrahim.github.io/music-library/assets/twice/mp3/Icon.mp3",
         "lyrics": "https://najibibrahim.github.io/music-library/assets/twice/lyrics/Icon.json"
+    },
+    {
+        "title": "i love you more than anyone",
+        "subtitle": "TWICE",
+        "img": "https://najibibrahim.github.io/music-library/assets/twice/images/ILoveYouMoreThanAnyone.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/twice/mp3/ILoveYouMoreThanAnyone.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/twice/lyrics/ILoveYouMoreThanAnyone.json"
     },
     {
         "title": "i'm gonna be a star",
@@ -322,6 +350,13 @@
         "lyrics": "https://najibibrahim.github.io/music-library/assets/twice/lyrics/LoveFoolish.json"
     },
     {
+        "title": "luv me",
+        "subtitle": "TWICE",
+        "img": "https://najibibrahim.github.io/music-library/assets/twice/images/LuvMe.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/twice/mp3/LuvMe.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/twice/lyrics/LuvMe.json"
+    },
+    {
         "title": "merry & happy",
         "subtitle": "TWICE",
         "img": "https://najibibrahim.github.io/music-library/assets/twice/images/MerryHappy.png",
@@ -369,6 +404,20 @@
         "img": "https://najibibrahim.github.io/music-library/assets/twice/images/PerfectWorld.png",
         "path": "https://najibibrahim.github.io/music-library/assets/twice/mp3/PerfectWorld.mp3",
         "lyrics": "https://najibibrahim.github.io/music-library/assets/twice/lyrics/PerfectWorld.json"
+    },
+    {
+        "title": "pink lemonade",
+        "subtitle": "TWICE",
+        "img": "https://najibibrahim.github.io/music-library/assets/twice/images/PinkLemonade.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/twice/mp3/PinkLemonade.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/twice/lyrics/PinkLemonade.json"
+    },
+    {
+        "title": "polish",
+        "subtitle": "TWICE",
+        "img": "https://najibibrahim.github.io/music-library/assets/twice/images/Polish.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/twice/mp3/Polish.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/twice/lyrics/Polish.json"
     },
     {
         "title": "pop!",
@@ -420,6 +469,13 @@
         "lyrics": "https://najibibrahim.github.io/music-library/assets/twice/lyrics/Scientist.json"
     },
     {
+        "title": "scorpion",
+        "subtitle": "TWICE",
+        "img": "https://najibibrahim.github.io/music-library/assets/twice/images/Scorpion.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/twice/mp3/Scorpion.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/twice/lyrics/Scorpion.json"
+    },
+    {
         "title": "scandal",
         "subtitle": "TWICE",
         "img": "https://najibibrahim.github.io/music-library/assets/twice/images/Scandal.png",
@@ -462,6 +518,13 @@
         "lyrics": "https://najibibrahim.github.io/music-library/assets/twice/lyrics/StrawberryMoon.json"
     },
     {
+        "title": "stronger",
+        "subtitle": "TWICE",
+        "img": "https://najibibrahim.github.io/music-library/assets/twice/images/Stronger.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/twice/mp3/Stronger.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/twice/lyrics/Stronger.json"
+    },
+    {
         "title": "stuck in my head",
         "subtitle": "TWICE",
         "img": "https://najibibrahim.github.io/music-library/assets/twice/images/StuckInMyHead.png",
@@ -495,6 +558,13 @@
         "img": "https://najibibrahim.github.io/music-library/assets/twice/images/TheFeels.png",
         "path": "https://najibibrahim.github.io/music-library/assets/twice/mp3/TheFeels.mp3",
         "lyrics": "https://najibibrahim.github.io/music-library/assets/twice/lyrics/TheFeels.json"
+    },
+    {
+        "title": "the reason why",
+        "subtitle": "TWICE",
+        "img": "https://najibibrahim.github.io/music-library/assets/twice/images/TheReasonWhy.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/twice/mp3/TheReasonWhy.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/twice/lyrics/TheReasonWhy.json"
     },
     {
         "title": "touchdown",
