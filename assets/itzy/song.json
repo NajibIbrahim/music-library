@@ -28,6 +28,13 @@
         "lyrics": "https://najibibrahim.github.io/music-library/assets/itzy/lyrics/BetOnMe.json"
     },
     {
+        "title": "blah blah blah",
+        "subtitle": "ITZY",
+        "img": "https://najibibrahim.github.io/music-library/assets/itzy/images/BlahBlahBlah.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/itzy/mp3/BlahBlahBlah.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/itzy/lyrics/BlahBlahBlah.json"
+    },
+    {
         "title": "b[oo]m-boxx",
         "subtitle": "ITZY",
         "img": "https://najibibrahim.github.io/music-library/assets/itzy/images/BOOMBOXX.png",
@@ -161,6 +168,13 @@
         "lyrics": "https://najibibrahim.github.io/music-library/assets/itzy/lyrics/NobodyLikeYou.json"
     },
     {
+        "title": "none of my business",
+        "subtitle": "ITZY",
+        "img": "https://najibibrahim.github.io/music-library/assets/itzy/images/NoneOfMyBusiness.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/itzy/mp3/NoneOfMyBusiness.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/itzy/lyrics/NoneOfMyBusiness.json"
+    },
+    {
         "title": "not shy",
         "subtitle": "ITZY",
         "img": "https://najibibrahim.github.io/music-library/assets/itzy/images/NotShy.png",
@@ -168,11 +182,25 @@
         "lyrics": "https://najibibrahim.github.io/music-library/assets/itzy/lyrics/NotShy.json"
     },
     {
+        "title": "psychic lover",
+        "subtitle": "ITZY",
+        "img": "https://najibibrahim.github.io/music-library/assets/itzy/images/PsychicLover.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/itzy/mp3/PsychicLover.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/itzy/lyrics/PsychicLover.json"
+    },
+    {
         "title": "racer",
         "subtitle": "ITZY",
         "img": "https://najibibrahim.github.io/music-library/assets/itzy/images/Racer.png",
         "path": "https://najibibrahim.github.io/music-library/assets/itzy/mp3/Racer.mp3",
         "lyrics": "https://najibibrahim.github.io/music-library/assets/itzy/lyrics/Racer.json"
+    },
+    {
+        "title": "ringo",
+        "subtitle": "ITZY",
+        "img": "https://najibibrahim.github.io/music-library/assets/itzy/images/Ringo.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/itzy/mp3/Ringo.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/itzy/lyrics/Ringo.json"
     },
     {
         "title": "shoot!",
@@ -208,6 +236,13 @@
         "img": "https://najibibrahim.github.io/music-library/assets/itzy/images/SorryNotSorry.png",
         "path": "https://najibibrahim.github.io/music-library/assets/itzy/mp3/SorryNotSorry.mp3",
         "lyrics": "https://najibibrahim.github.io/music-library/assets/itzy/lyrics/SorryNotSorry.json"
+    },
+    {
+        "title": "spice",
+        "subtitle": "ITZY",
+        "img": "https://najibibrahim.github.io/music-library/assets/itzy/images/Spice.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/itzy/mp3/Spice.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/itzy/lyrics/Spice.json"
     },
     {
         "title": "surf",
