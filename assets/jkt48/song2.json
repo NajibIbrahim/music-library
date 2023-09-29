@@ -483,6 +483,13 @@
     "lyrics": "https://najibibrahim.github.io/music-library/assets/jkt48/lyrics/SweetBitter.json"
   },
   {
+    "title": "teacher teacher",
+    "subtitle": "jkt48",
+    "img": "https://najibibrahim.github.io/music-library/assets/jkt48/images/TeacherTeacher.png",
+    "path": "https://najibibrahim.github.io/music-library/assets/jkt48/mp3/TeacherTeacher.mp3",
+    "lyrics": "https://najibibrahim.github.io/music-library/assets/jkt48/lyrics/TeacherTeacher.json"
+  },
+  {
     "title": "tentang suratku",
     "subtitle": "tegami no koto",
     "img": "https://najibibrahim.github.io/music-library/assets/jkt48/images/TentangSuratku.png",
