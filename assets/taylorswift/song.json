@@ -203,6 +203,13 @@
         "lyrics": "https://najibibrahim.github.io/music-library/assets/taylorswift/lyrics/Mine.json"
     },
     {
+        "title": "out of the woods",
+        "subtitle": "Taylor Swift",
+        "img": "https://najibibrahim.github.io/music-library/assets/taylorswift/images/OutOfTheWoods.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/taylorswift/mp3/OutOfTheWoods.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/taylorswift/lyrics/OutOfTheWoods.json"
+    },
+    {
         "title": "red",
         "subtitle": "Taylor Swift",
         "img": "https://najibibrahim.github.io/music-library/assets/taylorswift/images/Red.png",
