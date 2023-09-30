@@ -238,6 +238,13 @@
         "lyrics": "https://najibibrahim.github.io/music-library/assets/taylorswift/lyrics/TheWayILovedYou.json"
     },
     {
+        "title": "wildest dreams",
+        "subtitle": "Taylor Swift",
+        "img": "https://najibibrahim.github.io/music-library/assets/taylorswift/images/WildestDreams.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/taylorswift/mp3/WildestDreams.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/taylorswift/lyrics/WildestDreams.json"
+    },
+    {
         "title": "would've, could've, should've",
         "subtitle": "Taylor Swift",
         "img": "https://najibibrahim.github.io/music-library/assets/taylorswift/images/WouldveCouldveShouldve.png",
