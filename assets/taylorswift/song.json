@@ -252,6 +252,13 @@
         "lyrics": "https://najibibrahim.github.io/music-library/assets/taylorswift/lyrics/Willow.json"
     },
     {
+        "title": "wonderland",
+        "subtitle": "Taylor Swift",
+        "img": "https://najibibrahim.github.io/music-library/assets/taylorswift/images/Wonderland.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/taylorswift/mp3/Wonderland.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/taylorswift/lyrics/Wonderland.json"
+    },
+    {
         "title": "would've, could've, should've",
         "subtitle": "Taylor Swift",
         "img": "https://najibibrahim.github.io/music-library/assets/taylorswift/images/WouldveCouldveShouldve.png",
