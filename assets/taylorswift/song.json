@@ -238,6 +238,13 @@
         "lyrics": "https://najibibrahim.github.io/music-library/assets/taylorswift/lyrics/TheWayILovedYou.json"
     },
     {
+        "title": "welcome to new york",
+        "subtitle": "Taylor Swift",
+        "img": "https://najibibrahim.github.io/music-library/assets/taylorswift/images/WelcomeToNewYork.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/taylorswift/mp3/WelcomeToNewYork.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/taylorswift/lyrics/WelcomeToNewYork.json"
+    },
+    {
         "title": "wildest dreams",
         "subtitle": "Taylor Swift",
         "img": "https://najibibrahim.github.io/music-library/assets/taylorswift/images/WildestDreams.png",
