@@ -133,6 +133,13 @@
         "lyrics": "https://najibibrahim.github.io/music-library/assets/taylorswift/lyrics/IKnewYouWere.json"
     },
     {
+        "title": "i know places",
+        "subtitle": "Taylor Swift",
+        "img": "https://najibibrahim.github.io/music-library/assets/taylorswift/images/IKnowPlaces.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/taylorswift/mp3/IKnowPlaces.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/taylorswift/lyrics/IKnowPlaces.json"
+    },
+    {
         "title": "i think he knows",
         "subtitle": "Taylor Swift",
         "img": "https://najibibrahim.github.io/music-library/assets/taylorswift/images/IThinkHeKnows.png",
