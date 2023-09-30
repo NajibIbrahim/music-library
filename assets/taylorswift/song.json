@@ -7,6 +7,13 @@
         "lyrics": "https://najibibrahim.github.io/music-library/assets/taylorswift/lyrics/22.json"
     },
     {
+        "title": "all you had to do was stay",
+        "subtitle": "Taylor Swift",
+        "img": "https://najibibrahim.github.io/music-library/assets/taylorswift/images/AllYouHadToDoWasStay.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/taylorswift/mp3/AllYouHadToDoWasStay.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/taylorswift/lyrics/AllYouHadToDoWasStay.json"
+    },
+    {
         "title": "anti hero",
         "subtitle": "Taylor Swift",
         "img": "https://najibibrahim.github.io/music-library/assets/taylorswift/images/AntiHero.png",
