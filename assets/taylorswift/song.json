@@ -63,6 +63,13 @@
         "lyrics": "https://najibibrahim.github.io/music-library/assets/taylorswift/lyrics/ChampagneProblems.json"
     },
     {
+        "title": "clean",
+        "subtitle": "Taylor Swift",
+        "img": "https://najibibrahim.github.io/music-library/assets/taylorswift/images/Clean.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/taylorswift/mp3/Clean.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/taylorswift/lyrics/Clean.json"
+    },
+    {
         "title": "cruel summer",
         "subtitle": "Taylor Swift",
         "img": "https://najibibrahim.github.io/music-library/assets/taylorswift/images/CruelSummer.png",
