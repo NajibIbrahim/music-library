@@ -203,6 +203,27 @@
         "lyrics": "https://najibibrahim.github.io/music-library/assets/taylorswift/lyrics/Mine.json"
     },
     {
+        "title": "mirrorball",
+        "subtitle": "Taylor Swift",
+        "img": "https://najibibrahim.github.io/music-library/assets/taylorswift/images/Mirrorball.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/taylorswift/mp3/Mirrorball.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/taylorswift/lyrics/Mirrorball.json"
+    },
+    {
+        "title": "my tears ricochet",
+        "subtitle": "Taylor Swift",
+        "img": "https://najibibrahim.github.io/music-library/assets/taylorswift/images/MyTearsRicochet.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/taylorswift/mp3/MyTearsRicochet.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/taylorswift/lyrics/MyTearsRicochet.json"
+    },
+    {
+        "title": "no body no crime",
+        "subtitle": "Taylor Swift",
+        "img": "https://najibibrahim.github.io/music-library/assets/taylorswift/images/NoBodyNoCrime.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/taylorswift/mp3/NoBodyNoCrime.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/taylorswift/lyrics/NoBodyNoCrime.json"
+    },
+    {
         "title": "out of the woods",
         "subtitle": "Taylor Swift",
         "img": "https://najibibrahim.github.io/music-library/assets/taylorswift/images/OutOfTheWoods.png",
