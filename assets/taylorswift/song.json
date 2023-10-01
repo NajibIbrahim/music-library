@@ -259,6 +259,13 @@
         "lyrics": "https://najibibrahim.github.io/music-library/assets/taylorswift/lyrics/Style.json"
     },
     {
+        "title": "the 1",
+        "subtitle": "Taylor Swift",
+        "img": "https://najibibrahim.github.io/music-library/assets/taylorswift/images/The1.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/taylorswift/mp3/The1.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/taylorswift/lyrics/The1.json"
+    },
+    {
         "title": "the great war",
         "subtitle": "Taylor Swift",
         "img": "https://najibibrahim.github.io/music-library/assets/taylorswift/images/TheGreatWar.png",
