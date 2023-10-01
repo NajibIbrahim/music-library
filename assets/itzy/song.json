@@ -7,6 +7,13 @@
         "lyrics": "https://najibibrahim.github.io/music-library/assets/itzy/lyrics/Twenty.json"
     },
     {
+        "title": "24 Hrs",
+        "subtitle": "ITZY",
+        "img": "https://najibibrahim.github.io/music-library/assets/itzy/images/24Hrs.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/itzy/mp3/24Hrs.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/itzy/lyrics/24Hrs.json"
+    },
+    {
         "title": "365",
         "subtitle": "ITZY",
         "img": "https://najibibrahim.github.io/music-library/assets/itzy/images/365.png",
@@ -56,6 +63,13 @@
         "lyrics": "https://najibibrahim.github.io/music-library/assets/itzy/lyrics/Cake.json"
     },
     {
+        "title": "can't tie me down",
+        "subtitle": "ITZY",
+        "img": "https://najibibrahim.github.io/music-library/assets/itzy/images/CantTieMeDown.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/itzy/mp3/CantTieMeDown.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/itzy/lyrics/CantTieMeDown.json"
+    },
+    {
         "title": "cherry",
         "subtitle": "ITZY",
         "img": "https://najibibrahim.github.io/music-library/assets/itzy/images/Cherry.png",
@@ -98,11 +112,25 @@
         "lyrics": "https://najibibrahim.github.io/music-library/assets/itzy/lyrics/DontGiveAWhat.json"
     },
     {
+        "title": "freaky",
+        "subtitle": "ITZY",
+        "img": "https://najibibrahim.github.io/music-library/assets/itzy/images/Freaky.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/itzy/mp3/Freaky.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/itzy/lyrics/Freaky.json"
+    },
+    {
         "title": "free fall",
         "subtitle": "ITZY",
         "img": "https://najibibrahim.github.io/music-library/assets/itzy/images/FreeFall.png",
         "path": "https://najibibrahim.github.io/music-library/assets/itzy/mp3/FreeFall.mp3",
         "lyrics": "https://najibibrahim.github.io/music-library/assets/itzy/lyrics/FreeFall.json"
+    },
+    {
+        "title": "gas me up",
+        "subtitle": "ITZY",
+        "img": "https://najibibrahim.github.io/music-library/assets/itzy/images/GasMeUp.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/itzy/mp3/GasMeUp.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/itzy/lyrics/GasMeUp.json"
     },
     {
         "title": "icy",
@@ -140,6 +168,13 @@
         "lyrics": "https://najibibrahim.github.io/music-library/assets/itzy/lyrics/KiddingMe.json"
     },
     {
+        "title": "kill shot",
+        "subtitle": "ITZY",
+        "img": "https://najibibrahim.github.io/music-library/assets/itzy/images/KillShot.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/itzy/mp3/KillShot.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/itzy/lyrics/KillShot.json"
+    },
+    {
         "title": "loco",
         "subtitle": "ITZY",
         "img": "https://najibibrahim.github.io/music-library/assets/itzy/images/Loco.png",
@@ -159,6 +194,13 @@
         "img": "https://najibibrahim.github.io/music-library/assets/itzy/images/LoveIs.png",
         "path": "https://najibibrahim.github.io/music-library/assets/itzy/mp3/LoveIs.mp3",
         "lyrics": "https://najibibrahim.github.io/music-library/assets/itzy/lyrics/LoveIs.json"
+    },
+    {
+        "title": "mirror",
+        "subtitle": "ITZY",
+        "img": "https://najibibrahim.github.io/music-library/assets/itzy/images/Mirror.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/itzy/mp3/Mirror.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/itzy/lyrics/Mirror.json"
     },
     {
         "title": "nobody like you",
@@ -257,6 +299,13 @@
         "img": "https://najibibrahim.github.io/music-library/assets/itzy/images/Swipe.png",
         "path": "https://najibibrahim.github.io/music-library/assets/itzy/mp3/Swipe.mp3",
         "lyrics": "https://najibibrahim.github.io/music-library/assets/itzy/lyrics/Swipe.json"
+    },
+    {
+        "title": "tennis (0:0)",
+        "subtitle": "ITZY",
+        "img": "https://najibibrahim.github.io/music-library/assets/itzy/images/Tennis.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/itzy/mp3/Tennis.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/itzy/lyrics/Tennis.json"
     },
     {
         "title": "that's a no no",
