@@ -196,6 +196,13 @@
         "lyrics": "https://najibibrahim.github.io/music-library/assets/taylorswift/lyrics/LoveStory.json"
     },
     {
+        "title": "me",
+        "subtitle": "Taylor Swift ft. Brendon Urie",
+        "img": "https://najibibrahim.github.io/music-library/assets/taylorswift/images/Me.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/taylorswift/mp3/Me.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/taylorswift/lyrics/Me.json"
+    },
+    {
         "title": "mine",
         "subtitle": "Taylor Swift",
         "img": "https://najibibrahim.github.io/music-library/assets/taylorswift/images/Mine.png",
