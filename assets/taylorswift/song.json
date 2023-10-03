@@ -273,6 +273,13 @@
         "lyrics": "https://najibibrahim.github.io/music-library/assets/taylorswift/lyrics/TheGreatWar.json"
     },
     {
+        "title": "the last great american dynasty",
+        "subtitle": "Taylor Swift",
+        "img": "https://najibibrahim.github.io/music-library/assets/taylorswift/images/TheLastGreatAmericanDynasty copy.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/taylorswift/mp3/TheLastGreatAmericanDynasty copy.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/taylorswift/lyrics/TheLastGreatAmericanDynasty copy.json"
+    },
+    {
         "title": "the man",
         "subtitle": "Taylor Swift",
         "img": "https://najibibrahim.github.io/music-library/assets/taylorswift/images/TheMan.png",
@@ -334,5 +341,12 @@
         "img": "https://najibibrahim.github.io/music-library/assets/taylorswift/images/YouBelongWithMe.png",
         "path": "https://najibibrahim.github.io/music-library/assets/taylorswift/mp3/YouBelongWithMe.mp3",
         "lyrics": "https://najibibrahim.github.io/music-library/assets/taylorswift/lyrics/YouBelongWithMe.json"
+    },
+    {
+        "title": "you need to calm down",
+        "subtitle": "Taylor Swift",
+        "img": "https://najibibrahim.github.io/music-library/assets/taylorswift/images/YouNeedToCalmDown.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/taylorswift/mp3/YouNeedToCalmDown.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/taylorswift/lyrics/YouNeedToCalmDown.json"
     }
 ]
