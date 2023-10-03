@@ -273,6 +273,13 @@
         "lyrics": "https://najibibrahim.github.io/music-library/assets/taylorswift/lyrics/TheGreatWar.json"
     },
     {
+        "title": "the man",
+        "subtitle": "Taylor Swift",
+        "img": "https://najibibrahim.github.io/music-library/assets/taylorswift/images/TheMan.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/taylorswift/mp3/TheMan.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/taylorswift/lyrics/TheMan.json"
+    },
+    {
         "title": "the way i loved you",
         "subtitle": "Taylor Swift",
         "img": "https://najibibrahim.github.io/music-library/assets/taylorswift/images/TheWayILovedYou.png",
