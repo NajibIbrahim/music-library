@@ -77,6 +77,20 @@
         "lyrics": "https://najibibrahim.github.io/music-library/assets/nct/lyrics/Boss.json"
     },
     {
+        "title": "breakfast",
+        "subtitle": "NCT 127",
+        "img": "https://najibibrahim.github.io/music-library/assets/nct/images/Breakfast.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/nct/mp3/Breakfast.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/nct/lyrics/Breakfast.json"
+    },
+    {
+        "title": "bring the noize",
+        "subtitle": "NCT 127",
+        "img": "https://najibibrahim.github.io/music-library/assets/nct/images/BringTheNoize.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/nct/mp3/BringTheNoize.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/nct/lyrics/BringTheNoize.json"
+    },
+    {
         "title": "broken melodies",
         "subtitle": "NCT DREAM",
         "img": "https://najibibrahim.github.io/music-library/assets/nct/images/BrokenMelodies.png",
@@ -119,6 +133,13 @@
         "lyrics": "https://najibibrahim.github.io/music-library/assets/nct/lyrics/Designer.json"
     },
     {
+        "title": "far",
+        "subtitle": "NCT 127",
+        "img": "https://najibibrahim.github.io/music-library/assets/nct/images/Far.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/nct/mp3/Far.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/nct/lyrics/Far.json"
+    },
+    {
         "title": "faster",
         "subtitle": "NCT 127",
         "img": "https://najibibrahim.github.io/music-library/assets/nct/images/Faster.png",
@@ -138,6 +159,13 @@
         "img": "https://najibibrahim.github.io/music-library/assets/nct/images/FireTruck.png",
         "path": "https://najibibrahim.github.io/music-library/assets/nct/mp3/FireTruck.mp3",
         "lyrics": "https://najibibrahim.github.io/music-library/assets/nct/lyrics/FireTruck.json"
+    },
+    {
+        "title": "focus",
+        "subtitle": "NCT 127",
+        "img": "https://najibibrahim.github.io/music-library/assets/nct/images/Focus.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/nct/mp3/Focus.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/nct/lyrics/Focus.json"
     },
     {
         "title": "golden hour",
@@ -189,6 +217,20 @@
         "lyrics": "https://najibibrahim.github.io/music-library/assets/nct/lyrics/Kiss.json"
     },
     {
+        "title": "lemonade",
+        "subtitle": "NCT 127",
+        "img": "https://najibibrahim.github.io/music-library/assets/nct/images/Lemonade.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/nct/mp3/Lemonade.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/nct/lyrics/Lemonade.json"
+    },
+    {
+        "title": "magic carpet ride",
+        "subtitle": "NCT 127",
+        "img": "https://najibibrahim.github.io/music-library/assets/nct/images/MagicCarpetRide.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/nct/mp3/MagicCarpetRide.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/nct/lyrics/MagicCarpetRide.json"
+    },
+    {
         "title": "make a wish ( birthday song )",
         "subtitle": "NCT U",
         "img": "https://najibibrahim.github.io/music-library/assets/nct/images/MakeAWishBirthdaySong.png",
@@ -217,6 +259,13 @@
         "lyrics": "https://najibibrahim.github.io/music-library/assets/nct/lyrics/Resonance.json"
     },
     {
+        "title": "road trip",
+        "subtitle": "NCT 127",
+        "img": "https://najibibrahim.github.io/music-library/assets/nct/images/RoadTrip.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/nct/mp3/RoadTrip.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/nct/lyrics/RoadTrip.json"
+    },
+    {
         "title": "shalala",
         "subtitle": "TAEYONG",
         "img": "https://najibibrahim.github.io/music-library/assets/nct/images/Shalala.png",
@@ -229,6 +278,20 @@
         "img": "https://najibibrahim.github.io/music-library/assets/nct/images/SimonSays.png",
         "path": "https://najibibrahim.github.io/music-library/assets/nct/mp3/SimonSays.mp3",
         "lyrics": "https://najibibrahim.github.io/music-library/assets/nct/lyrics/SimonSays.json"
+    },
+    {
+        "title": "sticker",
+        "subtitle": "NCT 127",
+        "img": "https://najibibrahim.github.io/music-library/assets/nct/images/Sticker.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/nct/mp3/Sticker.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/nct/lyrics/Sticker.json"
+    },
+    {
+        "title": "the rainy night",
+        "subtitle": "NCT 127",
+        "img": "https://najibibrahim.github.io/music-library/assets/nct/images/TheRainyNight.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/nct/mp3/TheRainyNight.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/nct/lyrics/TheRainyNight.json"
     },
     {
         "title": "time lapse",
