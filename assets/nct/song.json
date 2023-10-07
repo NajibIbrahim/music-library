@@ -1,10 +1,17 @@
 [
     {
-      "title": "2 baddies", 
+      "title": "1, 2, 7 (time stops)", 
       "subtitle": "NCT 127",
-      "img": "https://najibibrahim.github.io/music-library/assets/nct/images/2Baddies.png",
-      "path": "https://najibibrahim.github.io/music-library/assets/nct/mp3/2Baddies.mp3",
-      "lyrics": "https://najibibrahim.github.io/music-library/assets/nct/lyrics/2Baddies.json"
+      "img": "https://najibibrahim.github.io/music-library/assets/nct/images/1,2,7(TimeStops).png",
+      "path": "https://najibibrahim.github.io/music-library/assets/nct/mp3/1,2,7(TimeStops).mp3",
+      "lyrics": "https://najibibrahim.github.io/music-library/assets/nct/lyrics/1,2,7(TimeStops).json"
+    },
+    {
+        "title": "2 baddies",
+        "subtitle": "NCT 127",
+        "img": "https://najibibrahim.github.io/music-library/assets/nct/images/2Baddies.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/nct/mp3/2Baddies.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/nct/lyrics/2Baddies.json"
     },
     {
         "title": "90's love",
@@ -12,6 +19,13 @@
         "img": "https://najibibrahim.github.io/music-library/assets/nct/images/90sLove.png",
         "path": "https://najibibrahim.github.io/music-library/assets/nct/mp3/90sLove.mp3",
         "lyrics": "https://najibibrahim.github.io/music-library/assets/nct/lyrics/90sLove.json"
+    },
+    {
+        "title": "arcade",
+        "subtitle": "NCT DREAM",
+        "img": "https://najibibrahim.github.io/music-library/assets/nct/images/Arcade.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/nct/mp3/Arcade.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/nct/lyrics/Arcade.json"
     },
     {
         "title": "Ay-Yo",
@@ -98,7 +112,21 @@
         "lyrics": "https://najibibrahim.github.io/music-library/assets/nct/lyrics/ChewingGum.json"
     },
     {
-        "title": "favorite ( vampire )",
+        "title": "designer",
+        "subtitle": "NCT 127",
+        "img": "https://najibibrahim.github.io/music-library/assets/nct/images/Designer.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/nct/mp3/Designer.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/nct/lyrics/Designer.json"
+    },
+    {
+        "title": "faster",
+        "subtitle": "NCT 127",
+        "img": "https://najibibrahim.github.io/music-library/assets/nct/images/Faster.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/nct/mp3/Faster.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/nct/lyrics/Faster.json"
+    },
+    {
+        "title": "favorite (vampire)",
         "subtitle": "NCT 127",
         "img": "https://najibibrahim.github.io/music-library/assets/nct/images/FavoriteVampire.png",
         "path": "https://najibibrahim.github.io/music-library/assets/nct/mp3/FavoriteVampire.mp3",
@@ -119,11 +147,25 @@
         "lyrics": "https://najibibrahim.github.io/music-library/assets/nct/lyrics/GoldenHour.json"
     },
     {
+        "title": "graduation",
+        "subtitle": "NCT DREAM",
+        "img": "https://najibibrahim.github.io/music-library/assets/nct/images/Graduation.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/nct/mp3/Graduation.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/nct/lyrics/Graduation.json"
+    },
+    {
         "title": "hot sauce",
         "subtitle": "NCT DREAM",
         "img": "https://najibibrahim.github.io/music-library/assets/nct/images/HotSauce.png",
         "path": "https://najibibrahim.github.io/music-library/assets/nct/mp3/HotSauce.mp3",
         "lyrics": "https://najibibrahim.github.io/music-library/assets/nct/lyrics/HotSauce.json"
+    },
+    {
+        "title": "irreplaceable",
+        "subtitle": "NCT DREAM",
+        "img": "https://najibibrahim.github.io/music-library/assets/nct/images/Irreplaceable.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/nct/mp3/Irreplaceable.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/nct/lyrics/Irreplaceable.json"
     },
     {
         "title": "istj",
@@ -140,11 +182,25 @@
         "lyrics": "https://najibibrahim.github.io/music-library/assets/nct/lyrics/KickIt.json"
     },
     {
+        "title": "kiss",
+        "subtitle": "NCT Dojaejung",
+        "img": "https://najibibrahim.github.io/music-library/assets/nct/images/Kiss.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/nct/mp3/Kiss.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/nct/lyrics/Kiss.json"
+    },
+    {
         "title": "make a wish ( birthday song )",
         "subtitle": "NCT U",
         "img": "https://najibibrahim.github.io/music-library/assets/nct/images/MakeAWishBirthdaySong.png",
         "path": "https://najibibrahim.github.io/music-library/assets/nct/mp3/MakeAWishBirthdaySong.mp3",
         "lyrics": "https://najibibrahim.github.io/music-library/assets/nct/lyrics/MakeAWishBirthdaySong.json"
+    },
+    {
+        "title": "moon",
+        "subtitle": "NCT DREAM",
+        "img": "https://najibibrahim.github.io/music-library/assets/nct/images/Moon.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/nct/mp3/Moon.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/nct/lyrics/Moon.json"
     },
     {
         "title": "perfume",
@@ -175,6 +231,13 @@
         "lyrics": "https://najibibrahim.github.io/music-library/assets/nct/lyrics/SimonSays.json"
     },
     {
+        "title": "time lapse",
+        "subtitle": "NCT 127",
+        "img": "https://najibibrahim.github.io/music-library/assets/nct/images/TimeLapse.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/nct/mp3/TimeLapse.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/nct/lyrics/TimeLapse.json"
+    },
+    {
         "title": "universe ( let's play ball )",
         "subtitle": "NCT U",
         "img": "https://najibibrahim.github.io/music-library/assets/nct/images/UniverseLetsPlayBall.png",
@@ -182,11 +245,25 @@
         "lyrics": "https://najibibrahim.github.io/music-library/assets/nct/lyrics/UniverseLetsPlayBall.json"
     },
     {
-        "title": "Wakey Wakey",
+        "title": "wakey wakey",
         "subtitle": "NCT 127",
         "img": "https://najibibrahim.github.io/music-library/assets/nct/images/WakeyWakey.png",
         "path": "https://najibibrahim.github.io/music-library/assets/nct/mp3/WakeyWakey.mp3",
         "lyrics": "https://najibibrahim.github.io/music-library/assets/nct/lyrics/WakeyWakey.json"
+    },
+    {
+        "title": "walk with you",
+        "subtitle": "NCT DREAM",
+        "img": "https://najibibrahim.github.io/music-library/assets/nct/images/WalkWithYou.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/nct/mp3/WalkWithYou.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/nct/lyrics/WalkWithYou.json"
+    },
+    {
+        "title": "walk you home",
+        "subtitle": "NCT DREAM",
+        "img": "https://najibibrahim.github.io/music-library/assets/nct/images/WalkYouHome.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/nct/mp3/WalkYouHome.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/nct/lyrics/WalkYouHome.json"
     },
     {
         "title": "We Go Up",
@@ -201,5 +278,12 @@
         "img": "https://najibibrahim.github.io/music-library/assets/nct/images/WeYoung.png",
         "path": "https://najibibrahim.github.io/music-library/assets/nct/mp3/WeYoung.mp3",
         "lyrics": "https://najibibrahim.github.io/music-library/assets/nct/lyrics/WeYoung.json"
+    },
+    {
+        "title": "yogurt shake",
+        "subtitle": "NCT DREAM",
+        "img": "https://najibibrahim.github.io/music-library/assets/nct/images/YogurtShake.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/nct/mp3/YogurtShake.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/nct/lyrics/YogurtShake.json"
     }
 ]
