@@ -28,6 +28,13 @@
         "lyrics": "https://najibibrahim.github.io/music-library/assets/nct/lyrics/Arcade.json"
     },
     {
+        "title": "anl",
+        "subtitle": "NCT DREAM",
+        "img": "https://najibibrahim.github.io/music-library/assets/nct/images/ANL.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/nct/mp3/ANL.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/nct/lyrics/ANL.json"
+    },
+    {
         "title": "Ay-Yo",
         "subtitle": "NCT 127",
         "img": "https://najibibrahim.github.io/music-library/assets/nct/images/AyYo.png",
@@ -54,6 +61,13 @@
         "img": "https://najibibrahim.github.io/music-library/assets/nct/images/Beautiful.png",
         "path": "https://najibibrahim.github.io/music-library/assets/nct/mp3/Beautiful.mp3",
         "lyrics": "https://najibibrahim.github.io/music-library/assets/nct/lyrics/Beautiful.json"
+    },
+    {
+        "title": "be there for you",
+        "subtitle": "NCT DREAM",
+        "img": "https://najibibrahim.github.io/music-library/assets/nct/images/BeThereForYou.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/nct/mp3/BeThereForYou.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/nct/lyrics/BeThereForYou.json"
     },
     {
         "title": "black on black",
@@ -98,6 +112,13 @@
         "lyrics": "https://najibibrahim.github.io/music-library/assets/nct/lyrics/BrokenMelodies.json"
     },
     {
+        "title": "bungee",
+        "subtitle": "NCT DREAM",
+        "img": "https://najibibrahim.github.io/music-library/assets/nct/images/Bungee.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/nct/mp3/Bungee.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/nct/lyrics/Bungee.json"
+    },
+    {
         "title": "candy",
         "subtitle": "NCT DREAM",
         "img": "https://najibibrahim.github.io/music-library/assets/nct/images/Candy.png",
@@ -126,11 +147,32 @@
         "lyrics": "https://najibibrahim.github.io/music-library/assets/nct/lyrics/ChewingGum.json"
     },
     {
+        "title": "countdown (3, 2, 1)",
+        "subtitle": "NCT DREAM",
+        "img": "https://najibibrahim.github.io/music-library/assets/nct/images/Countdown(3,2,1).png",
+        "path": "https://najibibrahim.github.io/music-library/assets/nct/mp3/Countdown(3,2,1).mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/nct/lyrics/Countdown(3,2,1).json"
+    },
+    {
         "title": "designer",
         "subtitle": "NCT 127",
         "img": "https://najibibrahim.github.io/music-library/assets/nct/images/Designer.png",
         "path": "https://najibibrahim.github.io/music-library/assets/nct/mp3/Designer.mp3",
         "lyrics": "https://najibibrahim.github.io/music-library/assets/nct/lyrics/Designer.json"
+    },
+    {
+        "title": "diggity",
+        "subtitle": "NCT DREAM",
+        "img": "https://najibibrahim.github.io/music-library/assets/nct/images/Diggity.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/nct/mp3/Diggity.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/nct/lyrics/Diggity.json"
+    },
+    {
+        "title": "dive into you",
+        "subtitle": "NCT DREAM",
+        "img": "https://najibibrahim.github.io/music-library/assets/nct/images/DiveIntoYou.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/nct/mp3/DiveIntoYou.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/nct/lyrics/DiveIntoYou.json"
     },
     {
         "title": "far",
@@ -180,6 +222,13 @@
         "img": "https://najibibrahim.github.io/music-library/assets/nct/images/Graduation.png",
         "path": "https://najibibrahim.github.io/music-library/assets/nct/mp3/Graduation.mp3",
         "lyrics": "https://najibibrahim.github.io/music-library/assets/nct/lyrics/Graduation.json"
+    },
+    {
+        "title": "hello future",
+        "subtitle": "NCT DREAM",
+        "img": "https://najibibrahim.github.io/music-library/assets/nct/images/HelloFuture.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/nct/mp3/HelloFuture.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/nct/lyrics/HelloFuture.json"
     },
     {
         "title": "hot sauce",
@@ -245,11 +294,25 @@
         "lyrics": "https://najibibrahim.github.io/music-library/assets/nct/lyrics/Moon.json"
     },
     {
+        "title": "my youth",
+        "subtitle": "NCT DREAM",
+        "img": "https://najibibrahim.github.io/music-library/assets/nct/images/MyYouth.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/nct/mp3/MyYouth.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/nct/lyrics/MyYouth.json"
+    },
+    {
         "title": "perfume",
         "subtitle": "NCT Dojaejung",
         "img": "https://najibibrahim.github.io/music-library/assets/nct/images/Perfume.png",
         "path": "https://najibibrahim.github.io/music-library/assets/nct/mp3/Perfume.mp3",
         "lyrics": "https://najibibrahim.github.io/music-library/assets/nct/lyrics/Perfume.json"
+    },
+    {
+        "title": "rainbow",
+        "subtitle": "NCT DREAM",
+        "img": "https://najibibrahim.github.io/music-library/assets/nct/images/Rainbow.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/nct/mp3/Rainbow.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/nct/lyrics/Rainbow.json"
     },
     {
         "title": "resonance",
@@ -264,6 +327,13 @@
         "img": "https://najibibrahim.github.io/music-library/assets/nct/images/RoadTrip.png",
         "path": "https://najibibrahim.github.io/music-library/assets/nct/mp3/RoadTrip.mp3",
         "lyrics": "https://najibibrahim.github.io/music-library/assets/nct/lyrics/RoadTrip.json"
+    },
+    {
+        "title": "rocket",
+        "subtitle": "NCT DREAM",
+        "img": "https://najibibrahim.github.io/music-library/assets/nct/images/Rocket.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/nct/mp3/Rocket.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/nct/lyrics/Rocket.json"
     },
     {
         "title": "shalala",
