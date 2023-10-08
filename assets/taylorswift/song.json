@@ -49,6 +49,13 @@
         "lyrics": "https://najibibrahim.github.io/music-library/assets/taylorswift/lyrics/Bejeweled.json"
     },
     {
+        "title": "betty",
+        "subtitle": "Taylor Swift",
+        "img": "https://najibibrahim.github.io/music-library/assets/taylorswift/images/Betty.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/taylorswift/mp3/Betty.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/taylorswift/lyrics/Betty.json"
+    },
+    {
         "title": "blank space",
         "subtitle": "Taylor Swift",
         "img": "https://najibibrahim.github.io/music-library/assets/taylorswift/images/BlankSpace.png",
@@ -152,6 +159,13 @@
         "img": "https://najibibrahim.github.io/music-library/assets/taylorswift/images/IKnowPlaces.png",
         "path": "https://najibibrahim.github.io/music-library/assets/taylorswift/mp3/IKnowPlaces.mp3",
         "lyrics": "https://najibibrahim.github.io/music-library/assets/taylorswift/lyrics/IKnowPlaces.json"
+    },
+    {
+        "title": "illicit affairs",
+        "subtitle": "Taylor Swift",
+        "img": "https://najibibrahim.github.io/music-library/assets/taylorswift/images/IllicitAffairs.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/taylorswift/mp3/IllicitAffairs.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/taylorswift/lyrics/IllicitAffairs.json"
     },
     {
         "title": "i think he knows",
