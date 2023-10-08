@@ -14,6 +14,20 @@
         "lyrics": "https://najibibrahim.github.io/music-library/assets/aespa/lyrics/Aenergy.json"
     },
     {
+        "title": "beautiful christmas",
+        "subtitle": "aespa x Red Velvet",
+        "img": "https://najibibrahim.github.io/music-library/assets/aespa/images/BeautifulChristmas.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/aespa/mp3/BeautifulChristmas.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/aespa/lyrics/BeautifulChristmas.json"
+    },
+    {
+        "title": "better things",
+        "subtitle": "aespa",
+        "img": "https://najibibrahim.github.io/music-library/assets/aespa/images/BetterThings.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/aespa/mp3/BetterThings.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/aespa/lyrics/BetterThings.json"
+    },
+    {
         "title": "black mamba",
         "subtitle": "aespa",
         "img": "https://najibibrahim.github.io/music-library/assets/aespa/images/BlackMamba.png",
@@ -40,6 +54,20 @@
         "img": "https://najibibrahim.github.io/music-library/assets/aespa/images/Girls.png",
         "path": "https://najibibrahim.github.io/music-library/assets/aespa/mp3/Girls.mp3",
         "lyrics": "https://najibibrahim.github.io/music-library/assets/aespa/lyrics/Girls.json"
+    },
+    {
+        "title": "hold on tight",
+        "subtitle": "aespa",
+        "img": "https://najibibrahim.github.io/music-library/assets/aespa/images/HoldOnTight.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/aespa/mp3/HoldOnTight.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/aespa/lyrics/HoldOnTight.json"
+    },
+    {
+        "title": "i'll make you cry",
+        "subtitle": "aespa",
+        "img": "https://najibibrahim.github.io/music-library/assets/aespa/images/I'llMakeYouCry.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/aespa/mp3/I'llMakeYouCry.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/aespa/lyrics/I'llMakeYouCry.json"
     },
     {
         "title": "iconic",
@@ -98,6 +126,13 @@
         "lyrics": "https://najibibrahim.github.io/music-library/assets/aespa/lyrics/NextLevel.json"
     },
     {
+        "title": "run",
+        "subtitle": "aespa Ningning",
+        "img": "https://najibibrahim.github.io/music-library/assets/aespa/images/Run.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/aespa/mp3/Run.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/aespa/lyrics/Run.json"
+    },
+    {
         "title": "salty & sweet",
         "subtitle": "aespa",
         "img": "https://najibibrahim.github.io/music-library/assets/aespa/images/Salty&Sweet.png",
@@ -119,11 +154,25 @@
         "lyrics": "https://najibibrahim.github.io/music-library/assets/aespa/lyrics/Spicy.json"
     },
     {
+        "title": "synk",
+        "subtitle": "aespa Giselle",
+        "img": "https://najibibrahim.github.io/music-library/assets/aespa/images/Synk.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/aespa/mp3/Synk.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/aespa/lyrics/Synk.json"
+    },
+    {
         "title": "thirsty",
         "subtitle": "aespa",
         "img": "https://najibibrahim.github.io/music-library/assets/aespa/images/Thirsty.png",
         "path": "https://najibibrahim.github.io/music-library/assets/aespa/mp3/Thirsty.mp3",
         "lyrics": "https://najibibrahim.github.io/music-library/assets/aespa/lyrics/Thirsty.json"
+    },
+    {
+        "title": "we go",
+        "subtitle": "aespa",
+        "img": "https://najibibrahim.github.io/music-library/assets/aespa/images/WeGo.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/aespa/mp3/WeGo.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/aespa/lyrics/WeGo.json"
     },
     {
         "title": "welcome to my world",
@@ -138,5 +187,12 @@
         "img": "https://najibibrahim.github.io/music-library/assets/aespa/images/YeppiYeppi.png",
         "path": "https://najibibrahim.github.io/music-library/assets/aespa/mp3/YeppiYeppi.mp3",
         "lyrics": "https://najibibrahim.github.io/music-library/assets/aespa/lyrics/YeppiYeppi.json"
+    },
+    {
+        "title": "zoom zoom",
+        "subtitle": "aespa",
+        "img": "https://najibibrahim.github.io/music-library/assets/aespa/images/ZoomZoom.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/aespa/mp3/ZoomZoom.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/aespa/lyrics/ZoomZoom.json"
     }
 ]
