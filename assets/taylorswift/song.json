@@ -224,6 +224,13 @@
         "lyrics": "https://najibibrahim.github.io/music-library/assets/taylorswift/lyrics/LoveStory.json"
     },
     {
+        "title": "mad woman",
+        "subtitle": "Taylor Swift",
+        "img": "https://najibibrahim.github.io/music-library/assets/taylorswift/images/MadWoman.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/taylorswift/mp3/MadWoman.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/taylorswift/lyrics/MadWoman.json"
+    },
+    {
         "title": "me",
         "subtitle": "Taylor Swift ft. Brendon Urie",
         "img": "https://najibibrahim.github.io/music-library/assets/taylorswift/images/Me.png",
@@ -273,6 +280,13 @@
         "lyrics": "https://najibibrahim.github.io/music-library/assets/taylorswift/lyrics/Red.json"
     },
     {
+        "title": "seven",
+        "subtitle": "Taylor Swift",
+        "img": "https://najibibrahim.github.io/music-library/assets/taylorswift/images/Seven.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/taylorswift/mp3/Seven.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/taylorswift/lyrics/Seven.json"
+    },
+    {
         "title": "shake it off",
         "subtitle": "Taylor Swift",
         "img": "https://najibibrahim.github.io/music-library/assets/taylorswift/images/ShakeItOff.png",
@@ -320,6 +334,13 @@
         "img": "https://najibibrahim.github.io/music-library/assets/taylorswift/images/TheWayILovedYou.png",
         "path": "https://najibibrahim.github.io/music-library/assets/taylorswift/mp3/TheWayILovedYou.mp3",
         "lyrics": "https://najibibrahim.github.io/music-library/assets/taylorswift/lyrics/TheWayILovedYou.json"
+    },
+    {
+        "title": "this is me trying",
+        "subtitle": "Taylor Swift",
+        "img": "https://najibibrahim.github.io/music-library/assets/taylorswift/images/ThisIsMeTrying.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/taylorswift/mp3/ThisIsMeTrying.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/taylorswift/lyrics/ThisIsMeTrying.json"
     },
     {
         "title": "this love",
