@@ -112,6 +112,13 @@
         "lyrics": "https://najibibrahim.github.io/music-library/assets/taylorswift/lyrics/GetawayCar.json"
     },
     {
+        "title": "gorgeous",
+        "subtitle": "Taylor Swift",
+        "img": "https://najibibrahim.github.io/music-library/assets/taylorswift/images/Gorgeous.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/taylorswift/mp3/Gorgeous.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/taylorswift/lyrics/Gorgeous.json"
+    },
+    {
         "title": "how you get the girl",
         "subtitle": "Taylor Swift",
         "img": "https://najibibrahim.github.io/music-library/assets/taylorswift/images/HowYouGetTheGirl.png",
