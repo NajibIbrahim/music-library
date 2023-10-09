@@ -1,5 +1,12 @@
 [
     {
+        "title": "aitai-tai",
+        "subtitle": "RED VELVET",
+        "img": "https://najibibrahim.github.io/music-library/assets/redvelvet/images/Aitai-tai.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/redvelvet/mp3/Aitai-tai.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/redvelvet/lyrics/Aitai-tai.json"
+    },
+    {
         "title": "bad boy",
         "subtitle": "RED VELVET",
         "img": "https://najibibrahim.github.io/music-library/assets/redvelvet/images/BadBoy.png",
@@ -21,11 +28,39 @@
         "lyrics": "https://najibibrahim.github.io/music-library/assets/redvelvet/lyrics/Birthday.json"
     },
     {
+        "title": "body talk",
+        "subtitle": "RED VELVET",
+        "img": "https://najibibrahim.github.io/music-library/assets/redvelvet/images/BodyTalk.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/redvelvet/mp3/BodyTalk.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/redvelvet/lyrics/BodyTalk.json"
+    },
+    {
+        "title": "bye bye",
+        "subtitle": "RED VELVET",
+        "img": "https://najibibrahim.github.io/music-library/assets/redvelvet/images/ByeBye.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/redvelvet/mp3/ByeBye.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/redvelvet/lyrics/ByeBye.json"
+    },
+    {
         "title": "cookie jar",
         "subtitle": "RED VELVET",
         "img": "https://najibibrahim.github.io/music-library/assets/redvelvet/images/CookieJar.png",
         "path": "https://najibibrahim.github.io/music-library/assets/redvelvet/mp3/CookieJar.mp3",
         "lyrics": "https://najibibrahim.github.io/music-library/assets/redvelvet/lyrics/CookieJar.json"
+    },
+    {
+        "title": "cool hot sweet love",
+        "subtitle": "RED VELVET",
+        "img": "https://najibibrahim.github.io/music-library/assets/redvelvet/images/CoolHotSweetLove.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/redvelvet/mp3/CoolHotSweetLove.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/redvelvet/lyrics/CoolHotSweetLove.json"
+    },
+    {
+        "title": "day 1",
+        "subtitle": "RED VELVET",
+        "img": "https://najibibrahim.github.io/music-library/assets/redvelvet/images/Day1.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/redvelvet/mp3/Day1.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/redvelvet/lyrics/Day1.json"
     },
     {
         "title": "dumb dumb",
@@ -63,11 +98,39 @@
         "lyrics": "https://najibibrahim.github.io/music-library/assets/redvelvet/lyrics/IceCreamCake.json"
     },
     {
+        "title": "lucky girl",
+        "subtitle": "RED VELVET",
+        "img": "https://najibibrahim.github.io/music-library/assets/redvelvet/images/LuckyGirl.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/redvelvet/mp3/LuckyGirl.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/redvelvet/lyrics/LuckyGirl.json"
+    },
+    {
+        "title": "milky way",
+        "subtitle": "RED VELVET",
+        "img": "https://najibibrahim.github.io/music-library/assets/redvelvet/images/MilkyWay.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/redvelvet/mp3/MilkyWay.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/redvelvet/lyrics/MilkyWay.json"
+    },
+    {
         "title": "monster",
-        "subtitle": "IRENE & SEULGI RED VELVET",
+        "subtitle": "IRENE & SEULGI",
         "img": "https://najibibrahim.github.io/music-library/assets/redvelvet/images/Monster.png",
         "path": "https://najibibrahim.github.io/music-library/assets/redvelvet/mp3/Monster.mp3",
         "lyrics": "https://najibibrahim.github.io/music-library/assets/redvelvet/lyrics/Monster.json"
+    },
+    {
+        "title": "naughty",
+        "subtitle": "IRENE & SEULGI",
+        "img": "https://najibibrahim.github.io/music-library/assets/redvelvet/images/Naughty.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/redvelvet/mp3/Naughty.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/redvelvet/lyrics/Naughty.json"
+    },
+    {
+        "title": "on a ride",
+        "subtitle": "RED VELVET",
+        "img": "https://najibibrahim.github.io/music-library/assets/redvelvet/images/OnARide.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/redvelvet/mp3/OnARide.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/redvelvet/lyrics/OnARide.json"
     },
     {
         "title": "peek-a-boo",
@@ -138,5 +201,12 @@
         "img": "https://najibibrahim.github.io/music-library/assets/redvelvet/images/Zimzalabim.png",
         "path": "https://najibibrahim.github.io/music-library/assets/redvelvet/mp3/Zimzalabim.mp3",
         "lyrics": "https://najibibrahim.github.io/music-library/assets/redvelvet/lyrics/Zimzalabim.json"
+    },
+    {
+        "title": "zoom",
+        "subtitle": "RED VELVET",
+        "img": "https://najibibrahim.github.io/music-library/assets/redvelvet/images/Zoom.png",
+        "path": "https://najibibrahim.github.io/music-library/assets/redvelvet/mp3/Zoom.mp3",
+        "lyrics": "https://najibibrahim.github.io/music-library/assets/redvelvet/lyrics/Zoom.json"
     }
 ]
