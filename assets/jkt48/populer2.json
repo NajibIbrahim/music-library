@@ -1,8 +1,16 @@
 [
   {
+    "title": "sayonara crawl",
+    "subtitle": "JKT48",
+    "cover": "https://najibibrahim.github.io/music-library/assets/jkt48/images/populer1.png",
+    "img": "https://najibibrahim.github.io/music-library/assets/jkt48/images/SayonaraCrawl.png",
+    "path": "https://najibibrahim.github.io/music-library/assets/jkt48/mp3/SayonaraCrawl.mp3",
+    "lyrics": "https://najibibrahim.github.io/music-library/assets/jkt48/lyrics/SayonaraCrawl.json"
+  },
+  {
     "title": "kebun binatang saat hujan",
     "subtitle": "ame no doubutsuen",
-    "cover": "https://najibibrahim.github.io/music-library/assets/jkt48/images/populer6.png",
+    "cover": "https://najibibrahim.github.io/music-library/assets/jkt48/images/populer2.png",
     "img": "https://najibibrahim.github.io/music-library/assets/jkt48/images/KebunBinatangSaatHujan.png",
     "path": "https://najibibrahim.github.io/music-library/assets/jkt48/mp3/KebunBinatangSaatHujan.mp3",
     "lyrics": "https://najibibrahim.github.io/music-library/assets/jkt48/lyrics/KebunBinatangSaatHujan.json"
@@ -10,7 +18,7 @@
   {
     "title": "ponytail dan shu-shu",
     "subtitle": "JKT48",
-    "cover": "https://najibibrahim.github.io/music-library/assets/jkt48/images/populer1.png",
+    "cover": "https://najibibrahim.github.io/music-library/assets/jkt48/images/populer3.png",
     "img": "https://najibibrahim.github.io/music-library/assets/jkt48/images/PonytaildanShu-Shu.png",
     "path": "https://najibibrahim.github.io/music-library/assets/jkt48/mp3/PonytaildanShu-Shu.mp3",
     "lyrics": "https://najibibrahim.github.io/music-library/assets/jkt48/lyrics/PonytaildanShu-Shu.json"
@@ -18,7 +26,7 @@
   {
     "title": "masa depan yang menyilaukan mata",
     "subtitle": "JKT48",
-    "cover": "https://najibibrahim.github.io/music-library/assets/jkt48/images/populer2.png",
+    "cover": "https://najibibrahim.github.io/music-library/assets/jkt48/images/populer4.png",
     "img": "https://najibibrahim.github.io/music-library/assets/jkt48/images/MasaDepanYangMenyilaukanMata.png",
     "path": "https://najibibrahim.github.io/music-library/assets/jkt48/mp3/MasaDepanYangMenyilaukanMata.mp3",
     "lyrics": "https://najibibrahim.github.io/music-library/assets/jkt48/lyrics/MasaDepanYangMenyilaukanMata.json"
@@ -26,7 +34,7 @@
   {
     "title": "benang sari, putik, dan kupu-kupu malam",
     "subtitle": "JKT48",
-    "cover": "https://najibibrahim.github.io/music-library/assets/jkt48/images/populer3.png",
+    "cover": "https://najibibrahim.github.io/music-library/assets/jkt48/images/populer5.png",
     "img": "https://najibibrahim.github.io/music-library/assets/jkt48/images/BenangSari,Putik,danKupu-KupuMalam.png",
     "path": "https://najibibrahim.github.io/music-library/assets/jkt48/mp3/BenangSari,Putik,danKupu-KupuMalam.mp3",
     "lyrics": "https://najibibrahim.github.io/music-library/assets/jkt48/lyrics/BenangSari,Putik,danKupu-KupuMalam.json"
@@ -34,17 +42,9 @@
   {
     "title": "flying high",
     "subtitle": "JKT48",
-    "cover": "https://najibibrahim.github.io/music-library/assets/jkt48/images/populer4.png",
+    "cover": "https://najibibrahim.github.io/music-library/assets/jkt48/images/populer6.png",
     "img": "https://najibibrahim.github.io/music-library/assets/jkt48/images/FlyingHigh.png",
     "path": "https://najibibrahim.github.io/music-library/assets/jkt48/mp3/FlyingHigh.mp3",
     "lyrics": "https://najibibrahim.github.io/music-library/assets/jkt48/lyrics/FlyingHigh.json"
-  },
-  {
-    "title": "eureka milik kita",
-    "subtitle": "Zee JKT48",
-    "cover": "https://najibibrahim.github.io/music-library/assets/jkt48/images/populer5.png",
-    "img": "https://najibibrahim.github.io/music-library/assets/jkt48/images/EurekaMilikKita.png",
-    "path": "https://najibibrahim.github.io/music-library/assets/jkt48/mp3/EurekaMilikKita.mp3",
-    "lyrics": "https://najibibrahim.github.io/music-library/assets/jkt48/lyrics/EurekaMilikKita.json"
   }
 ]

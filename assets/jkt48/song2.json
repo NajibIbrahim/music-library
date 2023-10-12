@@ -434,6 +434,13 @@
     "lyrics": "https://najibibrahim.github.io/music-library/assets/jkt48/lyrics/River.json"
   },
   {
+    "title": "sayonara crawl",
+    "subtitle": "jkt48",
+    "img": "https://najibibrahim.github.io/music-library/assets/jkt48/images/SayonaraCrawl.png",
+    "path": "https://najibibrahim.github.io/music-library/assets/jkt48/mp3/SayonaraCrawl.mp3",
+    "lyrics": "https://najibibrahim.github.io/music-library/assets/jkt48/lyrics/SayonaraCrawl.json"
+  },
+  {
     "title": "schoolyard puppy",
     "subtitle": "koutei no koinu",
     "img": "https://najibibrahim.github.io/music-library/assets/jkt48/images/SchoolyardPuppy.png",
