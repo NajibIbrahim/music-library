@@ -1,0 +1,42 @@
+[
+  {
+    "title": "gee",
+    "subtitle": "Girls' Generation",
+    "cover": "https://najibibrahim.github.io/music-library/assets/girls/images/populer1.png",
+    "img": "https://najibibrahim.github.io/music-library/assets/girls/images/Gee.png",
+    "path": "https://najibibrahim.github.io/music-library/assets/girls/mp3/Gee.mp3",
+    "lyrics": "https://najibibrahim.github.io/music-library/assets/girls/lyrics/Gee.json"
+  },
+  {
+    "title": "the boys",
+    "subtitle": "Girls' Generation",
+    "cover": "https://najibibrahim.github.io/music-library/assets/girls/images/populer2.png",
+    "img": "https://najibibrahim.github.io/music-library/assets/girls/images/TheBoys.png",
+    "path": "https://najibibrahim.github.io/music-library/assets/girls/mp3/TheBoys.mp3",
+    "lyrics": "https://najibibrahim.github.io/music-library/assets/girls/lyrics/TheBoys.json"
+  },
+  {
+    "title": "i got a boy",
+    "subtitle": "Girls' Generation",
+    "cover": "https://najibibrahim.github.io/music-library/assets/girls/images/populer3.png",
+    "img": "https://najibibrahim.github.io/music-library/assets/girls/images/IGotABoy.png",
+    "path": "https://najibibrahim.github.io/music-library/assets/girls/mp3/IGotABoy.mp3",
+    "lyrics": "https://najibibrahim.github.io/music-library/assets/girls/lyrics/IGotABoy.json"
+  },
+  {
+    "title": "oh!",
+    "subtitle": "Girls' Generation",
+    "cover": "https://najibibrahim.github.io/music-library/assets/girls/images/populer4.png",
+    "img": "https://najibibrahim.github.io/music-library/assets/girls/images/Oh!.png",
+    "path": "https://najibibrahim.github.io/music-library/assets/girls/mp3/Oh!.mp3",
+    "lyrics": "https://najibibrahim.github.io/music-library/assets/girls/lyrics/Oh!.json"
+  },
+  {
+    "title": "lion heart",
+    "subtitle": "Girls' Generation",
+    "cover": "https://najibibrahim.github.io/music-library/assets/girls/images/populer5.png",
+    "img": "https://najibibrahim.github.io/music-library/assets/girls/images/LionHeart.png",
+    "path": "https://najibibrahim.github.io/music-library/assets/girls/mp3/LionHeart.mp3",
+    "lyrics": "https://najibibrahim.github.io/music-library/assets/girls/lyrics/LionHeart.json"
+  }
+]
